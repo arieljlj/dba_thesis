@@ -1,0 +1,53 @@
+# ============================================================
+# .gitignore — dba_thesis
+# ============================================================
+
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+env/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Jupyter
+.jupyter/
+
+# Datos sensibles (nunca subir al repositorio)
+data/raw/encuestas_originales/
+data/raw/*_sin_anonimizar*
+*_datos_personales*
+*_confidencial*
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+~$*
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace

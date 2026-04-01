@@ -1,0 +1,165 @@
+{
+  "success": true,
+  "id": null,
+  "status": "completed",
+  "data": {
+    "interviews": [
+      {
+        "actorName": "Diana Marcela Morales",
+        "position": "Ministra de Comercio, Industria y Turismo",
+        "institution": "MinCIT",
+        "publicationMedium": "Mincit",
+        "date": "2026-03-16",
+        "url": "https://www.mincit.gov.co/prensa/noticias/industria/mincit-impulsa-a-5-900-mujeres-de-economia-popular",
+        "relevantFragment": "El MinCIT, a través de iNNpulsa Colombia y en alianza con el Centro Latinoamericano del Propósito (CLAP), abrió la convocatoria Innpulsa Mujeres."
+      },
+      {
+        "actorName": "Diana Marcela Morales",
+        "position": "Ministra de Comercio, Industria y Turismo",
+        "institution": "MinCIT",
+        "publicationMedium": "Mincit",
+        "date": "2026-03-03",
+        "url": "https://www.mincit.gov.co/prensa/noticias/industria/sostenibilidad-para-la-cadena-de-valor-del-turismo",
+        "relevantFragment": "El MinCIT, a través de Fontur e iNNpulsa Colombia, lanzó el programa ‘Sostenibilidad para la cadena de valor del turismo’."
+      },
+      {
+        "actorName": "Diana Marcela Morales",
+        "position": "Ministra de Comercio, Industria y Turismo",
+        "institution": "MinCIT",
+        "publicationMedium": "Mincit",
+        "date": "2026-02-20",
+        "url": "https://www.mincit.gov.co/prensa/noticias/industria/la-feria-conecta-popular-llega-a-quibdo-choco-2026",
+        "relevantFragment": "Durante los días 20 y 21 de febrero, micro y pequeñas empresas y unidades productivas del Pacífico colombiano se reúnen en el Malecón Jairo Varela de Quibdó."
+      },
+      {
+        "actorName": "Diana Marcela Morales",
+        "position": "Ministra de Comercio, Industria y Turismo",
+        "institution": "MinCIT",
+        "publicationMedium": "Mincit",
+        "date": "2026-02-16",
+        "url": "https://www.mincit.gov.co/prensa/noticias/industria/comercio-al-por-menor-ayudo-impulsar-economia-2025",
+        "relevantFragment": "La ministra de Comercio, Industria y Turismo, Diana Marcela Morales, destacó que el resultado de 2025, es una señal de que el Gobierno del Cambio avanza en su objetivo de transitar a una economía inclusiva."
+      },
+      {
+        "actorName": "Diana Marcela Morales",
+        "position": "Ministra de Comercio, Industria y Turismo",
+        "institution": "MinCIT",
+        "publicationMedium": "Mincit",
+        "date": "2026-01-29",
+        "url": "https://www.mincit.gov.co/prensa/noticias/industria/medidas-en-beneficio-industria-textil-confecciones",
+        "relevantFragment": "La ministra de Comercio, Industria y Turismo, Diana Marcela Morales, ha señalado que esta industria es motor de la economía colombiana."
+      },
+      {
+        "actorName": "Diana Marcela Morales",
+        "position": "Ministra de Comercio, Industria y Turismo",
+        "institution": "MinCIT",
+        "publicationMedium": "Mincit",
+        "date": "2026-01-22",
+        "url": "https://www.mincit.gov.co/prensa/noticias/industria/gobierno-inaugura-zona-franca-rionegro-2026",
+        "relevantFragment": "La Zona Franca Permanente Especial de Servicios Rionegro consolida una inversión superior a $46.500 millones."
+      },
+      {
+        "actorName": "Diana Marcela Morales",
+        "position": "Ministra de Comercio, Industria y Turismo",
+        "institution": "MinCIT",
+        "publicationMedium": "Mincit",
+        "date": "2026-01-17",
+        "url": "https://www.mincit.gov.co/prensa/noticias/industria/gobierno-fortalece-la-economia-2025",
+        "relevantFragment": "Este avance ha sido acompañado por una acción decidida del Ministerio de Comercio, Industria y Turismo."
+      },
+      {
+        "actorName": "Diana Marcela Morales",
+        "position": "Ministra de Comercio, Industria y Turismo",
+        "institution": "MinCIT",
+        "publicationMedium": "Mincit",
+        "date": "2025-12-30",
+        "url": "https://www.mincit.gov.co/prensa/noticias/industria/a-pulso-nueva-linea-de-credito-economia-popular",
+        "relevantFragment": "El Gobierno del Cambio busca ampliar el acceso a instrumentos financieros para micronegocios y unidades productivas."
+      },
+      {
+        "actorName": "Edwin Tarapuez Chamorro",
+        "position": "Author",
+        "institution": "Estudios Gerenciales",
+        "publicationMedium": "SciELO",
+        "date": "2013-09-01",
+        "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-59232013000300002&lang=pt",
+        "relevantFragment": "El artículo pretende determinar, bajo el enfoque de políticas públicas, los principales factores que condujeron a la generación de una política de emprendimiento en Colombia en el período 2002-2010."
+      },
+      {
+        "actorName": "Omar Rodríguez",
+        "position": "Author",
+        "institution": "Cuadernos de Economía",
+        "publicationMedium": "SciELO",
+        "date": "2015-12-01",
+        "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-47722015000300006&lang=pt",
+        "relevantFragment": "Este artículo presenta una revisión del avance en el estudio de emprendimiento, contextualizado a través de las diferentes fases de la historia empresarial colombiana."
+      },
+      {
+        "actorName": "Ana Patricia Timarán Rivera",
+        "position": "Author",
+        "institution": "Tendencias",
+        "publicationMedium": "SciELO",
+        "date": "2022-07-01",
+        "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0124-86932022000200220&lang=pt",
+        "relevantFragment": "El artículo corresponde a la revisión documental realizada para la creación de una estrategia que oriente los proyectos académicos de base cultural."
+      },
+      {
+        "actorName": "Olga Lucía Mazo-Mejía",
+        "position": "Author",
+        "institution": "Prospectiva",
+        "publicationMedium": "SciELO",
+        "date": "2022-12-01",
+        "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0122-12132022000200177&lang=pt",
+        "relevantFragment": "El objetivo de esta investigación fue entender los modos de liderazgo cultural de los grupos artísticos."
+      },
+      {
+        "actorName": "Claudia Liliana Ramos Quintero",
+        "position": "Author",
+        "institution": "El Ágora U.S.B.",
+        "publicationMedium": "SciELO",
+        "date": "2024-06-01",
+        "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1657-80312024000100167&lang=pt",
+        "relevantFragment": "La integración laboral de migrantes en el mercado laboral colombiano se ha convertido en un reto importante dentro de las políticas gubernamentales."
+      },
+      {
+        "actorName": "Andrea Carolina Jaramillo Contreras",
+        "position": "Author",
+        "institution": "Revista Colombiana de Sociología",
+        "publicationMedium": "SciELO",
+        "date": "2023-12-01",
+        "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-159X2023000200207&lang=pt",
+        "relevantFragment": "En este artículo analizo el proceso de reincorporación colectiva de FARC-EP ex-miembros desde la perspectiva de mundos sociales."
+      },
+      {
+        "actorName": "Elizabeth Ruano-Ibarra",
+        "position": "Author",
+        "institution": "Interações (Campo Grande)",
+        "publicationMedium": "SciELO",
+        "date": "2023-04-01",
+        "url": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1518-70122023000200537&lang=pt",
+        "relevantFragment": "Este trabajo analiza el contexto de la implementación de la Cátedra de Emprendimiento en instituciones educativas."
+      }
+    ],
+    "keyActors": [
+      "Ministra/Ministro de MinCIT",
+      "Gerente General de iNNpulsa Colombia",
+      "Director General del SENA",
+      "Directores de Unidades de Emprendimiento universitarias en Colombia",
+      "Líderes de Confecámaras y cámaras de comercio regionales",
+      "Investigadores académicos expertos en emprendimiento colombiano",
+      "Ministra/Ministro de MinCIT (Ministerio de Comercio, Industria y Turismo)"
+    ],
+    "topicsOfInterest": [
+      "Intención emprendedora y factores que la impulsan o frenan",
+      "Políticas públicas de fomento al emprendimiento (Ley 1014, Fondo Emprender, ALDEA)",
+      "Ecosistema emprendedor colombiano y contexto macroeconómico",
+      "Emprendimiento juvenil, femenino y en regiones"
+    ]
+  },
+  "error": null,
+  "warning": null,
+  "sources": null,
+  "expires_at": "2026-04-01T09:19:21+00:00",
+  "credits_used": 137,
+  "tokens_used": 2051
+}

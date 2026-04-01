@@ -1,0 +1,4024 @@
+{
+  "metadata": {
+    "fuente": "Apify / YouTube Scraper + Enriquecimiento por pattern-matching",
+    "actor_apify": "streamers/youtube-scraper",
+    "enriquecimiento": "pattern-matching de actores colombianos conocidos",
+    "capturado_en": "2026-04-01T11:31:23.136706Z",
+    "enriquecido_en": "2026-04-01T11:46:41.253767Z",
+    "total_videos": 175,
+    "con_actor_identificado": 27,
+    "alta_relevancia": 41,
+    "media_relevancia": 38,
+    "baja_relevancia": 96,
+    "terminos_busqueda": [
+      "entrevista MinCIT emprendimiento Colombia",
+      "Ministerio de Comercio emprendimiento política pública Colombia",
+      "iNNpulsa Colombia entrevista director",
+      "SENA emprendimiento Fondo Emprender entrevista director",
+      "Confecámaras emprendimiento Colombia entrevista",
+      "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "ecosistema emprendedor Colombia política pública entrevista",
+      "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "emprendimiento juvenil Colombia política pública entrevista",
+      "emprendimiento femenino Colombia política entrevista",
+      "emprendimiento regional Colombia cámara de comercio entrevista",
+      "emprendimiento Colombia 2022 2023 2024 entrevista actores"
+    ]
+  },
+  "videos": [
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Universidad de los Andes",
+      "fecha_publicacion": "2017-04-17T22:39:59.000Z",
+      "url_video": "https://www.youtube.com/watch?v=LtsBg_CFEO0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Emprendedores en crecimiento\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Emprendedores en crecimiento",
+      "canal": "Universidad de los Andes",
+      "descripcion": null,
+      "duracion": "00:01:48",
+      "vistas": 542,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:29.943282Z",
+      "_video_id": "LtsBg_CFEO0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2022-01-25T15:32:43.000Z",
+      "url_video": "https://www.youtube.com/watch?v=4o2KW4zovhw",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"#MincomercioCumple | 10 Logros en Comercio Exterior\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "#MincomercioCumple | 10 Logros en Comercio Exterior",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:01:27",
+      "vistas": 346,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:30.245781Z",
+      "_video_id": "4o2KW4zovhw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2017-07-25T15:53:09.000Z",
+      "url_video": "https://www.youtube.com/watch?v=_GfTos-kvKA",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Caso de éxito Formaggio di Lucca\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Caso de éxito Formaggio di Lucca",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:01:45",
+      "vistas": 79,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:30.550952Z",
+      "_video_id": "_GfTos-kvKA"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2023-09-26T20:18:08.000Z",
+      "url_video": "https://www.youtube.com/watch?v=J8tK8rPDH1s",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Video semana 18 al 22 de septiembre\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Video semana 18 al 22 de septiembre",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:02:06",
+      "vistas": 153,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:30.854886Z",
+      "_video_id": "J8tK8rPDH1s"
+    },
+    {
+      "nombre_actor": "José Manuel Restrepo",
+      "cargo_actor": "Ministro de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2018-09-07T00:45:16.000Z",
+      "url_video": "https://www.youtube.com/watch?v=I_8nnwNiD4w",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] José Manuel Restrepo, Ministro de Comercio, Industria y Turismo de MinCIT: Título del video: \"Al Punto con el ministro de Comercio, Industria y Turismo, José Manuel Restrepo\"",
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Al Punto con el ministro de Comercio, Industria y Turismo, José Manuel Restrepo",
+      "canal": "Canal REDMÁSTV",
+      "descripcion": null,
+      "duracion": "00:14:41",
+      "vistas": 824,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:31.157906Z",
+      "_video_id": "I_8nnwNiD4w"
+    },
+    {
+      "nombre_actor": "Lacouture",
+      "cargo_actor": "Ministra de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2017-07-06T16:01:44.000Z",
+      "url_video": "https://www.youtube.com/watch?v=tGOsMCvmUBA",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Lacouture, Ministra de Comercio, Industria y Turismo de MinCIT: Título del video: \"Ministra Lacouture en rueda de prensa por la competitividad de textiles y confecciones\"",
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Ministra Lacouture en rueda de prensa por la competitividad de textiles y confecciones",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:17:20",
+      "vistas": 129,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:31.460463Z",
+      "_video_id": "tGOsMCvmUBA"
+    },
+    {
+      "nombre_actor": "Lacouture",
+      "cargo_actor": "Ministra de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2017-03-27T22:52:05.000Z",
+      "url_video": "https://www.youtube.com/watch?v=QXE5LvFjflw",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Lacouture, Ministra de Comercio, Industria y Turismo de MinCIT: Título del video: \"Ministra Lacouture en el Lanzamiento del Libro \"Emprendedores en Crecimiento\" de INNpulsa\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Ministra Lacouture en el Lanzamiento del Libro \"Emprendedores en Crecimiento\" de INNpulsa",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:17:34",
+      "vistas": 60,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:31.765652Z",
+      "_video_id": "QXE5LvFjflw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Presidencia de la República de Colombia",
+      "fecha_publicacion": "2023-03-08T18:05:38.000Z",
+      "url_video": "https://www.youtube.com/watch?v=chTGyGE2FeQ",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Inicia Programa “Mujeres Tenderas”: alianza que busca posicionarlas en las regiones: MinComercio\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Inicia Programa “Mujeres Tenderas”: alianza que busca posicionarlas en las regiones: MinComercio",
+      "canal": "Presidencia de la República - Colombia",
+      "descripcion": null,
+      "duracion": "00:20:24",
+      "vistas": 1286,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:32.072249Z",
+      "_video_id": "chTGyGE2FeQ"
+    },
+    {
+      "nombre_actor": "José Manuel Restrepo",
+      "cargo_actor": "Ministro de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2020-02-03T17:19:39.000Z",
+      "url_video": "https://www.youtube.com/watch?v=CYX2V1RJRC4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] José Manuel Restrepo, Ministro de Comercio, Industria y Turismo de MinCIT: Título del video: \"¿Cómo mejorar la productividad y competitividad? Entrevista con el ministro José Manuel Restrepo\"",
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "¿Cómo mejorar la productividad y competitividad? Entrevista con el ministro José Manuel Restrepo",
+      "canal": "Erika Fontalvo - Oficial",
+      "descripcion": null,
+      "duracion": "00:43:19",
+      "vistas": 54,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:32.374942Z",
+      "_video_id": "CYX2V1RJRC4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Corporación Universitaria Minuto de Dios",
+      "fecha_publicacion": "2016-11-21T22:30:13.000Z",
+      "url_video": "https://www.youtube.com/watch?v=bWgnQOj-8jg",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Ministerio de Comercio en UNIMINUTO - \"Emprendimiento en Colombia\"\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Ministerio de Comercio en UNIMINUTO - \"Emprendimiento en Colombia\"",
+      "canal": "UNIMINUTO Bogotá",
+      "descripcion": null,
+      "duracion": "00:01:11",
+      "vistas": 103,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:32.679378Z",
+      "_video_id": "bWgnQOj-8jg"
+    },
+    {
+      "nombre_actor": "José Manuel Restrepo",
+      "cargo_actor": "Ministro de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2019-05-16T20:07:58.000Z",
+      "url_video": "https://www.youtube.com/watch?v=hQbGYI699L8",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] José Manuel Restrepo, Ministro de Comercio, Industria y Turismo de MinCIT: Título del video: \"INSIDE LR José Manuel Restrepo Ministro de Comercio, Industria y Turismo\"",
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "INSIDE LR José Manuel Restrepo Ministro de Comercio, Industria y Turismo",
+      "canal": "Diario La República",
+      "descripcion": null,
+      "duracion": "00:54:02",
+      "vistas": 1079,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:32.980507Z",
+      "_video_id": "hQbGYI699L8"
+    },
+    {
+      "nombre_actor": "José Manuel Restrepo",
+      "cargo_actor": "Ministro de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2019-09-03T16:45:14.000Z",
+      "url_video": "https://www.youtube.com/watch?v=x8oRhRltk7s",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] José Manuel Restrepo, Ministro de Comercio, Industria y Turismo de MinCIT: Título del video: \"José Manuel Restrepo, MinComercio, en \"Diálogo con los Ministros\"\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "José Manuel Restrepo, MinComercio, en \"Diálogo con los Ministros\"",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:59:45",
+      "vistas": 212,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:33.281244Z",
+      "_video_id": "x8oRhRltk7s"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2014-11-03T00:49:27.000Z",
+      "url_video": "https://www.youtube.com/watch?v=W2ayaFwu35s",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Colombia está #CadaDíaMejor - Crecimiento industrial e ideas de negocio rentables y sustentables",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:00:30",
+      "vistas": 287,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:33.584357Z",
+      "_video_id": "W2ayaFwu35s"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2013-10-09T15:12:13.000Z",
+      "url_video": "https://www.youtube.com/watch?v=JvbVhpPq8r4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Testimonios de Empresarios - Axel Moricz de Tecso\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Testimonios de Empresarios - Axel Moricz de Tecso",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:00:36",
+      "vistas": 447,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:33.889519Z",
+      "_video_id": "JvbVhpPq8r4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2022-07-12T19:17:24.000Z",
+      "url_video": "https://www.youtube.com/watch?v=85ijEvaimN8",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Logros Ministerio de Comercio, Industria y Turismo #EsTiempoDeCreer",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:01:42",
+      "vistas": 1053,
+      "likes": null,
+      "_query_origen": "entrevista MinCIT emprendimiento Colombia",
+      "_capturado_en": "2026-04-01T11:30:34.190127Z",
+      "_video_id": "85ijEvaimN8"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Corporación Universitaria Minuto de Dios",
+      "fecha_publicacion": "2016-11-21T22:51:27.000Z",
+      "url_video": "https://www.youtube.com/watch?v=XKFju5J28Fo",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Avances de la la Ley de Emprendimiento en Colombia.\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Avances de la la Ley de Emprendimiento en Colombia.",
+      "canal": "UNIMINUTO Bogotá",
+      "descripcion": null,
+      "duracion": "00:01:37",
+      "vistas": 783,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:34.495031Z",
+      "_video_id": "XKFju5J28Fo"
+    },
+    {
+      "nombre_actor": "María Ximena Lombana",
+      "cargo_actor": "Ministra de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2021-09-24T15:58:31.000Z",
+      "url_video": "https://www.youtube.com/watch?v=vTgwH-4w4fM",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] María Ximena Lombana, Ministra de Comercio, Industria y Turismo de MinCIT: Título del video: \"María Ximena Lombana, ministra de Comercio, Industria y Turismo te invita a conoce la VUE\"",
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "María Ximena Lombana, ministra de Comercio, Industria y Turismo te invita a conoce la VUE",
+      "canal": "Cámara de Comercio Oriente Antioqueño",
+      "descripcion": null,
+      "duracion": "00:01:42",
+      "vistas": 114,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:34.796146Z",
+      "_video_id": "vTgwH-4w4fM"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2013-07-31T20:47:30.000Z",
+      "url_video": "https://www.youtube.com/watch?v=nDDavtNpOK0",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Competitividad, Economía popular"
+      ],
+      "temas_abordados": [
+        "Competitividad",
+        "Economía popular"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "El ministerio de Industria y Comercio presento decreto reglamentario de Ley de MIPYMES",
+      "canal": "SINDULFO BARRIOS",
+      "descripcion": null,
+      "duracion": "00:03:41",
+      "vistas": 99,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:35.101292Z",
+      "_video_id": "nDDavtNpOK0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2025-11-21T20:45:06.000Z",
+      "url_video": "https://www.youtube.com/watch?v=V2DreqI5WnQ",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Economía popular"
+      ],
+      "temas_abordados": [
+        "Economía popular"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Impulsamos la Economía Popular para fortalecer el desarrollo del país",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:02:45",
+      "vistas": 131,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:35.403354Z",
+      "_video_id": "V2DreqI5WnQ"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2019-12-12T15:23:31.000Z",
+      "url_video": "https://www.youtube.com/watch?v=WRgHbZaE8CY",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Rendición de Cuentas 2019 - Viceministerio de Desarrollo Empresarial\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Rendición de Cuentas 2019 - Viceministerio de Desarrollo Empresarial",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:04:24",
+      "vistas": 78,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:35.708011Z",
+      "_video_id": "WRgHbZaE8CY"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2022-07-15T14:00:11.000Z",
+      "url_video": "https://www.youtube.com/watch?v=PshDGBoAQDg",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Innpulsa Colombia y Fondo Plan Mayor: Intervención ministra de Comercio, Industria y Turismo",
+      "canal": "Saldarriaga Concha",
+      "descripcion": null,
+      "duracion": "00:01:48",
+      "vistas": 79,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:36.013154Z",
+      "_video_id": "PshDGBoAQDg"
+    },
+    {
+      "nombre_actor": "Lacouture",
+      "cargo_actor": "Ministra de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2016-11-11T19:29:29.000Z",
+      "url_video": "https://www.youtube.com/watch?v=WBfz-qUV4q0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Lacouture, Ministra de Comercio, Industria y Turismo de MinCIT: Título del video: \"Exposición de la Ministra Lacouture en presentación de Informe del Consejo Privado de Competitividad\"",
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Exposición de la Ministra Lacouture en presentación de Informe del Consejo Privado de Competitividad",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:29:44",
+      "vistas": 326,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:36.318360Z",
+      "_video_id": "WBfz-qUV4q0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2023-07-26T23:06:43.000Z",
+      "url_video": "https://www.youtube.com/watch?v=qndANnTxb-U",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Intervención Ministro de Comercio, Industria y Turismo",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "01:12:05",
+      "vistas": 424,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:36.621546Z",
+      "_video_id": "qndANnTxb-U"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-10-22T19:35:15.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Iep-zOwfuO0",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "VIDEO MINISTERIO DE COMERCIO INDUSTRIA Y TURISMO",
+      "canal": "Daniela",
+      "descripcion": null,
+      "duracion": "00:05:12",
+      "vistas": 248,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:36.926712Z",
+      "_video_id": "Iep-zOwfuO0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2019-05-21T13:44:52.000Z",
+      "url_video": "https://www.youtube.com/watch?v=k-51DwzaqXA",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"El ministro de comercio: líder del emprendimiento\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "El ministro de comercio: líder del emprendimiento",
+      "canal": "Kienyke",
+      "descripcion": null,
+      "duracion": "00:21:09",
+      "vistas": 199,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:37.230678Z",
+      "_video_id": "k-51DwzaqXA"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2013-10-30T07:52:07.000Z",
+      "url_video": "https://www.youtube.com/watch?v=ZhwutC0EzxA",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Foro de Competitividad - BID",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:12:01",
+      "vistas": 160,
+      "likes": null,
+      "_query_origen": "Ministerio de Comercio emprendimiento política pública Colombia",
+      "_capturado_en": "2026-04-01T11:30:37.535108Z",
+      "_video_id": "ZhwutC0EzxA"
+    },
+    {
+      "nombre_actor": "Daniel Quintero",
+      "cargo_actor": "Gerente General",
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2016-03-04T15:45:37.000Z",
+      "url_video": "https://www.youtube.com/watch?v=5nL77YdIdjI",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Daniel Quintero, Gerente General de iNNpulsa Colombia: Título del video: \"Daniel Quintero, Gerente general Innpulsa invita a descubrir una nueva visión del emprendimiento\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Daniel Quintero, Gerente general Innpulsa invita a descubrir una nueva visión del emprendimiento",
+      "canal": "ACI Medellín",
+      "descripcion": null,
+      "duracion": "00:01:04",
+      "vistas": 127,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:37.839559Z",
+      "_video_id": "5nL77YdIdjI"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2012-04-13T21:22:21.000Z",
+      "url_video": "https://www.youtube.com/watch?v=JSqsARUkmso",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"iNNpulsa Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "iNNpulsa Colombia",
+      "canal": "Bancoldex",
+      "descripcion": null,
+      "duracion": "00:01:19",
+      "vistas": 287,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:38.144722Z",
+      "_video_id": "JSqsARUkmso"
+    },
+    {
+      "nombre_actor": "Juan C. Garavito",
+      "cargo_actor": "Gerente de iNNpulsa Colombia",
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2018-01-15T19:24:15.000Z",
+      "url_video": "https://www.youtube.com/watch?v=rgbtfA1yQUQ",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Juan C. Garavito, Gerente de iNNpulsa Colombia de iNNpulsa Colombia: Título del video: \"Visión del liderazgo de Juan C. Garavito, gerente de Innpulsa Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Visión del liderazgo de Juan C. Garavito, gerente de Innpulsa Colombia",
+      "canal": "CESA",
+      "descripcion": null,
+      "duracion": "00:05:34",
+      "vistas": 413,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:38.445558Z",
+      "_video_id": "rgbtfA1yQUQ"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2025-04-29T19:51:21.000Z",
+      "url_video": "https://www.youtube.com/watch?v=C0aBmrJkmIw",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Claves legales para emprender - Con Fabio Rojas Conde | Mentes Que Emprenden Podcast\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Claves legales para emprender - Con Fabio Rojas Conde | Mentes Que Emprenden Podcast",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:30:51",
+      "vistas": 607,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:38.751114Z",
+      "_video_id": "C0aBmrJkmIw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2022-04-06T22:37:17.000Z",
+      "url_video": "https://www.youtube.com/watch?v=8ZWF9AbPMxM",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Testimonio Cuadrilla Espacio - Cierre Programa Aldea Bogotá (INNpulsa Colombia)",
+      "canal": "Cultura En Bogotá",
+      "descripcion": null,
+      "duracion": "00:02:31",
+      "vistas": 303,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:39.056316Z",
+      "_video_id": "8ZWF9AbPMxM"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2014-06-17T14:05:54.000Z",
+      "url_video": "https://www.youtube.com/watch?v=XGQ0KZKpec8",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Innovación"
+      ],
+      "temas_abordados": [
+        "Innovación"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "David Simoes Brown habla de innovación abierta",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:03:04",
+      "vistas": 95,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:39.361453Z",
+      "_video_id": "XGQ0KZKpec8"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2016-05-10T21:58:13.000Z",
+      "url_video": "https://www.youtube.com/watch?v=-44MrWZ1B7Y",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Qué es Innpulsa y cómo funciona - [Negocios en Tm] ®\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Qué es Innpulsa y cómo funciona - [Negocios en Tm] ®",
+      "canal": "Negocios En Tu Mundo",
+      "descripcion": null,
+      "duracion": "00:06:51",
+      "vistas": 8150,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:39.666604Z",
+      "_video_id": "-44MrWZ1B7Y"
+    },
+    {
+      "nombre_actor": "Francisco Noguera",
+      "cargo_actor": "Presidente",
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2021-10-21T20:42:58.000Z",
+      "url_video": "https://www.youtube.com/watch?v=KAR0-DA1EYs",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Francisco Noguera, Presidente de iNNpulsa Colombia: Título del video: \"Entrevista Dr. Francisco Noguera – Presidente Innpulsa Colombia - Cidti 4.0 Ep 85 Octubre 20 2021\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entrevista Dr. Francisco Noguera – Presidente Innpulsa Colombia - Cidti 4.0 Ep 85 Octubre 20 2021",
+      "canal": "CIDTI40",
+      "descripcion": null,
+      "duracion": "00:04:52",
+      "vistas": 62,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:39.968624Z",
+      "_video_id": "KAR0-DA1EYs"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2018-10-24T22:03:46.000Z",
+      "url_video": "https://www.youtube.com/watch?v=qGB1w3u88DM",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"iNNpulsa Colombia | Hacer empresa es una aventura\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "iNNpulsa Colombia | Hacer empresa es una aventura",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:01:12",
+      "vistas": 4389,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:40.273756Z",
+      "_video_id": "qGB1w3u88DM"
+    },
+    {
+      "nombre_actor": "Daniel Quintero",
+      "cargo_actor": "Gerente General",
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2016-06-17T22:20:29.000Z",
+      "url_video": "https://www.youtube.com/watch?v=g4famUOK5dI",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Daniel Quintero, Gerente General de iNNpulsa Colombia: Título del video: \"Visión de futuro por Daniel Quintero, gerente general de INNPULSA Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Visión de futuro por Daniel Quintero, gerente general de INNPULSA Colombia",
+      "canal": "Young Marketing",
+      "descripcion": null,
+      "duracion": "00:05:49",
+      "vistas": 1921,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:40.578204Z",
+      "_video_id": "g4famUOK5dI"
+    },
+    {
+      "nombre_actor": "Hernán Ceballos",
+      "cargo_actor": "Gerente General",
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2023-08-18T20:29:43.000Z",
+      "url_video": "https://www.youtube.com/watch?v=EwrNnxCGjOU",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Hernán Ceballos, Gerente General de iNNpulsa Colombia: Título del video: \"Entre-Vistas con Alma de País hoy: Hernán Ceballos Gacharná, Gerente General de INNPULSA Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entre-Vistas con Alma de País hoy: Hernán Ceballos Gacharná, Gerente General de INNPULSA Colombia",
+      "canal": "Presidencia de la República - Colombia",
+      "descripcion": null,
+      "duracion": "00:30:29",
+      "vistas": 1282,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:40.880836Z",
+      "_video_id": "EwrNnxCGjOU"
+    },
+    {
+      "nombre_actor": "Daniel Quintero",
+      "cargo_actor": "Gerente General",
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2016-07-06T13:41:10.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Cu7kvLEvt3k",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Daniel Quintero, Gerente General de iNNpulsa Colombia: Título del video: \"EMPRENDE CONMIGO. Gina de Echeona, entrevista a Daniel Quintero Calle CEO INNpulsa Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "EMPRENDE CONMIGO. Gina de Echeona, entrevista a Daniel Quintero Calle CEO INNpulsa Colombia",
+      "canal": "GINA DE ECHEONA: Invest and Lead with Purpose ",
+      "descripcion": null,
+      "duracion": "00:03:00",
+      "vistas": 203,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:41.182129Z",
+      "_video_id": "Cu7kvLEvt3k"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2020-05-19T23:32:26.000Z",
+      "url_video": "https://www.youtube.com/watch?v=0jep4gPOTT8",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¿Cuáles son los pasos para recibir los beneficios de INNPULSA Colombia?\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "¿Cuáles son los pasos para recibir los beneficios de INNPULSA Colombia?",
+      "canal": "Carlos Grosso",
+      "descripcion": null,
+      "duracion": "00:26:04",
+      "vistas": 2126,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:41.485355Z",
+      "_video_id": "0jep4gPOTT8"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2021-07-27T11:49:48.000Z",
+      "url_video": "https://www.youtube.com/watch?v=KhXtxZlN5aE",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Anindya Saha, Director EAE Invierte  | EAE Business School & Innpulsa Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Anindya Saha, Director EAE Invierte  | EAE Business School & Innpulsa Colombia",
+      "canal": "EAE Business School",
+      "descripcion": null,
+      "duracion": "00:00:44",
+      "vistas": 83,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:41.790515Z",
+      "_video_id": "KhXtxZlN5aE"
+    },
+    {
+      "nombre_actor": "Catalina Ortiz",
+      "cargo_actor": "CEO",
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2012-02-11T00:40:06.000Z",
+      "url_video": "https://www.youtube.com/watch?v=9EXOpG28ZNk",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Catalina Ortiz, CEO de iNNpulsa Colombia: Título del video: \"Entrevista Catalina Ortiz CEO iNNpulsa Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entrevista Catalina Ortiz CEO iNNpulsa Colombia",
+      "canal": "Alan Colmenares",
+      "descripcion": null,
+      "duracion": "00:02:00",
+      "vistas": 1548,
+      "likes": null,
+      "_query_origen": "iNNpulsa Colombia entrevista director",
+      "_capturado_en": "2026-04-01T11:30:42.095267Z",
+      "_video_id": "9EXOpG28ZNk"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2022-06-13T23:41:11.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Ut69BXfdOoE",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entrevista a emprendedores ganadores del Fondo Emprender Sena y Alcaldía de nobsa 2022",
+      "canal": "Alcaldía de Nobsa",
+      "descripcion": null,
+      "duracion": "00:08:22",
+      "vistas": 191,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:42.400416Z",
+      "_video_id": "Ut69BXfdOoE"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2023-06-26",
+      "url_video": "https://www.youtube.com/watch?v=nV7mtBXDkzY",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "CASO DE EXITO FONDO EMPRENDER - FIMA",
+      "canal": "Centro de Gestión Industrial",
+      "descripcion": null,
+      "duracion": "00:01:39",
+      "vistas": 794,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:42.705544Z",
+      "_video_id": "nV7mtBXDkzY"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2018-11-10T20:36:20.000Z",
+      "url_video": "https://www.youtube.com/watch?v=AtE4VjZG88o",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": ".  Entrevista a Unidad de Emprendimiento del Fondo Emprender (SENA)",
+      "canal": "Michael Sandoval",
+      "descripcion": null,
+      "duracion": "00:02:54",
+      "vistas": 47,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:43.010738Z",
+      "_video_id": "AtE4VjZG88o"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2021-10-08T03:07:32.000Z",
+      "url_video": "https://www.youtube.com/watch?v=dhkbrlkgCRI",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Fondo Emprender SENA materializa las ideas y proyectos de los colombianos",
+      "canal": "Kienyke",
+      "descripcion": null,
+      "duracion": "00:01:16",
+      "vistas": 125,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:43.315337Z",
+      "_video_id": "dhkbrlkgCRI"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2025-10-24T16:41:06.000Z",
+      "url_video": "https://www.youtube.com/watch?v=7p83REnXXSM",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Fondo Emprender del SENA impulsa a los emprendedores 🚀 | Mañanas con Más Televisión",
+      "canal": "Canal MasTelevision",
+      "descripcion": null,
+      "duracion": "00:02:59",
+      "vistas": 11,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:43.619278Z",
+      "_video_id": "7p83REnXXSM"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2013-05-30T20:52:40.000Z",
+      "url_video": "https://www.youtube.com/watch?v=FjQly0v00Xw",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Nota y Entrevistas por el SENA - Fondo Emprender",
+      "canal": "Opensky Consultores ",
+      "descripcion": null,
+      "duracion": "00:01:10",
+      "vistas": 479,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:43.921635Z",
+      "_video_id": "FjQly0v00Xw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2018-08-06T20:48:53.000Z",
+      "url_video": "https://www.youtube.com/watch?v=wmAnq7hL3G4",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Lanzamiento Convocatoria Especial Fondo Emprender",
+      "canal": "SENA",
+      "descripcion": null,
+      "duracion": "00:02:26",
+      "vistas": 200,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:44.221974Z",
+      "_video_id": "wmAnq7hL3G4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2022-10-20T16:01:13.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Y-UVIVGP1hs",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "SENA Y FONDO EMPRENDER: ¿Eres un emprendedor? Conoce todo acerca del Fondo Emprender SENA",
+      "canal": "Asturias Corporación Universitaria",
+      "descripcion": null,
+      "duracion": "01:00:33",
+      "vistas": 372,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:44.527137Z",
+      "_video_id": "Y-UVIVGP1hs"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2022-03-01T23:52:17.000Z",
+      "url_video": "https://www.youtube.com/watch?v=6GkZdTdz5iw",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "SENA lanzó la estrategia CRECER , del Fondo Emprender",
+      "canal": "De La Realidad",
+      "descripcion": null,
+      "duracion": "00:14:07",
+      "vistas": 77,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:44.832310Z",
+      "_video_id": "6GkZdTdz5iw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2022-10-22T20:53:03.000Z",
+      "url_video": "https://www.youtube.com/watch?v=01Odss0o0U4",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entrevista Paola Chávez, Enlace Fondo Emprender SENA Cauca",
+      "canal": "Emprendimiento Productivo Popayán",
+      "descripcion": null,
+      "duracion": "00:25:40",
+      "vistas": 94,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:45.135373Z",
+      "_video_id": "01Odss0o0U4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2022-06-07T20:46:56.000Z",
+      "url_video": "https://www.youtube.com/watch?v=4qe5ApPODA4",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Convocatoria Nacional Multisectorial del Fondo Emprender",
+      "canal": "SENA",
+      "descripcion": null,
+      "duracion": "00:01:07",
+      "vistas": 417,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:45.439881Z",
+      "_video_id": "4qe5ApPODA4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2012-09-20T22:12:35.000Z",
+      "url_video": "https://www.youtube.com/watch?v=2V3I54VhilY",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Retornados de la mano del Fondo Emprender",
+      "canal": "SENA",
+      "descripcion": null,
+      "duracion": "00:02:37",
+      "vistas": 780,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:45.744316Z",
+      "_video_id": "2V3I54VhilY"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2024-07-02T06:09:34.000Z",
+      "url_video": "https://www.youtube.com/watch?v=RxtWKzd52YI",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entrevista Sena fondo emprender UbaBee Nutrition",
+      "canal": "Uba Bee",
+      "descripcion": null,
+      "duracion": "00:01:41",
+      "vistas": 5,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:46.044865Z",
+      "_video_id": "RxtWKzd52YI"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2024-11-01T16:00:05.000Z",
+      "url_video": "https://www.youtube.com/watch?v=2u3d83-_N9s",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Así se accede a los recursos gratuitos del SENA para su emprendimiento | El Espectador\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Así se accede a los recursos gratuitos del SENA para su emprendimiento | El Espectador",
+      "canal": "El Espectador",
+      "descripcion": null,
+      "duracion": "00:29:25",
+      "vistas": 4934,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:46.349941Z",
+      "_video_id": "2u3d83-_N9s"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "SENA",
+      "fecha_publicacion": "2018-10-05T23:09:06.000Z",
+      "url_video": "https://www.youtube.com/watch?v=OiVtATY_jgQ",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Fondo Emprender"
+      ],
+      "temas_abordados": [
+        "Fondo Emprender"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "SENA TV - Convocatoria Fondo Emprender SENA",
+      "canal": "SENA",
+      "descripcion": null,
+      "duracion": "00:02:17",
+      "vistas": 154,
+      "likes": null,
+      "_query_origen": "SENA emprendimiento Fondo Emprender entrevista director",
+      "_capturado_en": "2026-04-01T11:30:46.655087Z",
+      "_video_id": "OiVtATY_jgQ"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2024-01-26T11:58:24.000Z",
+      "url_video": "https://www.youtube.com/watch?v=FeW8ncoqo-s",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Entrevista Signo pesos\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Entrevista Signo pesos",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:11:35",
+      "vistas": 123,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:46.958442Z",
+      "_video_id": "FeW8ncoqo-s"
+    },
+    {
+      "nombre_actor": "Edgar Arias",
+      "cargo_actor": "Líder de emprendimiento",
+      "institucion": "Independiente",
+      "fecha_publicacion": "2022-06-08T16:00:30.000Z",
+      "url_video": "https://www.youtube.com/watch?v=bozyLGYYd4M",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Edgar Arias, Líder de emprendimiento de Independiente: Título del video: \"Edgar Arias - Colombia Es Mi Empresa\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Edgar Arias - Colombia Es Mi Empresa",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:00:40",
+      "vistas": 25,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:47.261027Z",
+      "_video_id": "bozyLGYYd4M"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2015-02-25T15:00:01.000Z",
+      "url_video": "https://www.youtube.com/watch?v=eqms87Y0qh0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Queremos que el empresario colombiano trabaje colectivamente\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Queremos que el empresario colombiano trabaje colectivamente",
+      "canal": "Dinero",
+      "descripcion": null,
+      "duracion": "00:02:35",
+      "vistas": 194,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:47.565405Z",
+      "_video_id": "eqms87Y0qh0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2011-11-16T18:17:38.000Z",
+      "url_video": "https://www.youtube.com/watch?v=UJfC5lFbn2o",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Competitividad"
+      ],
+      "temas_abordados": [
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Confecámaras impulsará la competitividad en el país a través de la formalización empresarial",
+      "canal": "Negocios En Tu Mundo",
+      "descripcion": null,
+      "duracion": "00:12:25",
+      "vistas": 137,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:47.869976Z",
+      "_video_id": "UJfC5lFbn2o"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2022-09-28T16:39:29.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Mi1AkwbccW4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Congreso Confecámaras 2022 - Modelo de Desarrollo Empresarial y Productivo para Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Congreso Confecámaras 2022 - Modelo de Desarrollo Empresarial y Productivo para Colombia",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:10:35",
+      "vistas": 119,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:48.171019Z",
+      "_video_id": "Mi1AkwbccW4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2018-09-21T19:38:51.000Z",
+      "url_video": "https://www.youtube.com/watch?v=nnCEDv75aTQ",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"La visión de los empresarios frente al nuevo país\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "La visión de los empresarios frente al nuevo país",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:48:27",
+      "vistas": 71,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:48.475330Z",
+      "_video_id": "nnCEDv75aTQ"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2022-06-24T20:00:02.000Z",
+      "url_video": "https://www.youtube.com/watch?v=f-iHvkxUzVA",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Diana Salcedo - Colombia Es Mi Empresa\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Diana Salcedo - Colombia Es Mi Empresa",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:00:35",
+      "vistas": 85,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:48.778337Z",
+      "_video_id": "f-iHvkxUzVA"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2012-05-16T18:02:42.000Z",
+      "url_video": "https://www.youtube.com/watch?v=80TmEdD3itI",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Economía popular"
+      ],
+      "temas_abordados": [
+        "Economía popular"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Bancóldex y Confecámaras aliadas en beneficio de las Pymes colombianas",
+      "canal": "Bancoldex",
+      "descripcion": null,
+      "duracion": "00:04:50",
+      "vistas": 257,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:49.081018Z",
+      "_video_id": "80TmEdD3itI"
+    },
+    {
+      "nombre_actor": "Lacouture",
+      "cargo_actor": "Ministra de Comercio, Industria y Turismo",
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2019-03-05",
+      "url_video": "https://www.youtube.com/watch?v=5fUQz7S1wUA",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Lacouture, Ministra de Comercio, Industria y Turismo de MinCIT: Título del video: \"#CómoEmprenderBien #5 AMCHAM Colombia - María Claudia Lacouture\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "#CómoEmprenderBien #5 AMCHAM Colombia - María Claudia Lacouture",
+      "canal": "Estrategias Inc",
+      "descripcion": null,
+      "duracion": "00:05:15",
+      "vistas": 52,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:49.384946Z",
+      "_video_id": "5fUQz7S1wUA"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2022-06-08T20:00:01.000Z",
+      "url_video": "https://www.youtube.com/watch?v=aHsoG8IXOSk",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Juan Diego Salas - Colombia Es Mi Empresa\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Juan Diego Salas - Colombia Es Mi Empresa",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:00:40",
+      "vistas": 41,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:49.690142Z",
+      "_video_id": "aHsoG8IXOSk"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2025-06-16T11:00:59.000Z",
+      "url_video": "https://www.youtube.com/watch?v=eX9PG0yTJLQ",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"EP. 7 - ¿Por qué tenemos tantas empresas pequeñas en Colombia? | #podcast  Economía para la Pipol\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "EP. 7 - ¿Por qué tenemos tantas empresas pequeñas en Colombia? | #podcast  Economía para la Pipol",
+      "canal": "Economía para la pipol",
+      "descripcion": null,
+      "duracion": "00:44:15",
+      "vistas": 5209,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:49.991116Z",
+      "_video_id": "eX9PG0yTJLQ"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2022-06-14T12:00:10.000Z",
+      "url_video": "https://www.youtube.com/watch?v=9PXv7WN69bo",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"María Naranjo y Elisahira Aponte - Colombia Es Mi Empresa\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "María Naranjo y Elisahira Aponte - Colombia Es Mi Empresa",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:00:28",
+      "vistas": 24,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:50.296307Z",
+      "_video_id": "9PXv7WN69bo"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2022-06-13T14:09:59.000Z",
+      "url_video": "https://www.youtube.com/watch?v=piAI2P0VTVE",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Ana Sofía Buitrago - Colombia Es Mi Empresa\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Ana Sofía Buitrago - Colombia Es Mi Empresa",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:00:38",
+      "vistas": 38,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:50.601478Z",
+      "_video_id": "piAI2P0VTVE"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2022-09-29T21:23:05.000Z",
+      "url_video": "https://www.youtube.com/watch?v=LLaO8P5zPAg",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Congreso Confecámaras 2022 - Compromiso Empresarial Capital Humano e Inclusión\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Congreso Confecámaras 2022 - Compromiso Empresarial Capital Humano e Inclusión",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:51:48",
+      "vistas": 66,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:50.903781Z",
+      "_video_id": "LLaO8P5zPAg"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2022-06-14T22:00:18.000Z",
+      "url_video": "https://www.youtube.com/watch?v=lu7EGK2tBp4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Juliana Méndez - Colombia Es Mi Empresa\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Juliana Méndez - Colombia Es Mi Empresa",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:00:32",
+      "vistas": 76,
+      "likes": null,
+      "_query_origen": "Confecámaras emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:51.205933Z",
+      "_video_id": "lu7EGK2tBp4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2017-06-02T03:03:10.000Z",
+      "url_video": "https://www.youtube.com/watch?v=n7OtV3gsHQM",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Entrevista hacia un emprendedor (Marco legal)\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Entrevista hacia un emprendedor (Marco legal)",
+      "canal": "alex de leon",
+      "descripcion": null,
+      "duracion": "00:09:41",
+      "vistas": 47,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:51.509082Z",
+      "_video_id": "n7OtV3gsHQM"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2017-06-21T05:17:25.000Z",
+      "url_video": "https://www.youtube.com/watch?v=5_3W0VNZdD8",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"El MagaCine - Ley Naranja\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "El MagaCine - Ley Naranja",
+      "canal": "ACTV Asociación",
+      "descripcion": null,
+      "duracion": "00:03:24",
+      "vistas": 178,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:51.811992Z",
+      "_video_id": "5_3W0VNZdD8"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2019-03-07T00:45:28.000Z",
+      "url_video": "https://www.youtube.com/watch?v=YrQMNvKzKSw",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Al Punto | ¿Colombia se está volviendo un país para emprender?\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Al Punto | ¿Colombia se está volviendo un país para emprender?",
+      "canal": "Canal REDMÁSTV",
+      "descripcion": null,
+      "duracion": "00:13:43",
+      "vistas": 605,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:52.112896Z",
+      "_video_id": "YrQMNvKzKSw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2012-05-28T19:53:55.000Z",
+      "url_video": "https://www.youtube.com/watch?v=6_njwb6o9CI",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Gente común compartió sus casos de emprendimiento de alto impacto, en U. de Caldas\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Gente común compartió sus casos de emprendimiento de alto impacto, en U. de Caldas",
+      "canal": "YouTube U. de Caldas",
+      "descripcion": null,
+      "duracion": "00:01:35",
+      "vistas": 318,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:52.418113Z",
+      "_video_id": "6_njwb6o9CI"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2018-03-24T15:17:11.000Z",
+      "url_video": "https://www.youtube.com/watch?v=qdRA86mzkew",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Apoyaremos el emprendimiento en Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Apoyaremos el emprendimiento en Colombia",
+      "canal": "Iván Duque - Oficial",
+      "descripcion": null,
+      "duracion": "00:00:40",
+      "vistas": 266,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:52.719737Z",
+      "_video_id": "qdRA86mzkew"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2009-05-11T15:15:57.000Z",
+      "url_video": "https://www.youtube.com/watch?v=vpnIKj9cUq4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Colombia y sus Instituciones: Emprendimiento cultural Grupo 5\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Colombia y sus Instituciones: Emprendimiento cultural Grupo 5",
+      "canal": "LeonardoParr",
+      "descripcion": null,
+      "duracion": "00:03:37",
+      "vistas": 444,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:53.021176Z",
+      "_video_id": "vpnIKj9cUq4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2018-01-29T22:58:29.000Z",
+      "url_video": "https://www.youtube.com/watch?v=YZi5vam33ow",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"YOKOI KENJI | EMPRENDIMIENTO\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "YOKOI KENJI | EMPRENDIMIENTO",
+      "canal": "Yokoi Kenji Diaz",
+      "descripcion": null,
+      "duracion": "00:05:19",
+      "vistas": 1969434,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:53.325643Z",
+      "_video_id": "YZi5vam33ow"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-02-27T05:15:00.000Z",
+      "url_video": "https://www.youtube.com/watch?v=y03G0pGQ1ek",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Ley 1014"
+      ],
+      "temas_abordados": [
+        "Ley 1014"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Ley 1014 de 2006.",
+      "canal": "MICHELLE GERALDINE BOHORQUEZ MEJIA",
+      "descripcion": null,
+      "duracion": "00:07:58",
+      "vistas": 2788,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:53.630789Z",
+      "_video_id": "y03G0pGQ1ek"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2016-05-04T20:19:27.000Z",
+      "url_video": "https://www.youtube.com/watch?v=DWY2Qjk8lqk",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¿Qué es la Ley Projoven? Luis Ernesto Gómez, Viceministro de Empleo y Pensiones\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "¿Qué es la Ley Projoven? Luis Ernesto Gómez, Viceministro de Empleo y Pensiones",
+      "canal": "En las Mañanas con Uno",
+      "descripcion": null,
+      "duracion": "00:07:05",
+      "vistas": 2975,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:53.936049Z",
+      "_video_id": "DWY2Qjk8lqk"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2013-10-09T14:32:26.000Z",
+      "url_video": "https://www.youtube.com/watch?v=CAE0IL6Etro",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Resumen de la Ley de Emprendimiento por Javier Hernandez Lopez\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Resumen de la Ley de Emprendimiento por Javier Hernandez Lopez",
+      "canal": "Institución Futuro",
+      "descripcion": null,
+      "duracion": "00:28:32",
+      "vistas": 1676,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:54.241243Z",
+      "_video_id": "CAE0IL6Etro"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "MinCIT",
+      "fecha_publicacion": "2015-02-03T21:08:18.000Z",
+      "url_video": "https://www.youtube.com/watch?v=DCLKDKO34d0",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Política pública de emprendimiento"
+      ],
+      "temas_abordados": [
+        "Política pública de emprendimiento"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Miércoles de capacitación - Política de Emprendimiento en Colombia",
+      "canal": "Mincomercio Colombia",
+      "descripcion": null,
+      "duracion": "00:59:26",
+      "vistas": 4083,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:54.546574Z",
+      "_video_id": "DCLKDKO34d0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2012-05-14T03:45:48.000Z",
+      "url_video": "https://www.youtube.com/watch?v=bXobNMcKIyE",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Ley 1014"
+      ],
+      "temas_abordados": [
+        "Ley 1014"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "1 Parte Conferencia Fomento a la Cultura del emprendimiento, liderando un sueño para la vida",
+      "canal": "Emprende con Valórate",
+      "descripcion": null,
+      "duracion": "00:35:25",
+      "vistas": 464,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:54.850516Z",
+      "_video_id": "bXobNMcKIyE"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2008-12-17T22:03:08.000Z",
+      "url_video": "https://www.youtube.com/watch?v=PUvSHtClbK4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"SEMANA GLOBAL DEL EMPRENDIMIENTO COLOMBIA 2008 .mpg\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "SEMANA GLOBAL DEL EMPRENDIMIENTO COLOMBIA 2008 .mpg",
+      "canal": "Eduardo José Avella Niño",
+      "descripcion": null,
+      "duracion": "00:04:03",
+      "vistas": 1280,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:55.155709Z",
+      "_video_id": "PUvSHtClbK4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2012-05-03T07:15:34.000Z",
+      "url_video": "https://www.youtube.com/watch?v=UNTgb0R_fS4",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Ley 1014"
+      ],
+      "temas_abordados": [
+        "Ley 1014"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Conferencia Ley 1014 De fomento a la cultura del emprendimiento",
+      "canal": "Emprende con Valórate",
+      "descripcion": null,
+      "duracion": "00:35:55",
+      "vistas": 15965,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:55.457768Z",
+      "_video_id": "UNTgb0R_fS4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2019-09-17T22:47:47.000Z",
+      "url_video": "https://www.youtube.com/watch?v=oMY8n0yKYIs",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Conoce los beneficios que otorga el #DecretoNaranja para los emprendedores de Colombia | Mincultura\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Conoce los beneficios que otorga el #DecretoNaranja para los emprendedores de Colombia | Mincultura",
+      "canal": "Ministerio de las Culturas las Artes y los Saberes",
+      "descripcion": null,
+      "duracion": "00:00:48",
+      "vistas": 62,
+      "likes": null,
+      "_query_origen": "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "_capturado_en": "2026-04-01T11:30:55.760130Z",
+      "_video_id": "oMY8n0yKYIs"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2020-10-27T17:36:49.000Z",
+      "url_video": "https://www.youtube.com/watch?v=tK1akSjjqTc",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "ALDEA - Programa de Innpulsa",
+      "canal": "Econexia",
+      "descripcion": null,
+      "duracion": "00:36:51",
+      "vistas": 149,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:56.065268Z",
+      "_video_id": "tK1akSjjqTc"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2018-03-05T21:46:08.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Q_LHzQkmiUc",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Caso de éxito ALDEA: Solanco",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:03:19",
+      "vistas": 3006,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:56.370453Z",
+      "_video_id": "Q_LHzQkmiUc"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2016-09-13T19:10:51.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Dm9rKimUDws",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Aldea",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:01:39",
+      "vistas": 19946,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:56.674460Z",
+      "_video_id": "Dm9rKimUDws"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2018-02-01T21:21:51.000Z",
+      "url_video": "https://www.youtube.com/watch?v=BegZ5o6pGUw",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Softcafetería - Emprendimiento del Programa Aldea",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:02:03",
+      "vistas": 649,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:56.979644Z",
+      "_video_id": "BegZ5o6pGUw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2018-02-01T16:37:21.000Z",
+      "url_video": "https://www.youtube.com/watch?v=7DCL9qRS2rk",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Valencia Producciones- Emprendimiento del Programa Aldea",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:01:03",
+      "vistas": 1303,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:57.282161Z",
+      "_video_id": "7DCL9qRS2rk"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2018-03-05T21:20:29.000Z",
+      "url_video": "https://www.youtube.com/watch?v=zfUKcAiXcKA",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Conoce ALDEA",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:03:16",
+      "vistas": 1613,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:57.585408Z",
+      "_video_id": "zfUKcAiXcKA"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2018-03-07T13:07:53.000Z",
+      "url_video": "https://www.youtube.com/watch?v=wh3CL0xCP2k",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "ALDEA - Reto 2: Conversa con Expertos",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:01:33",
+      "vistas": 1305,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:57.890279Z",
+      "_video_id": "wh3CL0xCP2k"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2024-03-07T23:35:18.000Z",
+      "url_video": "https://www.youtube.com/watch?v=XBeKEoy_Gyg",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"iNNpulsa Colombia busca 320 emprendimientos innovadores para acelerar su crecimiento\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "iNNpulsa Colombia busca 320 emprendimientos innovadores para acelerar su crecimiento",
+      "canal": "MUNDO EMPRESARIAL COLOMBIA",
+      "descripcion": null,
+      "duracion": "00:01:45",
+      "vistas": 60,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:58.195239Z",
+      "_video_id": "XBeKEoy_Gyg"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2019-03-29T16:41:12.000Z",
+      "url_video": "https://www.youtube.com/watch?v=tgGvFq5VOXY",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Como participar en el programa Aldea de Innpulsa Colombia",
+      "canal": "Fedesoft",
+      "descripcion": null,
+      "duracion": "01:02:25",
+      "vistas": 722,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:58.500280Z",
+      "_video_id": "tgGvFq5VOXY"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2018-02-01T16:31:11.000Z",
+      "url_video": "https://www.youtube.com/watch?v=5IclZr5L-8w",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Fábrica F- Emprendimiento del Programa Aldea",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:00:59",
+      "vistas": 1404,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:58.801853Z",
+      "_video_id": "5IclZr5L-8w"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-03-12T02:37:34.000Z",
+      "url_video": "https://www.youtube.com/watch?v=-WU-qD19ClA",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "PARA EMPRENDEDORES: SE ABRE CONVOCATORIA PROGRAMA ALDEA DE INNPULSA",
+      "canal": "MUNDO EMPRESARIAL COLOMBIA",
+      "descripcion": null,
+      "duracion": "00:01:01",
+      "vistas": 93,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:59.105793Z",
+      "_video_id": "-WU-qD19ClA"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2023-11-01T18:58:10.000Z",
+      "url_video": "https://www.youtube.com/watch?v=lUbn1RuvXhw",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Programa ALDEA"
+      ],
+      "temas_abordados": [
+        "Programa ALDEA"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "¡Esto es ALDEA!",
+      "canal": "Innpulsa Colombia",
+      "descripcion": null,
+      "duracion": "00:01:54",
+      "vistas": 691,
+      "likes": null,
+      "_query_origen": "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "_capturado_en": "2026-04-01T11:30:59.409803Z",
+      "_video_id": "lUbn1RuvXhw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-11-16",
+      "url_video": "https://www.youtube.com/watch?v=wzhIO4zyrrA",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Políticas Del Emprendimiento En Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Políticas Del Emprendimiento En Colombia",
+      "canal": "without edition",
+      "descripcion": null,
+      "duracion": "00:45:40",
+      "vistas": 67,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:30:59.711338Z",
+      "_video_id": "wzhIO4zyrrA"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-08-18T21:23:06.000Z",
+      "url_video": "https://www.youtube.com/watch?v=qDq7Uan52j8",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Colombia es el tercer país más emprendedor de la OCDE\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Colombia es el tercer país más emprendedor de la OCDE",
+      "canal": "Diario La República",
+      "descripcion": null,
+      "duracion": "00:01:02",
+      "vistas": 1209,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:00.016502Z",
+      "_video_id": "qDq7Uan52j8"
+    },
+    {
+      "nombre_actor": "Freddy Vega",
+      "cargo_actor": "CEO",
+      "institucion": "Platzi",
+      "fecha_publicacion": "2026-01-14T17:28:47.000Z",
+      "url_video": "https://www.youtube.com/watch?v=xU0tbdKkWFk",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Freddy Vega, CEO de Platzi: Título del video: \"Freddy Vega (Platzi): IA, fracaso, educación y liderazgo verdadero\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Freddy Vega (Platzi): IA, fracaso, educación y liderazgo verdadero",
+      "canal": "Endeavor Colombia",
+      "descripcion": null,
+      "duracion": "00:52:19",
+      "vistas": 22680,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:00.321724Z",
+      "_video_id": "xU0tbdKkWFk"
+    },
+    {
+      "nombre_actor": "Alejandro Minatta",
+      "cargo_actor": "Investigador / Experto en política de emprendimiento",
+      "institucion": "Academia",
+      "fecha_publicacion": "2014-01-14T20:15:22.000Z",
+      "url_video": "https://www.youtube.com/watch?v=fjiAH9WXAPg",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Alejandro Minatta, Investigador / Experto en política de emprendimiento de Academia: Título del video: \"Alejandro Minatta y el rol del gobierno para desarrollar el emprendimiento\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Alejandro Minatta y el rol del gobierno para desarrollar el emprendimiento",
+      "canal": "Simon Bolivar Andean University",
+      "descripcion": null,
+      "duracion": "00:19:18",
+      "vistas": 261,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:00.626929Z",
+      "_video_id": "fjiAH9WXAPg"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2017-08-29T20:40:29.000Z",
+      "url_video": "https://www.youtube.com/watch?v=lhpvpf-tQ94",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Innovación"
+      ],
+      "temas_abordados": [
+        "Innovación"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "En México no hay políticas públicas que propicien la innovación: Eduardo Torreblanca",
+      "canal": "El Financiero Bloomberg",
+      "descripcion": null,
+      "duracion": "00:02:17",
+      "vistas": 308,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:00.931537Z",
+      "_video_id": "lhpvpf-tQ94"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "iNNpulsa Colombia",
+      "fecha_publicacion": "2016-12-01",
+      "url_video": "https://www.youtube.com/watch?v=yvCT6Bws3Q8",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Innovación"
+      ],
+      "temas_abordados": [
+        "Innovación"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "INNpulsa Colombia: la innovación y el emprendimiento al servicio de los sueños de los colombianos",
+      "canal": "Función Pública",
+      "descripcion": null,
+      "duracion": "00:02:11",
+      "vistas": 403,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:01.236754Z",
+      "_video_id": "yvCT6Bws3Q8"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-11-30T14:54:03.000Z",
+      "url_video": "https://www.youtube.com/watch?v=2WR4baPUKN0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"En el #SESC22 hacen llamado al Gobierno para reglamentar la Ley de Emprendimiento Social\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "En el #SESC22 hacen llamado al Gobierno para reglamentar la Ley de Emprendimiento Social",
+      "canal": "RecOn Colombia",
+      "descripcion": null,
+      "duracion": "00:06:59",
+      "vistas": 43,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:01.542002Z",
+      "_video_id": "2WR4baPUKN0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2018-05-16T02:36:51.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Fxg0Lw-507A",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"SEMINARIO PRODEM\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "SEMINARIO PRODEM",
+      "canal": "Momento Emprendedor",
+      "descripcion": null,
+      "duracion": "00:04:25",
+      "vistas": 4,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:01.847179Z",
+      "_video_id": "Fxg0Lw-507A"
+    },
+    {
+      "nombre_actor": "Antonio Riveros",
+      "cargo_actor": "Experto en emprendimiento",
+      "institucion": "Independiente",
+      "fecha_publicacion": "2024-03-21T19:00:29.000Z",
+      "url_video": "https://www.youtube.com/watch?v=XahBTsz5jCE",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Antonio Riveros, Experto en emprendimiento de Independiente: Título del video: \"Ley para las Startups - Antonio Riveros\"",
+        "[Temas abordados según título]: Innovación"
+      ],
+      "temas_abordados": [
+        "Innovación"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Ley para las Startups - Antonio Riveros",
+      "canal": "Oscar Ortiz A TV",
+      "descripcion": null,
+      "duracion": "00:01:53",
+      "vistas": 19,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:02.152372Z",
+      "_video_id": "XahBTsz5jCE"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2025-06-27T17:00:06.000Z",
+      "url_video": "https://www.youtube.com/watch?v=lZjDFxFT_XY",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Innovación"
+      ],
+      "temas_abordados": [
+        "Innovación"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "#39 Startups, datos y liderazgo: descubre el Colombia Tech Report 2025",
+      "canal": "Método Charla | Podcast",
+      "descripcion": null,
+      "duracion": "00:44:07",
+      "vistas": 96,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:02.457534Z",
+      "_video_id": "lZjDFxFT_XY"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2015-09-10T17:53:04.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Uw5DtQVcR-U",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"\"Medellín es un ejemplo extraordinario de ecosistema\" #CitiesForLife\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "\"Medellín es un ejemplo extraordinario de ecosistema\" #CitiesForLife",
+      "canal": "Ruta N",
+      "descripcion": null,
+      "duracion": "00:04:07",
+      "vistas": 293,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:02.761465Z",
+      "_video_id": "Uw5DtQVcR-U"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2020-12-07T22:32:19.000Z",
+      "url_video": "https://www.youtube.com/watch?v=-6DrCnOL9a0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"EMPRENDIMIENTO SOCIAL: UN MODELO DE NEGOCIO QUE DINAMIZA LA ECONOMÍA Y NECESITA SER RECONOCIDO\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "EMPRENDIMIENTO SOCIAL: UN MODELO DE NEGOCIO QUE DINAMIZA LA ECONOMÍA Y NECESITA SER RECONOCIDO",
+      "canal": "RecOn Colombia",
+      "descripcion": null,
+      "duracion": "00:24:07",
+      "vistas": 278,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:03.064683Z",
+      "_video_id": "-6DrCnOL9a0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2026-03-18T14:10:02.000Z",
+      "url_video": "https://www.youtube.com/watch?v=bdp7dwKm8nk",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Innovación"
+      ],
+      "temas_abordados": [
+        "Innovación"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "“Medellín debe consolidarse como un referente en innovación y desarrollo tecnológico”: Camilo Zapata",
+      "canal": "Antioquia Amanece",
+      "descripcion": null,
+      "duracion": "00:17:58",
+      "vistas": 56,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:03.369846Z",
+      "_video_id": "bdp7dwKm8nk"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2026-02-04T11:01:27.000Z",
+      "url_video": "https://www.youtube.com/watch?v=oWZOhdBt-jU",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"🎙️ El Futuro de la Nación Tech: Andrés Bilbao y María José Echeverri entrevistan a Iván Duque\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "🎙️ El Futuro de la Nación Tech: Andrés Bilbao y María José Echeverri entrevistan a Iván Duque",
+      "canal": "Iván Duque - Oficial",
+      "descripcion": null,
+      "duracion": "01:08:07",
+      "vistas": 8865,
+      "likes": null,
+      "_query_origen": "ecosistema emprendedor Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:03.674229Z",
+      "_video_id": "oWZOhdBt-jU"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2018-06-15T18:12:35.000Z",
+      "url_video": "https://www.youtube.com/watch?v=f0KxipcK1jM",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Intención emprendedora"
+      ],
+      "temas_abordados": [
+        "Intención emprendedora"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Las variables que influyen en la intención emprendedora",
+      "canal": "Irery Melchor",
+      "descripcion": null,
+      "duracion": "00:09:06",
+      "vistas": 121,
+      "likes": null,
+      "_query_origen": "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "_capturado_en": "2026-04-01T11:31:03.977446Z",
+      "_video_id": "f0KxipcK1jM"
+    },
+    {
+      "nombre_actor": "Saulo Bravo",
+      "cargo_actor": "Investigador",
+      "institucion": "Universidad Santiago de Cali",
+      "fecha_publicacion": "2022-11-17T14:59:08.000Z",
+      "url_video": "https://www.youtube.com/watch?v=V0YOrC_32L4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Saulo Bravo, Investigador de Universidad Santiago de Cali: Título del video: \"EMPRENDIMIENTO + INTELIGENCIA EMOCIONAL: ENTREVISTA AL DR. SAULO BRAVO, INVESTIGADOR (U.S DE CALI)\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "EMPRENDIMIENTO + INTELIGENCIA EMOCIONAL: ENTREVISTA AL DR. SAULO BRAVO, INVESTIGADOR (U.S DE CALI)",
+      "canal": "Gobierno Digital Amazonas",
+      "descripcion": null,
+      "duracion": "00:19:52",
+      "vistas": 5,
+      "likes": null,
+      "_query_origen": "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "_capturado_en": "2026-04-01T11:31:04.281520Z",
+      "_video_id": "V0YOrC_32L4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2019-05-07T23:16:09.000Z",
+      "url_video": "https://www.youtube.com/watch?v=f9xRS5le_Ok",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"CARTA DE PETICIÓN (Como redactar una carta de petición)\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "CARTA DE PETICIÓN (Como redactar una carta de petición)",
+      "canal": "El Tío Tech",
+      "descripcion": null,
+      "duracion": "00:11:41",
+      "vistas": 2800691,
+      "likes": null,
+      "_query_origen": "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "_capturado_en": "2026-04-01T11:31:04.581928Z",
+      "_video_id": "f9xRS5le_Ok"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2023-12-27T19:48:43.000Z",
+      "url_video": "https://www.youtube.com/watch?v=0ZvpoziwP54",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"EMPRENDIMIENTO + INTELIGENCIA EMOCIONAL\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "EMPRENDIMIENTO + INTELIGENCIA EMOCIONAL",
+      "canal": "Gobierno Digital Amazonas",
+      "descripcion": null,
+      "duracion": "00:19:52",
+      "vistas": 28,
+      "likes": null,
+      "_query_origen": "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "_capturado_en": "2026-04-01T11:31:04.887080Z",
+      "_video_id": "0ZvpoziwP54"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-10-28T13:00:52.000Z",
+      "url_video": "https://www.youtube.com/watch?v=dO5hMcCw6v4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¿La propia IA acabaría con los ‘Prompt Engineer’?\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "¿La propia IA acabaría con los ‘Prompt Engineer’?",
+      "canal": "Radar Tecnologico",
+      "descripcion": null,
+      "duracion": "00:14:09",
+      "vistas": 24,
+      "likes": null,
+      "_query_origen": "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "_capturado_en": "2026-04-01T11:31:05.192232Z",
+      "_video_id": "dO5hMcCw6v4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2017-08-10T13:11:27.000Z",
+      "url_video": "https://www.youtube.com/watch?v=KGtXQdKngRk",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¿Qué es y cómo nace el premio Empresario del año?\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "¿Qué es y cómo nace el premio Empresario del año?",
+      "canal": "Universidad del Rosario",
+      "descripcion": null,
+      "duracion": "00:01:53",
+      "vistas": 610,
+      "likes": null,
+      "_query_origen": "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "_capturado_en": "2026-04-01T11:31:05.497403Z",
+      "_video_id": "KGtXQdKngRk"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-02-23T15:15:03.000Z",
+      "url_video": "https://www.youtube.com/watch?v=rTsUYDrBrPU",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Meditación urbana, el camino para mantener humanizadas a las empresas\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Meditación urbana, el camino para mantener humanizadas a las empresas",
+      "canal": "Radar Tecnologico",
+      "descripcion": null,
+      "duracion": "00:14:47",
+      "vistas": 31,
+      "likes": null,
+      "_query_origen": "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "_capturado_en": "2026-04-01T11:31:05.801621Z",
+      "_video_id": "rTsUYDrBrPU"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-06-19T04:58:09.000Z",
+      "url_video": "https://www.youtube.com/watch?v=ytFxTuk9M2w",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"JÓVENES. PRESIDENTE IVÁN DUQUE MÁRQUEZ (1)\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "JÓVENES. PRESIDENTE IVÁN DUQUE MÁRQUEZ (1)",
+      "canal": "CONSTRUYENDO CIUDAD BOGOTÁ-REGIÓN",
+      "descripcion": null,
+      "duracion": "00:06:38",
+      "vistas": 4,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:06.106120Z",
+      "_video_id": "ytFxTuk9M2w"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-06-09T17:58:08.000Z",
+      "url_video": "https://www.youtube.com/watch?v=JTF5s_19i0I",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Álvaro Uribe le habla a los jóvenes\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Álvaro Uribe le habla a los jóvenes",
+      "canal": "Álvaro Uribe Vélez",
+      "descripcion": null,
+      "duracion": "00:02:59",
+      "vistas": 1182,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:06.410604Z",
+      "_video_id": "JTF5s_19i0I"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2023-09-07T04:00:01.000Z",
+      "url_video": "https://www.youtube.com/watch?v=aJt7NFBeexs",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"El emprendimiento no tiene edad | Planeta Bogotá - Mesa Capital\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "El emprendimiento no tiene edad | Planeta Bogotá - Mesa Capital",
+      "canal": "Canal Capital",
+      "descripcion": null,
+      "duracion": "00:03:28",
+      "vistas": 116,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:06.710996Z",
+      "_video_id": "aJt7NFBeexs"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2025-10-17T23:17:57.000Z",
+      "url_video": "https://www.youtube.com/watch?v=rfAQ0ed7GRE",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"\"La Política en los jóvenes se ha vuelto muy pasional\" | Felipe Jiménez y Melissa Riquet\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "\"La Política en los jóvenes se ha vuelto muy pasional\" | Felipe Jiménez y Melissa Riquet",
+      "canal": "IMPULSA RADIO",
+      "descripcion": null,
+      "duracion": "00:21:19",
+      "vistas": 52,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:07.016164Z",
+      "_video_id": "rfAQ0ed7GRE"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-04-19T19:36:32.000Z",
+      "url_video": "https://www.youtube.com/watch?v=U37NFswCTvE",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento juvenil"
+      ],
+      "temas_abordados": [
+        "Emprendimiento juvenil"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Jóvenes emprendedores se capacitan en modelos de economía solidaria | Noticias RPTV",
+      "canal": "La Red Viral",
+      "descripcion": null,
+      "duracion": "00:01:58",
+      "vistas": 87,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:07.319130Z",
+      "_video_id": "U37NFswCTvE"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-11-08T23:12:23.000Z",
+      "url_video": "https://www.youtube.com/watch?v=tFvVdIhMDzY",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Jóvenes con Iniciativas en el Foro de Juventud de Cajicá\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Jóvenes con Iniciativas en el Foro de Juventud de Cajicá",
+      "canal": "Canal Trece Colombia",
+      "descripcion": null,
+      "duracion": "00:02:09",
+      "vistas": 30,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:07.624304Z",
+      "_video_id": "tFvVdIhMDzY"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-06-23T18:35:10.000Z",
+      "url_video": "https://www.youtube.com/watch?v=rLX61gdr8Ww",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¿Cuáles son las oportunidades del Gobierno para los jóvenes? | Canal Institucional\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "¿Cuáles son las oportunidades del Gobierno para los jóvenes? | Canal Institucional",
+      "canal": "Canal Institucional",
+      "descripcion": null,
+      "duracion": "00:03:16",
+      "vistas": 94,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:07.929500Z",
+      "_video_id": "rLX61gdr8Ww"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2025-04-11T14:16:46.000Z",
+      "url_video": "https://www.youtube.com/watch?v=raCscfsjG5s",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Cátedra Bogotá: la nueva materia que conecta a los jóvenes con su ciudad | Enlace Trece\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Cátedra Bogotá: la nueva materia que conecta a los jóvenes con su ciudad | Enlace Trece",
+      "canal": "Canal Trece Colombia",
+      "descripcion": null,
+      "duracion": "00:03:31",
+      "vistas": 97,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:08.232459Z",
+      "_video_id": "raCscfsjG5s"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2017-02-07T16:17:41.000Z",
+      "url_video": "https://www.youtube.com/watch?v=5QX2bBizVU0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¿Puede el estado enseñarnos a participar? | MELINA VÁZQUEZ | TEDxManizalesED\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "¿Puede el estado enseñarnos a participar? | MELINA VÁZQUEZ | TEDxManizalesED",
+      "canal": "TEDx Talks",
+      "descripcion": null,
+      "duracion": "00:12:40",
+      "vistas": 1230,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:08.536493Z",
+      "_video_id": "5QX2bBizVU0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2016-03-16T22:44:33.000Z",
+      "url_video": "https://www.youtube.com/watch?v=-k7JdKFmVkI",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Entrevista A María Contreras Sweet del Gabinete Obama con Paola Rueda - [Negocios en Tm] ®\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Entrevista A María Contreras Sweet del Gabinete Obama con Paola Rueda - [Negocios en Tm] ®",
+      "canal": "Negocios En Tu Mundo",
+      "descripcion": null,
+      "duracion": "00:07:20",
+      "vistas": 534,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:08.841674Z",
+      "_video_id": "-k7JdKFmVkI"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2020-05-25T04:21:19.000Z",
+      "url_video": "https://www.youtube.com/watch?v=fzWXFwdejRU",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento juvenil"
+      ],
+      "temas_abordados": [
+        "Emprendimiento juvenil"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "#DirectoAlCentro con Álvaro Uribe Vélez  “ Emprendimiento Juvenil Rural \" Felipe Ramírez",
+      "canal": "JUVENTUDES CENTRO DEMOCRÁTICO",
+      "descripcion": null,
+      "duracion": "00:07:04",
+      "vistas": 12,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:09.146162Z",
+      "_video_id": "fzWXFwdejRU"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-06-17T00:13:13.000Z",
+      "url_video": "https://www.youtube.com/watch?v=xOan52SOpDU",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Emprendimiento en la agenda de Gustavo Petro y Rodolfo Hernández | Las Presidenciales\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Emprendimiento en la agenda de Gustavo Petro y Rodolfo Hernández | Las Presidenciales",
+      "canal": "Canal Capital",
+      "descripcion": null,
+      "duracion": "00:05:52",
+      "vistas": 560,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:09.451320Z",
+      "_video_id": "xOan52SOpDU"
+    },
+    {
+      "nombre_actor": "Mónica De Greiff",
+      "cargo_actor": "Presidenta",
+      "institucion": "Cámara de Comercio de Bogotá",
+      "fecha_publicacion": "2017-02-01",
+      "url_video": "https://www.youtube.com/watch?v=9sSA_x3wrR0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Mónica De Greiff, Presidenta de Cámara de Comercio de Bogotá: Título del video: \"Entrevista Claudia Palacios - Mónica de Greiff, presidenta de la Cámara de Comercio\"",
+        "[Temas abordados según título]: Emprendimiento regional"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entrevista Claudia Palacios - Mónica de Greiff, presidenta de la Cámara de Comercio",
+      "canal": "Canal Capital",
+      "descripcion": null,
+      "duracion": "00:23:32",
+      "vistas": 561,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:09.751742Z",
+      "_video_id": "9sSA_x3wrR0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2025-09-11T21:00:09.000Z",
+      "url_video": "https://www.youtube.com/watch?v=3qKP_rm6JKA",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Maria José Charris | Liderazgo Juvenil y Emprendimiento Social en Barranquilla\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Maria José Charris | Liderazgo Juvenil y Emprendimiento Social en Barranquilla",
+      "canal": "Fundación Innovación para el Desarrollo ",
+      "descripcion": null,
+      "duracion": "00:34:17",
+      "vistas": 84,
+      "likes": null,
+      "_query_origen": "emprendimiento juvenil Colombia política pública entrevista",
+      "_capturado_en": "2026-04-01T11:31:10.054631Z",
+      "_video_id": "3qKP_rm6JKA"
+    },
+    {
+      "nombre_actor": "Janeth Camacho",
+      "cargo_actor": "Emprendedora / Líder de emprendimiento rural",
+      "institucion": "Independiente",
+      "fecha_publicacion": "2024-12-04T16:51:48.000Z",
+      "url_video": "https://www.youtube.com/watch?v=izssLB0IcIU",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Janeth Camacho, Emprendedora / Líder de emprendimiento rural de Independiente: Título del video: \"Janeth Camacho: la soñadora que apoya emprendimientos del campo en Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Janeth Camacho: la soñadora que apoya emprendimientos del campo en Colombia",
+      "canal": "Canal 1",
+      "descripcion": null,
+      "duracion": "00:29:08",
+      "vistas": 330,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:10.359815Z",
+      "_video_id": "izssLB0IcIU"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2023-05-09T13:00:09.000Z",
+      "url_video": "https://www.youtube.com/watch?v=V3VRI5Vz1W0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"VENDÍA MAQUILLAJE EN REDES Y HOY VENDE 6 MILLONES DE UNIDADES, LA HISTORIA DE CAMILA ORREGO (TRENDY)\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "VENDÍA MAQUILLAJE EN REDES Y HOY VENDE 6 MILLONES DE UNIDADES, LA HISTORIA DE CAMILA ORREGO (TRENDY)",
+      "canal": "Mentes Geniales | Julián Otálora",
+      "descripcion": null,
+      "duracion": "01:13:03",
+      "vistas": 113466,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:10.661840Z",
+      "_video_id": "V3VRI5Vz1W0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2019-11-12T21:58:59.000Z",
+      "url_video": "https://www.youtube.com/watch?v=meutNWefI8I",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"La Pulla: 3 consejos para emprender por la web - Colombianito\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "La Pulla: 3 consejos para emprender por la web - Colombianito",
+      "canal": "Colombianito “Don.Colombianito”",
+      "descripcion": null,
+      "duracion": "00:05:37",
+      "vistas": 395,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:10.966245Z",
+      "_video_id": "meutNWefI8I"
+    },
+    {
+      "nombre_actor": "María Fernanda Reyes",
+      "cargo_actor": "Directora del Fondo Emprender",
+      "institucion": "SENA",
+      "fecha_publicacion": "2024-11-27T04:28:51.000Z",
+      "url_video": "https://www.youtube.com/watch?v=lFILIt4OB0g",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] María Fernanda Reyes, Directora del Fondo Emprender de SENA: Título del video: \"Entre-Vistas con Alma de País: María Fernanda Reyes, Directora del Fondo Mujer Libre y Productiva\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entre-Vistas con Alma de País: María Fernanda Reyes, Directora del Fondo Mujer Libre y Productiva",
+      "canal": "Vicepresidencia de la República - Colombia",
+      "descripcion": null,
+      "duracion": "00:29:52",
+      "vistas": 414,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:11.271413Z",
+      "_video_id": "lFILIt4OB0g"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2015-04-01T13:58:50.000Z",
+      "url_video": "https://www.youtube.com/watch?v=q84hngiA-u0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Empresarias colombianas se vincularán a cadenas globales de valor\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Empresarias colombianas se vincularán a cadenas globales de valor",
+      "canal": "María Belén Galera",
+      "descripcion": null,
+      "duracion": "00:07:49",
+      "vistas": 148,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:11.576253Z",
+      "_video_id": "q84hngiA-u0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-06-08T19:00:14.000Z",
+      "url_video": "https://www.youtube.com/watch?v=p8nAPY41ksw",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"De emprender a exportar: el sueño de dos emprendedoras colombianas de lencería | El Espectador\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "De emprender a exportar: el sueño de dos emprendedoras colombianas de lencería | El Espectador",
+      "canal": "El Espectador",
+      "descripcion": null,
+      "duracion": "00:14:16",
+      "vistas": 1048,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:11.880708Z",
+      "_video_id": "p8nAPY41ksw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-10-10T18:07:30.000Z",
+      "url_video": "https://www.youtube.com/watch?v=wO12uY8cEJ4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¿Cómo pueden emprender las mujeres en Colombia? / Movimiento por la paz / Congreso y sociedad\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "¿Cómo pueden emprender las mujeres en Colombia? / Movimiento por la paz / Congreso y sociedad",
+      "canal": "Congreso y Sociedad",
+      "descripcion": null,
+      "duracion": "00:21:07",
+      "vistas": 49,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:12.185894Z",
+      "_video_id": "wO12uY8cEJ4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-06-20T03:00:06.000Z",
+      "url_video": "https://www.youtube.com/watch?v=NH30b-Mhgy4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Primer Plano: Mujeres transformadoras\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Primer Plano: Mujeres transformadoras",
+      "canal": "CABLENOTICIAS",
+      "descripcion": null,
+      "duracion": "00:22:06",
+      "vistas": 228,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:12.489827Z",
+      "_video_id": "NH30b-Mhgy4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-07-20T21:13:04.000Z",
+      "url_video": "https://www.youtube.com/watch?v=dwvSpzaA4Pk",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Colombiana Diana Cruz | Apoyo al emprendedor\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Colombiana Diana Cruz | Apoyo al emprendedor",
+      "canal": "Otro Formato Radio Show",
+      "descripcion": null,
+      "duracion": "00:23:29",
+      "vistas": 11,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:12.792849Z",
+      "_video_id": "dwvSpzaA4Pk"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-06-23T11:14:34.000Z",
+      "url_video": "https://www.youtube.com/watch?v=RTMiovrfURE",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Líderes de Colombia 2022: Entrevista a Maite Muñiz - Truora\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Líderes de Colombia 2022: Entrevista a Maite Muñiz - Truora",
+      "canal": "Fundación Consejo España-Colombia",
+      "descripcion": null,
+      "duracion": "00:01:43",
+      "vistas": 296,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:13.096308Z",
+      "_video_id": "RTMiovrfURE"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2026-03-06T03:03:51.000Z",
+      "url_video": "https://www.youtube.com/watch?v=EFxqgVvPft8",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Julia Correa: El Liderazgo de una Mujer que Inspira.\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Julia Correa: El Liderazgo de una Mujer que Inspira.",
+      "canal": "Maria Antonia Mesa",
+      "descripcion": null,
+      "duracion": "00:42:01",
+      "vistas": 112,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:13.400542Z",
+      "_video_id": "EFxqgVvPft8"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2025-07-19T22:01:12.000Z",
+      "url_video": "https://www.youtube.com/watch?v=FAqgaaLrc_o",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"#AlejandraMurgas habla de su vida, su familia y nuevos proyectos | El Tiempo\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "#AlejandraMurgas habla de su vida, su familia y nuevos proyectos | El Tiempo",
+      "canal": "EL TIEMPO",
+      "descripcion": null,
+      "duracion": "00:33:52",
+      "vistas": 731,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:13.705722Z",
+      "_video_id": "FAqgaaLrc_o"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-11-23T17:00:06.000Z",
+      "url_video": "https://www.youtube.com/watch?v=klap_Pk9a_Q",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Andrea Petro sin reservas: infancia, familia, vida empresaria y el precio de ser hija del Presidente\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Andrea Petro sin reservas: infancia, familia, vida empresaria y el precio de ser hija del Presidente",
+      "canal": "María Camila Díaz",
+      "descripcion": null,
+      "duracion": "00:39:40",
+      "vistas": 9301,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:14.007304Z",
+      "_video_id": "klap_Pk9a_Q"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2025-08-15T23:43:24.000Z",
+      "url_video": "https://www.youtube.com/watch?v=bB1KZkTW7eQ",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento femenino"
+      ],
+      "temas_abordados": [
+        "Emprendimiento femenino"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "CERES impulsa el emprendimiento femenino en Itagüí",
+      "canal": "Antioquia Amanece",
+      "descripcion": null,
+      "duracion": "00:03:51",
+      "vistas": 26,
+      "likes": null,
+      "_query_origen": "emprendimiento femenino Colombia política entrevista",
+      "_capturado_en": "2026-04-01T11:31:14.311877Z",
+      "_video_id": "bB1KZkTW7eQ"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Cámara de Comercio",
+      "fecha_publicacion": "2017-11-20T13:25:00.000Z",
+      "url_video": "https://www.youtube.com/watch?v=vhgaGdZEZgM",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento regional"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Emprendedores en Santander cuentan con plataforma web | Cámara de Comercio de Bucaramanga",
+      "canal": "Cámara de Comercio de Bucaramanga",
+      "descripcion": null,
+      "duracion": "00:00:45",
+      "vistas": 116,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:14.618285Z",
+      "_video_id": "vhgaGdZEZgM"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Confecámaras",
+      "fecha_publicacion": "2020-10-22T21:24:01.000Z",
+      "url_video": "https://www.youtube.com/watch?v=VfXFyjKoxZY",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Las Cámaras de Comercio, Motores  de Desarrollo para la Reactivación\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Las Cámaras de Comercio, Motores  de Desarrollo para la Reactivación",
+      "canal": "Confecámaras",
+      "descripcion": null,
+      "duracion": "00:04:24",
+      "vistas": 346,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:14.922928Z",
+      "_video_id": "VfXFyjKoxZY"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2018-09-03T15:56:21.000Z",
+      "url_video": "https://www.youtube.com/watch?v=V37R_X2dWzc",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"MÉRITO EMPRESARIAL TV - Turismo, emprendimiento y actualidad económica. Capítulo septiembre 2.\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "MÉRITO EMPRESARIAL TV - Turismo, emprendimiento y actualidad económica. Capítulo septiembre 2.",
+      "canal": "Mérito Empresarial",
+      "descripcion": null,
+      "duracion": "00:22:58",
+      "vistas": 106,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:15.225832Z",
+      "_video_id": "V37R_X2dWzc"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Cámara de Comercio",
+      "fecha_publicacion": "2021-07-19T23:06:40.000Z",
+      "url_video": "https://www.youtube.com/watch?v=CkpaEm9y-OY",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento regional"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "El desarrollo de la Cámara de Comercio de Manizales por Caldas | Cien años de verdad",
+      "canal": "La Patria Manizales",
+      "descripcion": null,
+      "duracion": "00:04:09",
+      "vistas": 207,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:15.530994Z",
+      "_video_id": "CkpaEm9y-OY"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Cámara de Comercio",
+      "fecha_publicacion": "2019-02-06T20:18:48.000Z",
+      "url_video": "https://www.youtube.com/watch?v=ocHz64uOOPg",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento regional"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "PROYECTOS DE EMPRENDIMIENTO DE CÁMARA DE COMERCIO.",
+      "canal": "CNC CHOCÓ",
+      "descripcion": null,
+      "duracion": "00:03:49",
+      "vistas": 61,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:15.836127Z",
+      "_video_id": "ocHz64uOOPg"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Cámara de Comercio",
+      "fecha_publicacion": "2019-07-11T16:44:13.000Z",
+      "url_video": "https://www.youtube.com/watch?v=eu1J4gyMrE4",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"\"La rueda nos sirvió para encontrar proveedores en nuestra misma región\"\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "\"La rueda nos sirvió para encontrar proveedores en nuestra misma región\"",
+      "canal": "Cámara de Comercio Colombo Americana, AmCham Col ",
+      "descripcion": null,
+      "duracion": "00:00:36",
+      "vistas": 20,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:16.140334Z",
+      "_video_id": "eu1J4gyMrE4"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Cámara de Comercio",
+      "fecha_publicacion": "2013-04-01T01:05:42.000Z",
+      "url_video": "https://www.youtube.com/watch?v=_pu2RTgANE0",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento regional"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Lina María Ramirez Presidente de Cámara de Comercio en Taller Ecosistema con Daniel Isenberg 02/2013",
+      "canal": "Manizales Más",
+      "descripcion": null,
+      "duracion": "00:00:20",
+      "vistas": 31,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:16.445508Z",
+      "_video_id": "_pu2RTgANE0"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Cámara de Comercio",
+      "fecha_publicacion": "2013-10-07T17:19:24.000Z",
+      "url_video": "https://www.youtube.com/watch?v=j5MoNSeiQUY",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento regional, Competitividad"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional",
+        "Competitividad"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Cámara de Comercio - Cluster Industrias Creativas - Presentación Convocatoria Generación de Ideas",
+      "canal": "Ministerio TIC Colombia",
+      "descripcion": null,
+      "duracion": "00:09:46",
+      "vistas": 210,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:16.749450Z",
+      "_video_id": "j5MoNSeiQUY"
+    },
+    {
+      "nombre_actor": "Rodrigo Varela",
+      "cargo_actor": "Director",
+      "institucion": "Centro de Desarrollo del Espíritu Empresarial - Universidad ICESI",
+      "fecha_publicacion": "2019-09-16T13:24:17.000Z",
+      "url_video": "https://www.youtube.com/watch?v=QIXC_JhJ1Gc",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Rodrigo Varela, Director de Centro de Desarrollo del Espíritu Empresarial - Universidad ICESI: Título del video: \"Emprendimiento en la CCB con Rodrigo Varela | Cámara de Comercio de Bucaramanga\"",
+        "[Temas abordados según título]: Emprendimiento regional"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional"
+      ],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Emprendimiento en la CCB con Rodrigo Varela | Cámara de Comercio de Bucaramanga",
+      "canal": "Cámara de Comercio de Bucaramanga",
+      "descripcion": null,
+      "duracion": "00:00:46",
+      "vistas": 91,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:17.054643Z",
+      "_video_id": "QIXC_JhJ1Gc"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Cámara de Comercio",
+      "fecha_publicacion": "2022-12-08T21:52:18.000Z",
+      "url_video": "https://www.youtube.com/watch?v=YljezzAMb-Q",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento regional"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional"
+      ],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "Nuestra entrevista en telepacifico, gracias al programa prospera de la cámara de comercio de Cali.",
+      "canal": "Loa Mar Colombia",
+      "descripcion": null,
+      "duracion": "00:02:12",
+      "vistas": 20,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:17.355859Z",
+      "_video_id": "YljezzAMb-Q"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": "Cámara de Comercio",
+      "fecha_publicacion": "2019-04-20T01:50:38.000Z",
+      "url_video": "https://www.youtube.com/watch?v=5QgAlj6YD-8",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Emprendimiento regional"
+      ],
+      "temas_abordados": [
+        "Emprendimiento regional"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Emprendimiento con la Cámara de Comercio de Neiva",
+      "canal": "Onda Opita",
+      "descripcion": null,
+      "duracion": "00:03:50",
+      "vistas": 143,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:17.661030Z",
+      "_video_id": "5QgAlj6YD-8"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2014-05-24T20:16:15.000Z",
+      "url_video": "https://www.youtube.com/watch?v=coK0EV7v7UU",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Periódico En Acción PROGRAMA DE EMPRENDIMIENTO Colombia Emprende\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Periódico En Acción PROGRAMA DE EMPRENDIMIENTO Colombia Emprende",
+      "canal": "En Acción Internacional",
+      "descripcion": null,
+      "duracion": "00:07:19",
+      "vistas": 157,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:17.966201Z",
+      "_video_id": "coK0EV7v7UU"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2019-04-29T20:26:27.000Z",
+      "url_video": "https://www.youtube.com/watch?v=Dyx_WNUOzhc",
+      "fragmentos_clave": [
+        "[Temas abordados según título]: Economía popular"
+      ],
+      "temas_abordados": [
+        "Economía popular"
+      ],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "MERITO EMPRESARIAL | Comercio Exterior y pymes en Colombia",
+      "canal": "Mérito Empresarial",
+      "descripcion": null,
+      "duracion": "00:24:06",
+      "vistas": 75,
+      "likes": null,
+      "_query_origen": "emprendimiento regional Colombia cámara de comercio entrevista",
+      "_capturado_en": "2026-04-01T11:31:18.269339Z",
+      "_video_id": "Dyx_WNUOzhc"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-01-18T21:00:40.000Z",
+      "url_video": "https://www.youtube.com/watch?v=GQ_lvj_Oyss",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Recon Colombia busca apoyar emprendedores que desarrollen modelos de negocio social\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Recon Colombia busca apoyar emprendedores que desarrollen modelos de negocio social",
+      "canal": "Noticias RCN",
+      "descripcion": null,
+      "duracion": "00:02:55",
+      "vistas": 528,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:18.574548Z",
+      "_video_id": "GQ_lvj_Oyss"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2023-07-28T23:49:27.000Z",
+      "url_video": "https://www.youtube.com/watch?v=xrfoSK7hWxI",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"FERIA EFFIX 2023 COLOMBIA\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "FERIA EFFIX 2023 COLOMBIA",
+      "canal": "FERIAEFFIX",
+      "descripcion": null,
+      "duracion": "00:00:59",
+      "vistas": 1605,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:18.879730Z",
+      "_video_id": "xrfoSK7hWxI"
+    },
+    {
+      "nombre_actor": "Janeth Camacho",
+      "cargo_actor": "Emprendedora / Líder de emprendimiento rural",
+      "institucion": "Independiente",
+      "fecha_publicacion": "2022-12-03T01:15:02.000Z",
+      "url_video": "https://www.youtube.com/watch?v=gIvwtj761UE",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Janeth Camacho, Emprendedora / Líder de emprendimiento rural de Independiente: Título del video: \"EL EXITOSO NEGOCIO DE HAMBURGUESAS AL CARBÓN 😱🍔DEL QUE TODOS ESTÁN HABLANDO\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "EL EXITOSO NEGOCIO DE HAMBURGUESAS AL CARBÓN 😱🍔DEL QUE TODOS ESTÁN HABLANDO",
+      "canal": "Janeth Camacho",
+      "descripcion": null,
+      "duracion": "00:19:17",
+      "vistas": 689901,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:19.183699Z",
+      "_video_id": "gIvwtj761UE"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-04-15T22:20:41.000Z",
+      "url_video": "https://www.youtube.com/watch?v=yLkWvyBYKE8",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"5 Negocios de Belleza que FUNCIONAN (Cual es mejor?) |Karomakeup|\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "5 Negocios de Belleza que FUNCIONAN (Cual es mejor?) |Karomakeup|",
+      "canal": "karomakeup",
+      "descripcion": null,
+      "duracion": "00:17:41",
+      "vistas": 273427,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:19.487559Z",
+      "_video_id": "yLkWvyBYKE8"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-09-21T18:00:05.000Z",
+      "url_video": "https://www.youtube.com/watch?v=CAzYCoXzO-g",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¡La Granja de El Borrego nos presenta su emprendimiento! 👨‍🌾☕ | Temporada 6 | Shark Tank Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "¡La Granja de El Borrego nos presenta su emprendimiento! 👨‍🌾☕ | Temporada 6 | Shark Tank Colombia",
+      "canal": "Shark Tank Colombia",
+      "descripcion": null,
+      "duracion": "00:09:31",
+      "vistas": 896973,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:19.792729Z",
+      "_video_id": "CAzYCoXzO-g"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2021-05-27T14:00:29.000Z",
+      "url_video": "https://www.youtube.com/watch?v=kpL9bcmCTpo",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"¡Las ofertas más grandes en la historia del programa! 💰 | Shark Tank Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "¡Las ofertas más grandes en la historia del programa! 💰 | Shark Tank Colombia",
+      "canal": "Shark Tank Colombia",
+      "descripcion": null,
+      "duracion": "00:54:50",
+      "vistas": 2387221,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:20.097887Z",
+      "_video_id": "kpL9bcmCTpo"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-10-10T12:28:28.000Z",
+      "url_video": "https://www.youtube.com/watch?v=1wa5PvKO8yo",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Pitch, La Cocina de JP\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Video con baja relación con el tema de investigación",
+      "titulo": "Pitch, La Cocina de JP",
+      "canal": "La Cocina de JP",
+      "descripcion": null,
+      "duracion": "00:04:36",
+      "vistas": 1061,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:20.402195Z",
+      "_video_id": "1wa5PvKO8yo"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-12-24T06:14:40.000Z",
+      "url_video": "https://www.youtube.com/watch?v=hxSzlr8o5TQ",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"JUGUERIA KATTY EN BREÑA - ENTREVISTA\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "JUGUERIA KATTY EN BREÑA - ENTREVISTA",
+      "canal": "PREMIUM PERU TV",
+      "descripcion": null,
+      "duracion": "00:10:14",
+      "vistas": 14778,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:20.704211Z",
+      "_video_id": "hxSzlr8o5TQ"
+    },
+    {
+      "nombre_actor": "Daniella Moscarella",
+      "cargo_actor": "Estratega de negocios",
+      "institucion": "Independiente",
+      "fecha_publicacion": "2023-09-21T14:47:07.000Z",
+      "url_video": "https://www.youtube.com/watch?v=qhoAD3bgzTQ",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Daniella Moscarella, Estratega de negocios de Independiente: Título del video: \"Entre-Vistas con Alma de País hoy: Daniella Moscarella, Estratega de negocios\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "alta",
+      "justificacion_relevancia": "Video contiene entrevista o declaración de actor clave en política de emprendimiento colombiana",
+      "titulo": "Entre-Vistas con Alma de País hoy: Daniella Moscarella, Estratega de negocios",
+      "canal": "Presidencia de la República - Colombia",
+      "descripcion": null,
+      "duracion": "00:30:59",
+      "vistas": 3980,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:21.009347Z",
+      "_video_id": "qhoAD3bgzTQ"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-04-24T13:57:42.000Z",
+      "url_video": "https://www.youtube.com/watch?v=4jAKiAJrALw",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"🚨 La mejor entrevista a Yeison Jiménez | 40 Copas con Roberto Cardona\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "media",
+      "justificacion_relevancia": "Video relacionado con emprendimiento en Colombia pero sin actor institucional identificado",
+      "titulo": "🚨 La mejor entrevista a Yeison Jiménez | 40 Copas con Roberto Cardona",
+      "canal": "LOS40 Colombia",
+      "descripcion": null,
+      "duracion": "01:00:42",
+      "vistas": 593185,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:21.312795Z",
+      "_video_id": "4jAKiAJrALw"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-03-03T05:00:01.000Z",
+      "url_video": "https://www.youtube.com/watch?v=0KR8m2DqhPI",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Discurso de Elon Musk te dejará SIN PALABRAS  | Uno de los discursos más reveladores de la historia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "Discurso de Elon Musk te dejará SIN PALABRAS  | Uno de los discursos más reveladores de la historia",
+      "canal": "Motiversity en Español",
+      "descripcion": null,
+      "duracion": "00:08:18",
+      "vistas": 3741677,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:21.616602Z",
+      "_video_id": "0KR8m2DqhPI"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2023-02-21T19:00:30.000Z",
+      "url_video": "https://www.youtube.com/watch?v=lKIQHQRXCAs",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"Los emprendedores MÁS JÓVENES hasta ahora 🤯| Lo Mejor de Shark Tank México\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "Los emprendedores MÁS JÓVENES hasta ahora 🤯| Lo Mejor de Shark Tank México",
+      "canal": "Shark Tank México",
+      "descripcion": null,
+      "duracion": "00:30:40",
+      "vistas": 3294345,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:21.921774Z",
+      "_video_id": "lKIQHQRXCAs"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2024-03-01T19:38:24.000Z",
+      "url_video": "https://www.youtube.com/watch?v=joSerma5JxU",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"8 minutos de conocimientos de Tony Robbins para los PRÓXIMOS 50 años de tu VIDA\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "8 minutos de conocimientos de Tony Robbins para los PRÓXIMOS 50 años de tu VIDA",
+      "canal": "Financial Mentors TV - Español",
+      "descripcion": null,
+      "duracion": "00:07:40",
+      "vistas": 512118,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:22.223462Z",
+      "_video_id": "joSerma5JxU"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2022-09-22T14:00:13.000Z",
+      "url_video": "https://www.youtube.com/watch?v=G84CdSrYqcc",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"EXCLUSIVO: Una niña de 10 años ya es CEO 🤯 | Shark Tank Colombia\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "EXCLUSIVO: Una niña de 10 años ya es CEO 🤯 | Shark Tank Colombia",
+      "canal": "Shark Tank Colombia",
+      "descripcion": null,
+      "duracion": "00:11:42",
+      "vistas": 795418,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:22.526580Z",
+      "_video_id": "G84CdSrYqcc"
+    },
+    {
+      "nombre_actor": null,
+      "cargo_actor": null,
+      "institucion": null,
+      "fecha_publicacion": "2025-03-21T22:08:00.000Z",
+      "url_video": "https://www.youtube.com/watch?v=I79rJUyaxV0",
+      "fragmentos_clave": [
+        "[Video - sin transcripción] Título: \"20 Negocios con GANANCIAS DIARIAS que Poca Gente piensa “Gana Dinero todos los Días”\""
+      ],
+      "temas_abordados": [],
+      "relevancia_investigacion": "baja",
+      "justificacion_relevancia": "Contenido no relacionado con política de emprendimiento institucional en Colombia",
+      "titulo": "20 Negocios con GANANCIAS DIARIAS que Poca Gente piensa “Gana Dinero todos los Días”",
+      "canal": "Algo de Bueno",
+      "descripcion": null,
+      "duracion": "00:15:21",
+      "vistas": 615010,
+      "likes": null,
+      "_query_origen": "emprendimiento Colombia 2022 2023 2024 entrevista actores",
+      "_capturado_en": "2026-04-01T11:31:22.831711Z",
+      "_video_id": "I79rJUyaxV0"
+    }
+  ]
+}

@@ -60,7 +60,14 @@ os.makedirs(ruta_destino, exist_ok=True)
 fecha = datetime.now().strftime("%Y%m%d")
 nombre_archivo = os.path.join(ruta_destino, f"entrevistas_actores_ampliado_{fecha}.json")
 
+class DatetimeEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if hasattr(obj, "isoformat"):
+            return obj.isoformat()
+        return super().default(obj)
+
 with open(nombre_archivo, "w", encoding="utf-8") as f:
-    json.dump(resultado, f, ensure_ascii=False, indent=2)
+    datos = resultado.model_dump() if hasattr(resultado, "model_dump") else vars(resultado)
+    json.dump(datos, f, ensure_ascii=False, indent=2, cls=DatetimeEncoder)
 
 print(f"✅ Corpus cualitativo guardado con éxito en: {nombre_archivo}")

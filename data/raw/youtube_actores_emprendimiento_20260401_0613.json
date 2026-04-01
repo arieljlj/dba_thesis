@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "fuente": "Apify / YouTube Scraper",
+    "actor_apify": "streamers/youtube-scraper",
+    "extraccion_nlp": "heuristica",
+    "capturado_en": "2026-04-01T11:13:05.216288Z",
+    "total_videos": 0,
+    "terminos_busqueda": [
+      "entrevista MinCIT emprendimiento Colombia",
+      "Ministerio de Comercio emprendimiento política pública Colombia",
+      "iNNpulsa Colombia entrevista director",
+      "SENA emprendimiento Fondo Emprender entrevista director",
+      "Confecámaras emprendimiento Colombia entrevista",
+      "Ley 1014 fomento emprendimiento Colombia entrevista",
+      "programa ALDEA emprendimiento Colombia iNNpulsa",
+      "ecosistema emprendedor Colombia política pública entrevista",
+      "investigador emprendimiento Colombia intención emprendedora entrevista",
+      "emprendimiento juvenil Colombia política pública entrevista",
+      "emprendimiento femenino Colombia política entrevista",
+      "emprendimiento regional Colombia cámara de comercio entrevista",
+      "emprendimiento Colombia 2022 2023 2024 entrevista actores"
+    ]
+  },
+  "videos": []
+}

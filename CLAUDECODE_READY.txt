@@ -1,0 +1,59 @@
+================================================================================
+PROMPT LISTO PARA COPIAR A CLAUDE CODE
+================================================================================
+
+Copia TODO el texto entre las líneas de guiones (sin incluirlas) y pégalo en
+Claude Code para ejecutar la reorganización en otro proyecto o referencia.
+
+================================================================================
+
+Reorganiza la estructura de mi tesis doctoral según estos cambios:
+
+1. ELIMINAR:
+   - La carpeta 'docs/capitulos/' completa (es duplicada)
+   - La carpeta 'docs/estadodelarte/' (innecesaria)
+
+2. MOVER archivos:
+   - 'docs/styles.css' → 'docs/assets/styles.css'
+   - 'docs/index.html' → 'docs/assets/index.html'
+
+3. REORGANIZAR 'code/':
+   - Crear: code/scraping/, code/processing/, code/analysis/, code/utils/, code/instruments/
+   - Mover scripts de scraping: apify_youtube_actores.py, firecrawl_actores.py → code/scraping/
+   - Mover scripts de limpieza: limpiar_datos.R, "code 1.R" → code/processing/ (renombrar sin espacios)
+   - Mover análisis: analisis_encuesta_2026.ipynb, analisis_macroeconomico.py → code/analysis/
+   - Mover instrumentos: code/instrumentos/* → code/instruments/ (renombrar a questionnaire_es.pdf, questionnaire_en.pdf)
+
+4. REORGANIZAR 'data/':
+   - Crear: data/processed/, data/outputs/, data/outputs/figures/, data/outputs/tables/, data/outputs/statistics/
+   - Renombrar archivos en raw/ con snake_case estándar:
+     * 'entrevistas_actores_ampliado_20260331.json' → 'interviews_actors_extended_20260331.json'
+     * 'youtube_actores_emprendimiento_claude_20260401.json' → 'youtube_actors_entrepreneurship_20260401.json'
+   - Mover datos procesados: datos_encuesta_2026.csv → data/processed/survey_data_2026.csv
+
+5. ACTUALIZAR .gitignore:
+   - Agregar: .claude/, data/outputs/
+   - Mantener exclusiones existentes para datos sensibles
+
+6. CREAR documentación:
+   - Crear README.md en: code/scraping/, code/processing/, code/analysis/, code/instruments/
+   - Cada README debe explicar el propósito de la carpeta y cómo usar los scripts
+
+7. CREAR COMMIT git:
+   - Hacer un commit con mensaje descriptivo de los cambios de reorganización
+   - Mensaje debe incluir: qué se eliminó, qué se movió, por qué se hizo
+
+================================================================================
+
+ARCHIVOS GENERADOS DURANTE LA REORGANIZACIÓN:
+- ANALISIS_ESTRUCTURA_MEJORAS.md: Análisis completo antes/después
+- CLAUDE_CODE_PROMPT.md: Documentación del prompt y cambios
+- CLAUDECODE_READY.txt: Este archivo (prompt listo para copiar)
+
+PRÓXIMOS PASOS DESPUÉS DE USAR EL PROMPT:
+1. Verificar que todos los cambios se hayan realizado
+2. Actualizar imports en scripts Python/R si es necesario
+3. Probar notebooks Jupyter para confirmar referencias de rutas
+4. Hacer git push si todo está correcto
+
+================================================================================

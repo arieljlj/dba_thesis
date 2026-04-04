@@ -51,3 +51,10 @@ data/raw/*_sin_anonimizar*
 .vscode/
 .idea/
 *.code-workspace
+
+# Claude Code
+.claude/
+.claude/**
+
+# Outputs (resultados de análisis - regenerables)
+data/outputs/

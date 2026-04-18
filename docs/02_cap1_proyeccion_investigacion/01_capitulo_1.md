@@ -123,6 +123,56 @@ Las hipótesis se derivan de la Teoría del Comportamiento Planificado (Ajzen, 1
 
 ---
 
+## 1.8.1. Formulación Estadística de Hipótesis
+
+Las hipótesis se formalizan mediante notación estadística para permitir su prueba rigurosa mediante análisis de regresión múltiple. Se especifican hipótesis nulas (H₀) e hipótesis alternativas (Ha) para cada uno de los enunciados anteriores:
+
+| Hipótesis | Formulación Estadística | Interpretación | Test |
+|-----------|--------------------------|-----------------|------|
+| **H₀₁ᵃ** | β(EA→IE) = 0 | La actitud emprendedora NO tiene efecto significativo sobre IE | t-test (regresión) |
+| **Ha₁ᵃ** | β(EA→IE) > 0 **AND** \|β(EA)\| > \|β(SE)\| | La actitud tiene efecto positivo Y es el predictor de mayor magnitud | Comparación β estandarizados |
+| **H₀₁ᵇ** | β(SE→IE) = 0 (cuando EA en modelo) | La autoeficacia NO tiene efecto significativo, independiente de actitud | t-test (regresión) |
+| **Ha₁ᵇ** | β(SE→IE) > 0 (cuando EA en modelo) | La autoeficacia tiene efecto positivo significativo, independiente de actitud | t-test unilateral p < .05 |
+| **H₀₁** | β(FK→IE) = 0 **AND** β(FL→IE) = 0 | Las políticas públicas (FK, FL) NO tienen efecto significativo sobre IE | F-test conjunto (regresión) |
+| **Ha₁** | β(FK→IE) > 0 **AND** β(FL→IE) > 0 | Las políticas públicas se relacionan positivamente y significativamente con IE | t-test unilateral p < .05 |
+| **H₀₂** | β(FK×VM→IE) = 0 **AND** β(FL×VM→IE) = 0 | No hay efecto de moderación significativo del contexto universitario | ΔR² (cambio en R² del modelo) |
+| **Ha₂** | β(FK×VM→IE) > 0 **AND** β(FL×VM→IE) > 0 | El contexto universitario modera positivamente el efecto de políticas sobre IE | t-test unilateral p < .05 |
+
+**Nota sobre notación:** β representa el coeficiente de regresión no estandarizado; β estandarizados se usan para comparar magnitudes relativas entre predictores. VM en la tabla referencia la variable moderadora (contexto universitario: desarrollo universitario, apoyo académico, clima de aprendizaje).
+
+---
+
+## 1.8.2. Especificación de Análisis Estadístico para Contraste de Hipótesis
+
+Las hipótesis se contrastarán mediante modelos de regresión múltiple estimados por mínimos cuadrados ordinarios (OLS), con la siguiente arquitectura:
+
+**Modelo 1 (Línea base — H1a, H1b):**  
+IE = β₀ + β₁(EA) + β₂(SE) + β₃(EW) + ε
+
+Este modelo establece la estructura explicativa del modelo de la Teoría del Comportamiento Planificado (TCP). Los parámetros β₁ y β₂ se contrastan contra H₀₁ᵃ y H₀₁ᵇ respectivamente.
+
+**Modelo 2 (Políticas públicas — H1):**  
+IE = β₀ + β₁(EA) + β₂(SE) + β₃(EW) + β₄(FK) + β₅(FL) + ε
+
+Este modelo añade las variables independientes proxy de percepción de políticas públicas (FK: conocimiento formal del ecosistema; FL: alfabetización financiera). Los parámetros β₄ y β₅ se contrastan contra H₀₁. Se reporta el cambio en R² (ΔR²) respecto al Modelo 1 para cuantificar el aporte incremental de las políticas públicas.
+
+**Modelo 3 (Moderación — H2):**  
+IE = β₀ + β₁(EA) + β₂(SE) + β₃(EW) + β₄(FK) + β₅(FL) + β₆(U-D) + β₇(U-AS) + β₈(LC) + β₉(FK×U-D) + β₁₀(FK×U-AS) + β₁₁(FK×LC) + β₁₂(FL×U-D) + β₁₃(FL×U-AS) + β₁₄(FL×LC) + ε
+
+Este modelo incluye términos de interacción (moderación) entre las variables de políticas públicas (FK, FL) y cada dimensión del contexto universitario (U-D: desarrollo universitario; U-AS: apoyo académico; LC: clima de aprendizaje). Los parámetros β₉ a β₁₄ se contrastan contra H₀₂. Se reporta ΔR² respecto al Modelo 2 para evaluar la significancia conjunta del efecto de moderación.
+
+**Criterios de decisión:**
+
+- H₀ se rechaza si p < .05 (prueba unilateral, α = .05)
+- H₀ se mantiene si p ≥ .05
+- Para hipótesis de magnitud relativa (H1a: EA > SE), se comparan β estandarizados usando su magnitud absoluta
+
+**Supuestos y diagnósticos:**
+
+Antes de reportar resultados, se verifican los supuestos de regresión OLS: linealidad, normalidad de residuos (Shapiro-Wilk), homocedasticidad (Breusch-Pagan), ausencia de multicolinealidad (VIF < 5), y ausencia de casos influyentes (distancia de Cook). Se reportan estos diagnósticos en la sección metodológica del Capítulo 3.
+
+---
+
 ## 1.9. Alcance temático
 
 El alcance del estudio se define en tres dimensiones.

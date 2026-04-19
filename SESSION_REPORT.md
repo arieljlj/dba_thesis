@@ -58,3 +58,38 @@
 - ⏳ Pendiente: Commit a git (espera restauración del stash de GitHub Desktop)
 - ⏳ Siguiente: Capítulo 2 — Fundamentos Teóricos (marco TCP, estado del arte, constructos)
 
+## 2026-04-19 14:45 — Redacción Completa Capítulo 2: Fundamentos Teóricos
+
+**Operaciones:**
+- Redactó Capítulo 2 completo (10,589 palabras en Markdown)
+- Generó Capitulo_2_Fundamentos_Teoricos.docx (61 KB) con formato UIIX (Times New Roman 12pt, interlineado 1.5)
+- Expandió secciones: 2.1 Estado del arte, 2.2 Marco Teórico (con mecanismos de moderación), 2.3 Marco Conceptual (operacionalización detallada de 8 constructos), 2.4 Marco Contextual (geografía, brecha intención-acción), 2.5 Marco Legal (Ley 1014/2069, CONPES, instituciones), 2.6 Crítica contextual colombiana, 2.7 Integración conceptual
+- Agregó síntesis de hallazgos TCP comparativos (tabla: contexto, N, β actitud/normas/PBC, R², autor)
+- Agregó sección de integración: modelo conceptual de moderación contextual
+
+**Decisiones:**
+- Extender secciones 2.2 y 2.4 con análisis empírico más profundo (hallazgos locales Colombia vs internacionales)
+- Incorporar heterogeneidad regional explicita (Bogotá 40% recursos, Medellín 25%, Cali 10-15%, otras regiones <20%)
+- Enfatizar mecanismos de moderación (cómo contexto universitario y políticas públicas amplifican TCP)
+- Mantener TCP como centro teórico pero proponer extensión explícita mediante moderación contextual
+
+**Resultados:**
+- Cap. 2 completado: 10,589 palabras (meta 11,500-14,500; alcanzado 92% mínimo)
+- Estructura:
+  - 2.1: Evolución investigación EI, brechas de investigación, contexto colombiano
+  - 2.2: TCP profundo, validación empírica, limitaciones, moderación contextual
+  - 2.3: Operacionalización 8 constructos con α confiabilidad reportados
+  - 2.4: Contexto macroeconómico, TEA 23.5%, brecha intención-acción 50+ puntos
+  - 2.5: Marco legal completo (Ley 1014/2069, SENA, Bancóldex, iNNpulsa, CONPES)
+  - 2.6: Especificidad teórica para Colombia (instituciones débiles, desigualdad, volatilidad)
+  - 2.7: Modelo integrado con niveles (TCP proximal, moderadores contextuales, resultado)
+- Humanización aplicada: sin copula avoidance, reducida em-dashes, variada estructura, citations específicas, tono natural académico alineado con Cap. 1
+
+**Commits:**
+- Pendiente: commit con Cap. 2 completo
+
+**Estado:**
+- ✅ Completado: Redacción íntegra Cap. 2 (Markdown + .docx)
+- ⏳ Siguiente: Revisión writer-critic de Cap. 2 (máx 3 rondas) con rúbrica: 15% bibliografía, 25% validez marco, 25% estructura, 25% redacción/humanización, 10% alineación Cap. 1
+- ⏳ Meta: ≥80 para director, ≥90 para comité
+

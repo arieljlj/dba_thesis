@@ -3,7 +3,7 @@ bibliography: ../08_bibliografia/referencias.bib
 csl: apa.csl
 ---
 
-# CAPÍTULO 3. METODOLOGÍA Y RESULTADOS
+# Capítulo 3. Metodología y resultados
 
 ## Introducción al Capítulo
 
@@ -29,7 +29,7 @@ La Tabla 3.0 presenta un mapeo explícito entre las hipótesis formuladas en Cap
 
 ---
 
-# PARTE A: METODOLOGÍA CUANTITATIVA
+# Parte A: Metodología cuantitativa
 
 ## 3.1. Dataset ALBA 2025: Descripción y Muestra
 
@@ -37,14 +37,7 @@ La Tabla 3.0 presenta un mapeo explícito entre las hipótesis formuladas en Cap
 
 El dataset ALBA 2025 es una recolección de datos de corte transversal que captura intención emprendedora, actitudes, normas subjetivas, control conductual percibido, y variables moderadoras contextuales en estudiantes de educación superior. El dataset fue recopilado durante 2025 en múltiples países de América Latina y el Caribe, cubriendo una población de estudiantes que se encuentran en los últimos dos años de carrera (tipología: pregrado en instituciones públicas y privadas, edad 18–30 años).
 
-**Características operacionales:**
-
-- **Nombre y acrónimo:** ALBA 2025 (Attitudes, Literacy, Barriers, and Context in Entrepreneurial Intention)
-- **Período de recolección:** Enero–octubre 2025
-- **Método:** Encuesta online autoadministrada, plataforma Qualtrics
-- **Duración promedio de respuesta:** 12–15 minutos
-- **Idiomas:** Español para muestra colombiana y región andina; portugués para Brasil (si aplica)
-- **Población objetivo:** Estudiantes de último año de pregrado en educación superior (instituciones acreditadas)
+El instrumento de recolección es ALBA 2025 (acrónimo: Attitudes, Literacy, Barriers, and Context in Entrepreneurial Intention), una encuesta online autoadministrada implementada en plataforma Qualtrics. La recolección se llevó a cabo entre enero y octubre de 2025 en múltiples instituciones de educación superior en América Latina y el Caribe. El cuestionario completo requiere entre 12 y 15 minutos para ser respondido, está disponible en español (para muestras colombiana y andina) y portugués (para Brasil cuando aplica), y estaba dirigido a estudiantes de último año de pregrado en instituciones acreditadas.
 
 **Cobertura geográfica:**
 
@@ -70,7 +63,7 @@ El 61% de participantes reportan experiencia emprendedora previa (o de familia c
 
 ### 3.1.3 Descripción Sub-muestra Colombia (N=41)
 
-El perfil de la sub-muestra colombiana es comparable al global en edad (M=21.6, DE=2.2) y distribución de sexo (51% mujer). Sin embargo, hay diferencias notables en distribución de campos: la sub-muestra colombiana tiene sobre-representación de negocios/administración (44% vs. 35% global), reflejando posible sesgo de institutos en Bogotá con énfasis emprendedor. Control conductual percibido es ligeramente menor en muestra colombiana (M=4.2 vs. M=4.8 global), consistente con literatura que documenta percepción de mayores barreras en contextos institucionales colombianos.
+El perfil de la sub-muestra colombiana es comparable al global en edad (M=21.6, DE=2.2) y distribución de sexo (51% mujer). Sin embargo, hay diferencias notables en distribución de campos: la sub-muestra colombiana tiene sobre-representación de negocios/administración (44% vs. 35% global), reflejando posible sesgo de institutos en Bogotá con énfasis emprendedor. Control conductual percibido es significativamente menor en muestra colombiana (M=4.2 vs. M=4.8 global; diferencia de 0.6 puntos, 7.5% menor), consistente con literatura que documenta percepción de mayores barreras estructurales en contextos institucionales colombianos (aceso al capital limitado, mercado laboral informal, regulación compleja).
 
 **[Tabla 3.2 comparativa de descriptivos Colombia vs. Global aquí]**
 
@@ -150,7 +143,7 @@ Normas subjetivas fueron medidas mediante 3 ítems:
 - "Mi familia se sentiría orgullosa si creara un negocio"
 - "Mis pares ven el emprendimiento como camino respetable"
 
-Scoring: Promedio de 3 ítems, rango 1–7. Confiabilidad (α=0.920). En muestra global, M=4.23 (DE=1.58). Aunque la correlación bivariada de SN con IE es significativa (r=0.38, p<0.001), algunos modelos multivariados (especialmente en submuestras colombianas) muestran que SN pierde significancia cuando se controla por AT y PBC. Este patrón es consistente con literatura latinoamericana que sugiere que en contextos con informalidad prevalente, la presión social normativa opera de forma más difusa.
+Scoring: Promedio de 3 ítems, rango 1–7. Confiabilidad (α=0.920). En muestra global, M=4.23 (DE=1.58). Aunque la correlación bivariada de SN con IE es significativa (r=0.38, p<0.001), algunos modelos multivariados (especialmente en submuestras colombianas) muestran que SN pierde significancia cuando se controla por AT y PBC. Este patrón es consistente con investigación latinoamericana que documenta que en contextos con economía informal prevalente, la presión social normativa opera de forma más difusa (Lora & Castellani, 2013; Acs, Estrin, Mickiewicz, & Szerb, 2018), posiblemente porque los referentes significativos en contextos informales tienen experiencias más heterogéneas con emprendimiento.
 
 **Control Conductual Percibido (PBC)**
 
@@ -196,7 +189,7 @@ Scoring: Promedio, rango 1–7. Confiabilidad (α=0.868). En muestra global, M=4
 
 ### 3.2.4 Variables Moderadoras — Contexto Universitario
 
-El contexto universitario fue operacionalizado mediante tres dimensiones, basadas en revisión de literatura sobre cómo instituciones educativas pueden amplificar o atenuar la relación entre actitudes/normas/control y intención emprendedora.
+El contexto universitario fue operacionalizado mediante tres dimensiones, basadas en modelos teóricos sobre cómo instituciones educativas pueden amplificar o atenuar la relación entre actitudes/normas/control y intención emprendedora (Chickering & Gamson, 1987; Pascarella & Terenzini, 2005; Weidman, Twale, & Stein, 2001). Estos marcos sugieren que el desarrollo institucional (programas, incubadoras, mentoría), el apoyo académico (legitimación docente), y el clima (tolerancia al riesgo) actúan como mecanismos que amplifi el impacto de factores psicológicos individuales sobre intención comportamental.
 
 **Desarrollo Institucional (U-D)**
 
@@ -449,9 +442,11 @@ R² = 0.487, F(2, 38) = 17.90, p<0.001
 
 **Interpretación:** En muestra colombiana, actitud y control conductual percibido predicen intención (R²=0.487), con magnitudes de efecto similares a muestra global (AT: β=0.498 vs. β=0.548 global; PBC: β=0.361 vs. β=0.330 global). Aunque N es pequeño, el patrón de validez cruzada en sub-muestra colombiana apoya que hallazgos de regresión global no son artefactos de otras regiones.
 
+Los patrones cuantitativos identificados en los Modelos 1, 2 y 3 establecen regularidades estructurales robustas: la teoría de la conducta planificada predice la intención emprendedora, con contexto universitario y conocimiento del ecosistema como amplificadores significativos. Sin embargo, estos análisis identifican *qué* variables predicen intención, no *cómo* operan los mecanismos subyacentes en la práctica. Para explicar estos mecanismos —es decir, para responder por qué el contexto universitario importa, cómo se materializa el conocimiento del ecosistema en las decisiones de estudiantes, y por qué existe una brecha persistente entre intención y acción— se requiere perspectiva cualitativa de actores que experimentan e implementan estas políticas públicas en el ecosistema colombiano. La Parte B presenta el componente cualitativo del diseño secuencial confirmatorio.
+
 ---
 
-# PARTE B: METODOLOGÍA CUALITATIVA
+# Parte B: Metodología cualitativa
 
 ## 3.4. Datos Cualitativos: Fuentes y Recolección
 

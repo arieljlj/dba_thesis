@@ -118,14 +118,14 @@ Ver `.claude/rules/quality.md` para la fórmula de agregación ponderada.
 
 | Componente | Archivo | Estado | Descripción |
 |-----------|---------|--------|-------------|
-| Cap. 1 | `docs/02_cap1_proyeccion_investigacion/01_capitulo_1.md` | 🔄 Borrador inicial | Solo sec. 1.1 desarrollada |
+| Cap. 1 | `docs/02_cap1_proyeccion_investigacion/01_capitulo_1.md` | ✅ Completo | H₀/Ha reformuladas, operacionalización alineada |
+| Cap. 2 | `docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md` | ✅ Redactado (11,146 palabras) | Incluye sec. 2.6 marco cualitativo; pendiente writer-critic |
+| Cap. 3 | `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` | 🔄 Redactado (~7,500 palabras MD) | Parte A,B,C completa; pendiente strategist-critic + writer-critic |
 | Operacionalización | `docs/04_cap3_metodologia_resultados/markdown_from_excel/` | ✅ Completo | 3 matrices en Markdown |
-| Dataset ALBA | `data/processed/survey_data_2026.csv` | ✅ Disponible | Lista para análisis |
-| Entrevistas | `data/raw/interviews_actors_extended_20260331.json` | ✅ Disponible | Actores ecosistema |
-| Cap. 2 | — | ⬜ No iniciado | |
-| Cap. 3 | — | ⬜ No iniciado | |
-| Cap. 4 | — | ⬜ No iniciado | |
-| Análisis | `code/analysis/survey_analysis_2026.ipynb` | 🔄 Parcial | |
+| Dataset ALBA | `data/processed/survey_data_2026.csv` | ✅ Disponible | N=540 global, N=41 Colombia |
+| Entrevistas | `data/raw/interviews_actors_extended_20260331.json` | ✅ Disponible | 38 videos + 24 documentos (~280K palabras) |
+| Cap. 4 | `docs/05_cap4_propuesta_transformacion/` | ⬜ No iniciado | Propuesta de transformación (basada en Cap. 3 resultados) |
+| Análisis | Cap. 3 Sección 3.3 | ✅ Especificado | 3 modelos regresión, sub-análisis Colombia, integración mixta |
 
 ---
 

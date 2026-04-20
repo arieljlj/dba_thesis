@@ -55,7 +55,7 @@ En Colombia, un estudio reciente de Amorós y Cristi (2014) aplicó la TCP a 1,2
 
 La ausencia de efecto significativo de normas subjetivas en el caso colombiano es particularmente interesante. Podría deberse a que en contextos donde la informalidad es alta y el emprendimiento por necesidad es prevalente, la aprobación familia-amigos menos relevante que la supervivencia económica. Alternativamente, la medición de normas subjetivas podría capturar menos bien en contextos latinoamericanos donde la presión social opera a través de canales más sutiles (comparación silenciosa con pares versus presión verbal explícita).
 
-Otro estudio de relevancia es el de Liñán y Fernández-Serrano (2014), que utilizó datos de países europeos e identificó que el efecto de actitud sobre intención era más fuerte en contextos con instituciones débiles (donde la autoeficacia percibida del individuo era más determinante) versus instituciones fuertes (donde el contexto proporciona mayor seguridad). Este hallazgo sugiere que en Colombia, donde las instituciones de apoyo se han fortalecido pero aún presentan brechas regionales, el efecto de actitud podrían mantener una posición central, con contexto modulando más bien los componentes que amplifican esa actitud.
+Otro estudio de relevancia es el de Liñán y Fernández-Serrano (2014), que utilizó datos de países europeos e identificó que el efecto de actitud sobre intención era más fuerte en contextos con instituciones débiles (donde la autoeficacia percibida del individuo era más determinante) versus instituciones fuertes (donde el contexto proporciona mayor seguridad). Este hallazgo sugiere que en Colombia, donde las instituciones de apoyo se han fortalecido pero aún presentan brechas regionales, el efecto de actitud podría mantener una posición central, con contexto modulando más bien los componentes que amplifican esa actitud.
 
 
 ### Síntesis de modelos alternativos y justificación de la TCP
@@ -127,10 +127,6 @@ La evaluación de actitud integra múltiples consecuencias esperadas. Algunos es
 En ALBA 2025, AT se mide con cinco ítems en escala Likert 1-7 que preguntan por acuerdo con afirmaciones como "Crear una empresa daría más oportunidades de autorrealización," "Crear una empresa es una buena forma de alcanzar independencia económica," "Crear una empresa es una forma de contribuir a la sociedad," "Un negocio propio proporciona mejor ingreso que trabajo dependiente," "Emprender es más desafiante y emocionante que trabajar como empleado." Estos ítems capturan tanto beneficios personales (autorrealización, independencia) como sociales (contribución) como económicos (ingreso).
 
 La escala de actitud en ALBA 2025 mostró α = 0.920, indicando consistencia interna muy buena. Esta alta confiabilidad sugiere que los cinco ítems están midiendo un constructo unidimensional subyacente (actitud hacia emprendimiento) sin contaminar con otros constructos (por ejemplo, riesgo propensity, locus de control).
-
-### Actitud emprendedora
-
-La actitud emprendedora (AT) representa la evaluación global del individuo sobre las consecuencias personales de crear una empresa. En ALBA 2025, se mide con cinco ítems que preguntan por acuerdo o desacuerdo con afirmaciones como "Crear una empresa daría más oportunidades de autorrealización" e "Crear una empresa es una buena forma de alcanzar independencia económica." Los ítems se valoran en escala Likert 1-7. La escala de actitud en la muestra mostró α = 0.920, indicando consistencia interna muy buena.
 
 ### Normas subjetivas
 
@@ -222,7 +218,7 @@ La composición de este emprendimiento es relevante: aproximadamente 70% es por 
 
 La tasa de supervivencia de nuevas empresas es otro indicador relevante. El Banco Interamericano de Desarrollo (BID, 2023) reportó que el 60% de nuevas micro y pequeñas empresas en Colombia cierran antes de los tres años. Esto contrasta con tasas de supervivencia de 65-70% en Chile y 55-60% en Perú. Las razones principales de cierre reportadas por emprendedores fueron: acceso insuficiente a capital (45%), cambios en entorno económico (35%), falta de habilidades de gestión (25%), y competencia intensa (20%). Estas barreras post-creación sugieren que la intención inicial, aunque presente, puede no ir acompañada de preparación suficiente para ejecutar.
 
-Un fenómeno peculiar en Colombia es la brecha pronunciada entre intención y acción. Las encuestas de intención emprendedora en universidades colombianas reportan que entre 65% y 75% de estudiantes consideran seriamente la opción de emprender. La encuesta ALBA 2025, desde la cual proviene el dataset de esta investigación, capturaba preguntas sobre intención con escala Likert 1-7, obteniendo un promedio de 3.5 (en escala de 7), indicando intención moderada-alta.
+Un fenómeno peculiar en Colombia es la brecha pronunciada entre intención y acción. Las encuestas de intención emprendedora en universidades colombianas reportan que entre 65% y 75% de estudiantes consideran seriamente la opción de emprender. La encuesta ALBA 2025, desde la cual proviene el dataset de esta investigación, capturaba preguntas sobre intención con escala Likert 1-7, obteniendo un promedio de 3.68 (en escala de 7), indicando intención moderada-alta.
 
 Sin embargo, el seguimiento de cohortes egresadas muestra que apenas el 20-25% inicia algún tipo de actividad empresarial observable (formal o informal) en los cinco años posteriores a graduación. Una cohorte de 100 estudiantes universitarios con intención promedio de 3.5 resultaría en aproximadamente 25 iniciando emprendimientos. Esta brecha de aproximadamente 40-50 puntos porcentuales entre intención y acción es mayor que la típicamente documentada en literatura internacional (que promedia 35-40 puntos). Esto sugiere que las variables que impulsan intención en contextos colombianos pueden ser particularmente desalineadas con las barreras que enfrentan los estudiantes al intentar ejecutar.
 
@@ -270,23 +266,11 @@ Más allá de la regulación formal, el ecosistema emprendedor colombiano incluy
 
 La distribución geográfica de estos recursos es desigual. Bogotá, Medellín y Cali concentran aproximadamente el 65% de las aceleradoras y fondos de capital. Ciudades intermedias y regiones periféricas tienen acceso limitado a mentoría especializada y capital.
 
-### Contexto universitario en Colombia
-
-Las universidades colombianas han incrementado su rol en fomento de emprendimiento, particularmente desde 2015. Prácticamente todas las universidades de tamaño mediano a grande ahora cuentan con una oficina o centro de emprendimiento. Estos centros ofrecen programas que van desde electivas sobre emprendimiento hasta incubación de proyectos con acceso a talleres, mentoría y, en algunos casos, capital semilla.
-
-Estudios recientes (Saavedra García, 2014) encuentran que la experiencia de educación emprendedora en universidad aumenta la intención emprendedora en el corto plazo, pero este efecto es moderado por variables contextuales como calidad de la mentoría disponible y oportunidades de prácticas en emprendimientos reales.
-
-### Brecha intención-acción en Colombia
-
-A pesar del crecimiento del ecosistema de apoyo, la brecha intención-acción persiste. Una encuesta de Panel del Banco Interamericano de Desarrollo en 2022 encontró que en Colombia, entre adultos jóvenes (18-35 años) que reportaban intención emprendedora alta, solo el 35% había iniciado una actividad empresarial formal en los tres años siguientes. Las razones citadas para no emprender incluían: falta de acceso a financiamiento (45%), incertidumbre económica (40%), falta de mentores (25%), y cambios en circunstancias personales (30%).
-
-Esta observación sugiere que las políticas públicas han sido más efectivas en crear intención que en remover las barreras concretas para que la intención se traduzca en acción. Una investigación más profunda de cómo el contexto universitario y las políticas públicas interactúan para modular no solo la formación de intención sino también su transducción a comportamiento parece justificada.
-
 ## 2.5. Marco legal y normativo
 
 Este apartado sintetiza el marco regulatorio que circunscribe las políticas públicas para emprendimiento en Colombia, enfatizando cómo estas normativas se traducen en instituciones y programas específicos. Entender el marco legal es esencial para operacionalizar las "políticas públicas" como variable independiente: estas existen primariamente como disposiciones normativas que se concretan en instituciones y programas.
 
-### Fundamentación legal: Ley 1014 de 2006
+### 2.5.1. Fundamentación legal: Ley 1014 de 2006
 
 La Ley de Formalización y Generación de Empleo fue un hito en la política colombiana, representando el primer esfuerzo legislativo comprehensivo en apoyo al emprendimiento. La ley estableció que el emprendimiento es un asunto de interés público y definió explícitamente la responsabilidad del Estado en promoverlo. Artículos específicos define que la "cultura del emprendimiento" debe ser desarrollada desde educación básica.
 
@@ -296,7 +280,7 @@ Un aspecto central y frecuentemente subvalorado es que la Ley 1014 estableció e
 
 La Ley 1014 también creó mecanismos de financiamiento, incluyendo el Fondo Emprender, administrado por SENA, que proporciona capital semilla a emprendedores jóvenes (hasta edad 28) sin historial empresarial. Entre 2006 y 2024, Fondo Emprender ha desembolsado aproximadamente COP 2 billones en capital semilla a más de 85,000 emprendedores. La tasa de supervivencia de empresas financiadas por Fondo Emprender después de tres años es aproximadamente 65%, superior a la tasa general de supervivencia en Colombia (60%), sugiriendo cierta efectividad del programa.
 
-### Ampliación y reorientación: Ley 2069 de 2020
+### 2.5.2. Ampliación y reorientación: Ley 2069 de 2020
 
 Catorce años después de Ley 1014, la Ley 2069 ("Régimen Tributario para Fondos de Capital Privado, Capital Semilla, Personas Naturales Inversionistas, Sociedades y Patrimonios Autónomos en Fondos de Capital") redefinió fundamentalmente el ambiente legal para emprendimiento. A diferencia de Ley 1014, que se enfocaba en formalización de microempresas y reducción de informalidad, Ley 2069 prioriza emprendimiento de alto crecimiento (startups tecnológicas, empresas de innovación).
 
@@ -306,7 +290,7 @@ Esta ley refleja una evolución en pensamiento de política pública: mientras q
 
 Para estudiantes universitarios, esto significa que las políticas públicas modernas remueven ciertos requisitos para startups innovadoras que serían onerosos para microempresas tradicionales. Por ejemplo, una startup puede reportar impuestos simplificadamente durante sus primeros tres años. Sin embargo, Ley 2069 también significa que el ecosistema de apoyo público se ha bifurcado: instituciones como iNNpulsa focalizan en startups de alto crecimiento, mientras que SENA y Bancóldex atienden a microempresas de supervivencia. Un estudiante universitario que vaya a crear una microempresa de servicios puede encontrar menos apoyo específico ahora que hace una década.
 
-### Documentos CONPES y política nacional
+### 2.5.3. Documentos CONPES y política nacional
 
 Los documentos CONPES (Consejo Nacional de Política Económica y Social) del Departamento Nacional de Planeación establecen la estrategia nacional de desarrollo y sirven como mandatos para que ministerios y agencias alineen presupuestos y programas.
 
@@ -316,7 +300,7 @@ CONPES 4011 de 2021 ("Política de Productividad, Crecimiento e Innovación") re
 
 Aunque estos documentos no poseen poder legislativo directo, sirven como directivas que orientan la asignación de recursos fiscales. CONPES 4011 ha resultado en aumentos de presupuesto: iNNpulsa pasó de COP 50,000 millones anuales en 2020 a COP 150,000 millones en 2023.
 
-### Instituciones operativas y sus funciones
+### 2.5.4. Instituciones operativas y sus funciones
 
 **Decreto 2561 de 2022** operacionalizó muchas disposiciones de Ley 2069, estableciendo procedimientos detallados. Define cómo una empresa solicita ser reconocida como startup, qué requisitos debe cumplir, y cómo se validan los beneficios tributarios. Este decreto representa el nivel más específico de la cadena normativa: ley → decreto → regulaciones ministeriales → instructivos.
 
@@ -328,21 +312,19 @@ Aunque estos documentos no poseen poder legislativo directo, sirven como directi
 
 **Fondo Emprender (SENA)**: Administra capital semilla para nuevos emprendedores (máximo edad 28). A diferencia de Bancóldex que proporciona crédito, Fondo Emprender proporciona capital (no es reembolsable si el emprendimiento va bien, es convertible a préstamo si falla). Esto hace a Fondo Emprender más accesible para jóvenes sin activos para garantizar crédito.
 
-### Análisis crítico de efectividad e implementación
+### 2.5.5. Análisis crítico de efectividad e implementación
 
 El marco normativo colombiano ha expandido significativamente recursos para emprendimiento. El presupuesto público dedicado a emprendimiento ha crecido de aproximadamente COP 200,000 millones en 2010 a COP 400,000 millones en 2024 (en pesos corrientes, aún más en pesos reales). Sin embargo, hay críticas académicas y de sector sobre la efectividad:
 
 Primero, la dispersión de competencias entre ministerios (Comercio, Educación, Trabajo, Ciencia y Tecnología) reduce coordinación y duplica esfuerzos. Una política coherente requeriría educación emprendedora en secundaria (rol Ministerio Educación), continuada en universidad (universidades autónomas), apoyada por acceso a crédito (Bancóldex) y capital semilla (Fondo Emprender, iNNpulsa). Sin coordinación explícita, estas instancias operan como silos. Un estudiante que recibe educación emprendedora en universidad podría no conocer opciones de financiamiento porque no existen canales de información entre universidades y Bancóldex.
 
-Segundo, la concentración geográfica de recursos exacerba desigualdades. Como se documentó, 70% de capital de iNNpulsa se destina a startups en tres ciudades. Para estudiantes en universidades ubicadas en ciudades intermedias o zonas rurales, el acceso a mentoría de calidad y capital es limitado, reduci
-
-endo la efectividad de las políticas públicas para esos contextos.
+Segundo, la concentración geográfica de recursos exacerba desigualdades. Como se documentó, 70% de capital de iNNpulsa se destina a startups en tres ciudades. Para estudiantes en universidades ubicadas en ciudades intermedias o zonas rurales, el acceso a mentoría de calidad y capital es limitado, reduciendo la efectividad de las políticas públicas para esos contextos.
 
 Tercero, aunque la efectividad de acceso a capital es documentada (empresas financiadas por Fondo Emprender tienen mejor supervivencia), la efectividad de educación emprendedora por sí sola es más ambigua. Programas de educación emprendedora de corta duración (un curso de 16 horas) pueden aumentar intención pero tienen efectos limitados en comportamiento a largo plazo sin seguimiento y mentoría continuada.
 
 Cuarto, y más relevante para esta investigación, no existe evaluación sistemática de cómo estos marcos legales e institucionales se traducen en información accesible al estudiante universitario promedio. Si el estudiante no sabe que Bancóldex existe, o no entiende cómo acceder a sus líneas de crédito, o confunde a iNNpulsa (solo para startups tech de alto crecimiento) como una opción para su pequeño negocio de servicios, entonces la política es inefectiva para ese individuo. El constructo de "conocimiento formal del ecosistema" en esta investigación intenta medir precisamente esto: ¿la existencia de políticas públicas y instituciones se traduce en capital cognitivo útil para el potencial emprendedor? Esta es una pregunta empírica que ha recibido poca atención en la literatura colombiana.
 
-## 2.5.5 Síntesis de hallazgos empíricos TCP: tabla comparativa
+### 2.5.6. Síntesis de hallazgos empíricos TCP: tabla comparativa
 
 Para solidificar el caso empírico de TCP como marco central, considérese la siguiente tabla que sintetiza hallazgos de estudios TCP en diferentes contextos:
 
@@ -391,7 +373,7 @@ Como se documentó, Colombia experimenta brecha intención-acción más pronunci
 
 Contexto universitario y conocimiento de políticas públicas pueden reducir esta brecha no aumentando intención per se (aunque podrían) sino aumentando la probabilidad de que intención se transforma en acción. Por ejemplo, un estudiante que forma intención pero luego enfrenta barrera de acceso a crédito podría nunca intentar crear empresa. Pero si durante su educación universitaria aprendió que Bancóldex existe y cómo acceder, esa barrera se vuelve superable.
 
-## 2.6. Marco cualitativo: perspectivas de actores ecosistema como validación de constructos
+## 2.7. Marco cualitativo: perspectivas de actores ecosistema como validación de constructos
 
 Aunque el marco teórico de esta investigación se fundamenta en la TCP y se operacionaliza cuantitativamente a través del dataset ALBA 2025, una comprensión robusta de intención emprendedora requiere validación cualitativa: ¿reconocen y articulan los actores que operan el ecosistema emprendedor colombiano los constructos que proponemos como relevantes?
 
@@ -448,7 +430,7 @@ Esta integración será especificada en detalle en Cap. 3 (Metodología y Result
 
 ---
 
-## 2.7. Integración: un modelo conceptual de intención emprendedora moderada por contexto
+## 2.8. Integración: un modelo conceptual de intención emprendedora moderada por contexto
 
 Para cerrar el Capítulo 2, resulta útil integrar todos los elementos en un modelo conceptual unificado que exprese cómo intención emprendedora se forma en estudiantes universitarios colombianos bajo la influencia de factores psicológicos y contextuales.
 

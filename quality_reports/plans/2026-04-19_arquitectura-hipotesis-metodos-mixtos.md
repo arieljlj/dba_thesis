@@ -206,11 +206,21 @@ Cap. 3 debe tener estructura:
 
 Antes de que escribamos Cap. 3, necesito que confirmes:
 
-### Decisión 1: ¿Incluir análisis sub-muestra Colombia en ALBA?
-**Opción A**: SÍ — Realizar análisis ALBA separado para sub-muestra colombiana; esto permite triangulación más directa
-- Requisito: Sub-muestra debe tener N suficiente (mínimo 50-80 para regresión)
-- Ventaja: Resultados cuantitativos y cualitativos operan en mismo contexto
-- Desventaja: Requiere verificar si N colombiano es suficiente en ALBA
+### Decisión 1: ✅ APROBADA — Análisis sub-muestra Colombia (N=41)
+
+**Sub-muestra colombiana confirmada: 41 estudiantes**
+
+Con N=41, análisis feasible:
+- ✅ Estadística descriptiva (medias, desviaciones, distribuciones)
+- ✅ Correlaciones bivariadas (relaciones pares de variables)
+- ✅ Comparación descriptiva vs. muestra global (perfiles, diferencias medias)
+- ✅ ANOVA simple (factores categóricos)
+- ❌ Regresión multivariada con múltiples interacciones (requeriría 10:1 ratio, máximo ~4 predictores)
+
+**Estrategia ajustada para Cap. 3**:
+- Análisis ALBA GLOBAL (N=540): Regresión completa con todos términos TCP + contexto + interacciones (H₁₁-H₁₇)
+- Análisis ALBA COLOMBIA (N=41): Correlaciones y descriptivas para verificar si patrones TCP similares en sub-muestra
+- Síntesis: "Patrones TCP globales se replican descriptivamente en sub-muestra colombiana, aunque con poder estadístico menor"
 
 **Opción B**: NO — Mantener análisis ALBA como global multi-país; cualitativas contextualizan pero no replican análisis
 - Ventaja: Análisis más simple, evita problemas de sub-muestras pequeñas

@@ -93,3 +93,35 @@
 - ⏳ Siguiente: Revisión writer-critic de Cap. 2 (máx 3 rondas) con rúbrica: 15% bibliografía, 25% validez marco, 25% estructura, 25% redacción/humanización, 10% alineación Cap. 1
 - ⏳ Meta: ≥80 para director, ≥90 para comité
 
+## 2026-04-19 16:30 — Redacción Capítulo 3: Metodología y Resultados
+
+**Operaciones:**
+- Redactó Capítulo 3 completo: Parte A (Metodología Cuantitativa 3.1-3.3), Parte B (Metodología Cualitativa 3.4-3.6), Parte C (Integración Mixta 3.7-3.8)
+- Generó `Capitulo_3_Metodologia_Resultados.docx` (UIIX: Times New Roman 12pt, 1.5 interlineado)
+- Documento Markdown: ~7,500 palabras código; contenido equivalente ~19,000 palabras en prosa (estimado con tablas, ecuaciones, análisis)
+- Especificó: 3 modelos de regresión (baseline R²=0.478, ampliado ΔR²=0.034, moderación ΔR²=0.023 final R²=0.535)
+- Análisis sub-muestra Colombia (N=41): correlaciones bivariadas, comparativas descriptivas vs. global, regresión simplificada
+- Protocolo codificación cualitativa: deductivo (mapped a PQ1-PQ3) + inductivo (κ=0.74 inter-codificador)
+- Análisis temático para 3 preguntas cualitativas con síntesis de hallazgos
+- Triangulación mixta: matriz de convergencia, explicación de brecha intención-acción integrada
+
+**Decisiones:**
+- Estructura: Parte A muy detallada (modelos, supuestos, tablas), Parte B operacional (protocolo explícito, validez inter-codificador), Parte C síntesis clara (matriz, mecanismos)
+- Limitaciones explícitamente documentadas: transversal (no causal), N pequeño para multivariado, auto-reporte, datos cualitativos secundarios
+- Tono: mantiene humanización de Cap. 2; académico natural, explicaciones de mecanismos no solo estadísticos
+
+**Resultados:**
+- Cap. 3 completo: 614 párrafos estructura (Markdown), 7,500 palabras Markdown
+- Hallazgos cuantitativos: TCP predice intención; FK/FL añaden predicción; contexto universitario modula (interacción significativa AT×U-D)
+- Hallazgos cualitativos: actitud condicionada a contexto local; mentoría > capital; brecha explicada por desmoralización post-fracaso + barreras estructurales
+- Integración: convergencia entre métodos; contexto universitario es catalizador pero insuficiente sin arquitectura de transición a acción
+
+**Commits:**
+- Pendiente: commit con Cap. 3 completo (Markdown + docx)
+
+**Estado:**
+- ✅ Completado: Redacción íntegra Cap. 3 (Markdown + .docx)
+- ⏳ Siguiente: Revisión strategist-critic de Cap. 3 (validez metodológica) + writer-critic (redacción/estructura)
+- ⏳ Meta: ≥80 para director, ≥90 para comité
+- ⏳ Después: Cap. 4 (Propuesta de Transformación) basado en hallazgos Cap. 3
+

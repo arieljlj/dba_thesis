@@ -391,9 +391,64 @@ Como se documentó, Colombia experimenta brecha intención-acción más pronunci
 
 Contexto universitario y conocimiento de políticas públicas pueden reducir esta brecha no aumentando intención per se (aunque podrían) sino aumentando la probabilidad de que intención se transforma en acción. Por ejemplo, un estudiante que forma intención pero luego enfrenta barrera de acceso a crédito podría nunca intentar crear empresa. Pero si durante su educación universitaria aprendió que Bancóldex existe y cómo acceder, esa barrera se vuelve superable.
 
+## 2.6. Marco cualitativo: perspectivas de actores ecosistema como validación de constructos
+
+Aunque el marco teórico de esta investigación se fundamenta en la TCP y se operacionaliza cuantitativamente a través del dataset ALBA 2025, una comprensión robusta de intención emprendedora requiere validación cualitativa: ¿reconocen y articulan los actores que operan el ecosistema emprendedor colombiano los constructos que proponemos como relevantes?
+
+### Justificación de validación cualitativa
+
+La investigación sobre intención emprendedora en contextos en desarrollo enfrenta un riesgo particular: que los modelos teóricos occidentales (TCP de Ajzen desarrollado en contextos de instituciones fuertes) no capturen los mecanismos específicos por los cuales contexto institucional débil, informalidad y volatilidad macroeconómica afectan intención.
+
+Una validación cualitativa pregunta: ¿Cuándo actores clave del ecosistema (responsables de políticas públicas, directores de programas de apoyo, investigadores académicos, líderes universitarios) hablan sobre qué factores impulsan o frenan intención emprendedora en estudiantes colombianos, mencionan factores alineados con nuestro marco TCP + contexto? ¿O hay factores críticos que nuestra operacionalización cuantitativa omite?
+
+### Fuentes de datos cualitativos
+
+Esta investigación accede a perspectivas de actores ecosistema colombiano a través de dos fuentes:
+
+**Entrevistas con actores institucionales clave** (recopiladas mediante scraping en marzo 2026):
+- Declaraciones y comunicados oficiales de Ministerio de Comercio Industria y Turismo (MinCIT)
+- Documentos y presentaciones de iNNpulsa Colombia
+- Declaraciones de directores del SENA
+- Reportes de cámaras de comercio regionales (Confecámaras)
+- Documentos institucionales de universidades con programas de emprendimiento
+
+**Videos y transcripciones de YouTube** (entrevistas públicas a actores):
+- Ministra/Ministro de MinCIT
+- Directores de iNNpulsa, SENA, programas universitarios
+- Investigadores académicos sobre emprendimiento colombiano
+- Líderes de cámaras de comercio
+
+### Preguntas cualitativas guía
+
+La fase cualitativa de esta investigación busca responder:
+
+**PQ1 - Validación de constructos**: 
+¿Reconocen y articulan los actores ecosistema los factores que nuestra investigación operacionaliza (actitud hacia emprendimiento, normas sociales sobre emprendimiento, control conductual percibido, conocimiento del ecosistema de apoyo, alfabetización financiera, contexto universitario) como determinantes de intención emprendedora en estudiantes?
+
+**PQ2 - Mecanismos de operación de políticas públicas**: 
+¿Cómo describen los actores que las políticas públicas (Ley 1014, Ley 2069, Fondo Emprender, iNNpulsa, programas SENA) operan para influir intención? ¿Cómo se comunica la disponibilidad de apoyo a estudiantes? ¿Dónde existen brechas entre intención de política y ejecución?
+
+**PQ3 - La brecha intención-acción**: 
+¿Cómo experimentan y explican los actores ecosistema el fenómeno de que 70% de estudiantes reporta intención emprendedora pero solo 20-25% emprende en los 5 años post-graduación? ¿Qué barreras perciben como más críticas?
+
+### Análisis cualitativo esperado
+
+El análisis cualitativo seguirá protocolo de análisis temático:
+
+1. **Codificación inductiva**: Lectura inicial de transcripciones/documentos para identificar temas emergentes sobre factores de intención emprendedora
+2. **Codificación deductiva**: Mapeo explícito de cómo actores hablan sobre los constructos TCP y contextuales que propone Cap. 2
+3. **Triangulación**: Convergencia entre lo que dice literatura (Cap. 2), lo que predice modelo cuantitativo (Cap. 3 cuantitativo), y lo que articulan actores (Cap. 3 cualitativo)
+4. **Divergencia**: Identificación de factores que actores mencionan pero modelo cuantitativo no captura, o viceversa
+
+### Integración con componente cuantitativo
+
+La fase cualitativa no busca replicar ni contrastar directamente los hallazgos cuantitativos (aunque lo hará parcialmente). Su rol principal es **explicar mecanismos**: ¿cómo operan en realidad los constructos que TCP predice? ¿Cuál es la perspectiva de "oferta institucional" versus la perspectiva de "demanda estudiantil" capturada por ALBA?
+
+Esta integración será especificada en detalle en Cap. 3 (Metodología y Resultados).
+
 ---
 
-## 2.7 Integración: un modelo conceptual de intención emprendedora moderada por contexto
+## 2.7. Integración: un modelo conceptual de intención emprendedora moderada por contexto
 
 Para cerrar el Capítulo 2, resulta útil integrar todos los elementos en un modelo conceptual unificado que exprese cómo intención emprendedora se forma en estudiantes universitarios colombianos bajo la influencia de factores psicológicos y contextuales.
 

@@ -11,6 +11,22 @@ Este capítulo describe la ejecución de un diseño secuencial confirmatorio mix
 
 La secuencia ALBA 2025 (cuantitativo) → Entrevistas marzo 2026 (cualitativo) → Integración (mixta) responde a una lógica confirmatorio: los datos cuantitativos establecen regularidades estructurales; los datos cualitativos explican mecanismos que subyacen esas regularidades. Esta arquitectura permite validación cruzada sin pretensión de convergencia perfecta, que sería irreal dado el alcance geográfico desigual (ALBA multi-país versus entrevistas Colombia-específico).
 
+### Mapeo de Hipótesis (Cap. 1) a Modelos y Resultados (Cap. 3)
+
+La Tabla 3.0 presenta un mapeo explícito entre las hipótesis formuladas en Capítulo 1 (preguntas de investigación y predicciones causales) y los modelos de regresión estimados en Capítulo 3, incluyendo los resultados estadísticos hallados. Este cuadro facilita seguimiento de la lógica investigativa de principio a fin.
+
+| Hipótesis | Descripción | Modelo Cap. 3 | Resultado Principal | Estatus |
+|-----------|-------------|---------------|-------------------|---------|
+| **H₀₁** | Actitud (AT) predice intención emprendedora (IE) | Modelo 1: Baseline TCP | β=0.548, p<0.001, IC [0.450, 0.646] | ✅ Sostenida |
+| **H₀₂** | Normas subjetivas (SN) predicen IE | Modelo 1: Baseline TCP | β=0.147, p<0.001, IC [0.061, 0.233] | ✅ Sostenida |
+| **H₀₃** | Control conductual percibido (PBC) predice IE | Modelo 1: Baseline TCP | β=0.395, p<0.001, IC [0.292, 0.499] | ✅ Sostenida |
+| **H₀₄** | Conocimiento formal del ecosistema (FK) añade predicción significativa a TCP | Modelo 2: TCP Ampliado | β=0.159, p<0.001, IC [0.078, 0.240] | ✅ Sostenida |
+| **H₀₅** | Alfabetización financiera (FL) añade predicción significativa a TCP | Modelo 2: TCP Ampliado | β=0.080, p=0.091, IC [-0.013, 0.173] | ⚠️ Marginal (débil) |
+| **H₀₆** | Desarrollo institucional (U-D) modera relación AT → IE | Modelo 3: Interacción | AT×U-D: β=0.089, p=0.031, IC [0.009, 0.169] | ✅ Sostenida |
+| **H₀₇** | Desarrollo institucional (U-D) modera relación PBC → IE | Modelo 3: Interacción | PBC×U-D: β=0.072, p=0.058, IC [-0.002, 0.146] | ⚠️ Marginal (p≈0.06) |
+
+**Nota:** Cada hipótesis es una hipótesis nula de no efecto (H₀: β=0). El rechazo de H₀ (p<0.05) indica que el efecto es estadísticamente significativo. Las estimaciones se reportan con coeficientes no estandarizados (β), errores estándar (EE), valores t, niveles de significancia (p), e intervalos de confianza 95% (IC). Interpretaciones detalladas se presentan en Secciones 3.3.3 (resultados cuantitativos) y 3.7.3 (integración y síntesis mixta).
+
 ---
 
 # PARTE A: METODOLOGÍA CUANTITATIVA
@@ -80,6 +96,26 @@ Todos los ítems utilizan escala Likert 1–7, excepto demografía. El Appendix 
 ---
 
 ## 3.2. Operacionalización de Variables
+
+### 3.2.0 Verificación de Alineación Operacional Cap. 2 ↔ Cap. 3
+
+Este cuadro verifica que la operacionalización reportada en Capítulo 2 (Marco Teórico Conceptual) es idéntica a la implementada en Capítulo 3 (Análisis Cuantitativo), garantizando coherencia conceptual-empírica a lo largo de la tesis.
+
+| Constructo | Definición Cap. 2 | # Ítems Cap. 2 | # Ítems Cap. 3 | Escala | α Cap. 2 | α Cap. 3 | Alineación |
+|-----------|----------|----------|----------|-----------|----------|----------|-----------|
+| **IE** | Intención seria y próxima (5 años) de crear empresa propia | 2 | 2 | Likert 1–7 | 0.891 | 0.891 | ✅ Perfecta |
+| **AT** | Evaluación global de consecuencias positivas/negativas de emprender | 5 | 5 | Likert 1–7 | 0.920 | 0.920 | ✅ Perfecta |
+| **SN** | Percepción de presión social de referentes significativos (familia, amigos, profesores) para emprender | 3 | 3 | Likert 1–7 | 0.920 | 0.920 | ✅ Perfecta |
+| **PBC** | Confianza en propia capacidad para manejar desafíos y barreras del emprendimiento | 6 | 6 | Likert 1–7 | 0.916 | 0.916 | ✅ Perfecta |
+| **FK** | Conocimiento formal sobre actores, marcos regulatorios, y programas de apoyo ecosistema emprendedor | 8 | 8 | Likert 1–7 | 0.933 | 0.933 | ✅ Perfecta |
+| **FL** | Comprensión de conceptos financieros básicos (flujos de caja, rentabilidad, apalancamiento) para gestionar empresa | 5 | 5 | Likert 1–7 | 0.868 | 0.868 | ✅ Perfecta |
+| **U-D** | Disponibilidad en universidad de programas, incubadoras, mentoría, y redes para desarrollo emprendedor | 5 | 5 | Likert 1–7 | 0.912 | 0.912 | ✅ Perfecta |
+| **U-AS** | Apoyo académico explícito (asesorías profesionales, cursos específicos, conexión con industria) para emprendimiento | 5 | 5 | Likert 1–7 | 0.916 | 0.916 | ✅ Perfecta |
+| **LC** | Clima institucional percibido como propicio para experimentación, innovación, y tolerancia al fracaso | 4 | 4 | Likert 1–7 | 0.616 | 0.616 | ✅ Perfecta |
+
+**Conclusión:** Todos los constructos mantienen operacionalización idéntica entre Cap. 2 (definición teórica) y Cap. 3 (implementación empírica), con valores de confiabilidad interna (Cronbach's α) completamente coincidentes. Esta alineación confirma coherencia entre formulación teórica y medición, garantizando validez de construcción del estudio.
+
+---
 
 ### 3.2.1 Variable Dependiente
 
@@ -314,7 +350,15 @@ $$IE = \beta_0 + \beta_1 \cdot AT + \beta_2 \cdot SN + \beta_3 \cdot PBC + \beta
 
 Este modelo especifica interacciones entre componentes TCP y contexto universitario, probando H₀₆-H₀₇ (moderación). Por claridad y parsimonia, incluimos términos de interacción principales (AT × Desarrollo, PBC × Desarrollo) y una variable de contexto adicional (Clima de Aprendizaje LC como predictor directo).
 
-**Procedimiento:** Variables continuas fueron centradas en su media antes de crear términos de interacción, para reducir multicolinealidad y facilitar interpretación.
+**Procedimiento de centering:** Para Modelo 3, las variables continuas fueron centradas en su media antes de crear términos de interacción, siguiendo el protocolo de Aiken y West (1991) para análisis de interacciones. Específicamente:
+
+- AT_centered = AT − M(AT) = AT − 5.12
+- PBC_centered = PBC − M(PBC) = PBC − 4.52
+- U-D_centered = U-D − M(U-D) = U-D − 4.35
+
+Los términos de interacción se calcularon únicamente a partir de variables centradas: AT_centered × U-D_centered y PBC_centered × U-D_centered. Esto sigue el procedimiento estándar en análisis de moderación (Preacher, Curran, & Bauer, 2006). 
+
+El centering tiene tres beneficios: (1) reduce multicolinealidad entre términos principales e interacciones, mejorando estabilidad numérica; (2) facilita interpretación de coeficientes, que ahora representan efectos condicionales a valores centrados en la media (i.e., el coeficiente de AT representa el efecto de AT sobre IE cuando U-D=media poblacional); (3) mejora la convergencia de estimadores en modelos complejos. Los coeficientes reportados en Tabla 3.6 reflejan las variables en escala centrada.
 
 **Resultados Modelo 3:**
 

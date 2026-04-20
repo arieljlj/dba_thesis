@@ -125,3 +125,56 @@
 - ⏳ Meta: ≥80 para director, ≥90 para comité
 - ⏳ Después: Cap. 4 (Propuesta de Transformación) basado en hallazgos Cap. 3
 
+
+## 2026-04-19 17:45 — Implementación Enmiendas Tier 1 Cap. 3
+
+**Operaciones:**
+- Implementadas 3 enmiendas críticas identificadas por strategist-critic
+- Editados 3 secciones de `/docs/04_cap3_metodologia_resultados/01_capitulo_3.md`
+- Creado plan: `quality_reports/plans/2026-04-19_enmiendas-tier1-cap3.md`
+
+**Decisiones:**
+- Usar medias de Tabla 3.3 existente (AT=5.12, PBC=4.52, U-D=4.35) para centering
+- Agregar Tabla 3.0 (mapeo H) en introducción Cap. 3 para visibilidad máxima
+- Agregar subsección 3.2.0 (verificación operacionalización) al inicio de 3.2
+
+**Resultados:**
+- Enmienda 1 (centering): Línea 317 expandida con fórmulas X_centered = X - M(X), valores medios, justificación (multicolinealidad, interpretación, reproducibilidad)
+- Enmienda 2 (mapeo H): Tabla 3.0 con 7 hipótesis, descripción, modelo, resultado, estatus (✅ sostenida vs ⚠️ marginal)
+- Enmienda 3 (operacionalización): Tabla 3.2.0 con 9 constructos, definiciones Cap. 2, # ítems, escala, alphas Cap. 2/3, alineación ✅ perfecta
+
+**Commits:**
+- `3c34676` feat: implementar enmiendas Tier 1 strategist-critic Cap. 3
+
+**Estado:**
+- Completado: Tier 1 enmiendas (centering, mapeo hipótesis, verificación operacionalización)
+- Pendiente: Writer-critic review de Cap. 3 (redacción, estructura UIIX, APA, humanización)
+- Pendiente: Tier 2 enmiendas (brecha intención-acción, CI sub-muestra, actualizar PQ1-PQ3, saturación temática, sesgo selección)
+
+## 2026-04-19 18:00 — Writer-Critic Review Cap. 3
+
+**Operaciones:**
+- Completada revisión writer-critic completa de Cap. 3
+- Evaluadas 7 dimensiones: estructura, redacción, formato UIIX, APA, humanización, coherencia, números
+- Generado reporte con 22 puntos de deduction detallados
+- Identificadas 10 enmiendas (Tier 1: 2, Tier 2: 4, Tier 3: 4)
+
+**Decisiones:**
+- Score 86/100 (esperado 90-92 post-enmiendas Tier 1-2)
+- Priorizar verificación referencias APA (crítico antes de comité)
+- Humanización redacción (reducir bullets, mejorar fluidez)
+- Formato UIIX (Sentence case, transiciones, títulos secciones)
+
+**Resultados:**
+- Tier 1: Referencias Schlaegel, Aiken, West, Nunnally; atribuciones vagas (Schlaegel cita, literatura latinoamericana especificación)
+- Tier 2: Convertir ~40 bullets a párrafos narrativos; "ligeramente" → valores numéricos (7.3%); títulos 3.7.1-4; transición 3.3.4
+- Tier 3: Verificar .docx tablas formato, N explicit en captions, números M/DE/β/p coinciden
+- Coherencia intra-cap: Sólida (Tabla 3.0, 3.2.0 bien integradas)
+- Coherencia inter-cap: ✅ (Cap. 1 hipótesis→Cap. 3 modelos; Cap. 2 defs→Cap. 3 operacionalización)
+
+**Estado:**
+- Completado: Strategist-critic review (82/100) + Tier 1 enmiendas (centering, mapeo, operacionalización)
+- Completado: Writer-critic review (86/100) con 10 enmiendas
+- Pendiente: Implementar writer-critic Tier 1-2 enmiendas (referencias APA, humanización, formato)
+- Pendiente: Strategist-critic Tier 2 enmiendas (brecha intención-acción, CI, PQ1-3 alignment)
+- Próximo: Cap. 2 writer-critic review (asegurar alineación con Cap. 3)

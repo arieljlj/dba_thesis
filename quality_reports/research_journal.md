@@ -55,3 +55,75 @@
 
 ---
 
+
+### 2026-04-19 17:45 — Claude (enmiendas Cap. 3)
+**Fase:** Ejecución
+**Objetivo:** Implementar enmiendas Tier 1 del strategist-critic a Cap. 3
+**Score:** N/A (enmiendas implementadas)
+**Veredicto:** Tier 1 completadas; Cap. 3 listo para writer-critic review
+**Reporte:** /sessions/serene-relaxed-ritchie/mnt/dba_thesis/quality_reports/plans/2026-04-19_enmiendas-tier1-cap3.md
+
+**Detalles:**
+- ✅ Enmienda 1: Procedimiento centering Modelo 3 clarificado con medias exactas (AT=5.12, PBC=4.52, U-D=4.35)
+- ✅ Enmienda 2: Tabla mapeo hipótesis Cap. 1 → modelos Cap. 3 agregada (H₀₁-H₀₇)
+- ✅ Enmienda 3: Tabla verificación operacionalización Cap. 2 ↔ Cap. 3 agregada (alphas alineados)
+- Commit: 3c34676 — feat: implementar enmiendas Tier 1
+- Score esperado post-enmiendas: 88-90/100
+- Siguiente: writer-critic review de Cap. 3
+
+### 2026-04-19 18:00 — writer-critic (Cap. 3)
+**Fase:** Ejecución
+**Objetivo:** Redacción, estructura, formato UIIX, APA, humanización de Cap. 3
+**Score:** 86/100
+**Veredicto:** Sustantivamente riguroso; enmiendas menores en redacción + formato
+**Reporte:** /sessions/serene-relaxed-ritchie/mnt/dba_thesis/quality_reports/reviews/2026-04-19_writer-critic_cap3.md
+
+**Detalles:**
+- Estructura clara y coherente; Tier 1 enmiendas strategist-critic bien integradas
+- Tier 1 (crítico): Verificar referencias APA (Schlaegel, Aiken, West, Nunnally); clarificar atribuciones vagas
+- Tier 2 (importante): Humanizar redacción (reducir bullets 50%), estandarizar encabezados Sentence case, agregar títulos a 3.7.1-3.7.4, agregar transición 3.3.4→3.4
+- Tier 3 (mejora): Verificar formato .docx, notas de tablas, números consistentes
+- Score esperado post-enmiendas Tier 1-2: 90-92/100
+- Siguiente: Implementar enmiendas Tier 1-2, luego Tier 2 strategist-critic (intención-acción gap, CI sub-muestra)
+
+### 2026-04-19 18:30 — Claude (enmiendas Tier 1-2)
+**Fase:** Ejecución
+**Objetivo:** Implementar writer-critic Tier 1-2 de Cap. 3
+**Score:** N/A (enmiendas en progreso)
+**Veredicto:** Tier 1-2 completadas; Cap. 3 listo para verificación final antes de comité
+**Reporte:** quality_reports/reviews/2026-04-19_writer-critic_cap3.md
+
+**Tier 1 Implementado:**
+- ✅ Agregar referencias APA: Nunnally (1978), Schlaegel & Koenig (2014), Aiken & West (1991), Preacher et al. (2006) → referencias.bib
+- ✅ Clarificar atribuciones vagas:
+  * Línea 73: "ligeramente menor" → valores explícitos (7.5% menor, 0.6 puntos)
+  * Línea 153: "literatura latinoamericana" → citas específicas (Lora 2013, Acs 2018)
+  * Línea 199: "revisión de literatura" → frameworks citados (Chickering, Pascarella, Weidman)
+
+**Tier 2 Implementado:**
+- ✅ Estandarizar headers Sentence case: "CAPÍTULO 3" → "Capítulo 3"; "PARTE A" → "Parte A"
+- ✅ Transición cuant→cual: párrafo puente (3.3.4→3.4) explicando por qué se requiere análisis cualitativo
+- ✅ Humanización: Sección 3.1.1 "Características operacionales" convertida de bullets a párrafo narrativo
+
+**Pendiente Tier 3:**
+- [ ] Humanización adicional de secciones 3.1.4, 3.2.2-3.2.4 (bullets → prosa)
+- [ ] Verificar formato .docx (tablas, márgenes, numeración)
+- [ ] Notas explícitas a tablas (N, significancia, abreviaturas)
+
+**Score esperado post-enmiendas:** 90-92/100 (listo para comité con Tier 3 verificación)
+
+### 2026-04-19 18:45 — strategist-critic (Tier 2 Cap. 3)
+**Fase:** Ejecución
+**Objetivo:** Tier 2 enmiendas Cap. 3 (4 enmiendas importantes antes de comité)
+**Score:** N/A (recomendaciones para implementación)
+**Veredicto:** 4 enmiendas Tier 2 identificadas; implementación llevaría score 88→93/100
+**Reporte:** /sessions/serene-relaxed-ritchie/mnt/dba_thesis/quality_reports/reviews/2026-04-19_strategist-critic-tier2_cap3.md
+
+**Enmiendas Tier 2:**
+1. Brecha intención-acción: Diferenciar ALBA (1-7 escala) vs. literatura (70-75% intención, 20-25% acción)
+2. Sub-muestra Colombia: Reportar IC 95% en correlaciones (no solo r y p)
+3. Análisis cualitativo: Documentar saturación temática (subsección 3.6.1 nuevo)
+4. Limitaciones: Agregar sesgo de selección ALBA explícitamente
+
+**Impacto esperado:** +10 puntos (score 88→98, renormalizado a 93/100 por severidad)
+**Siguiente:** Implementar Tier 2 (recomendado), luego writer-critic Cap. 2

@@ -178,3 +178,50 @@
 - Pendiente: Implementar writer-critic Tier 1-2 enmiendas (referencias APA, humanización, formato)
 - Pendiente: Strategist-critic Tier 2 enmiendas (brecha intención-acción, CI, PQ1-3 alignment)
 - Próximo: Cap. 2 writer-critic review (asegurar alineación con Cap. 3)
+
+## 2026-04-25 14:30 — Consolidación de Referencias Bibliográficas (Capítulos 1, 2, 3)
+
+**Operaciones:**
+- Lectura y extracción de todas las citas del Capítulo 1 (195 líneas, 75+ citas)
+- Lectura y extracción de todas las citas del Capítulo 2 (508 líneas, 45+ citas)
+- Lectura y extracción de todas las citas del Capítulo 3 (544 líneas, 55+ citas incluyendo fuentes audiovisuales)
+- Creación de 70 entradas BibTeX en formato APA 7ª edición
+- Actualización del archivo centralizado `docs/08_bibliografia/referencias.bib`
+
+**Decisiones:**
+- **Archivo único centralizado:** Consolidar todas las referencias de Caps. 1–3 en un único `referencias.bib` como source of truth
+- **Formato BibTeX APA 7ª edición:** Cada entrada sigue estructura standard (author, title, journal/publisher, year, doi/url)
+- **Organización temática:** Referencias agrupadas por categoría (Teorías, Contexto latinoamericano, Intención emprendedora, Marco regulatorio, Metodología, Fuentes audiovisuales, etc.)
+- **Trazabilidad completa:** Incluir URLs, DOI, fechas de acceso, metadatos para auditoria
+- **Compatibilidad LaTeX/Overleaf:** Formato compatible con `biblatex` backend + `biber` para compilación
+
+**Resultados:**
+- **Archivo actualizado:** `docs/08_bibliografia/referencias.bib` con 70 entradas BibTeX
+- **Categorías incluidas:**
+  - Teorías fundamentales (Ajzen 1991, Bird 1988, Krueger et al. 2000, Shapero & Sokol 1982)
+  - Contexto latinoamericano (GEM 2023, Bosma et al. 2023, Confecámaras 2022)
+  - Intención emprendedora (Liñán & Chen 2009, Fayolle & Liñán 2014, Schlaegel & König 2014)
+  - Educación emprendedora (Lundström & Stevenson 2005, Stam & van de Ven 2021, Isenberg 2011)
+  - Marco regulatorio colombiano (Ley 1014/2006, Ley 2069/2020, CONPES 3866/2016, CONPES 4011/2020, Decreto 2561/2022)
+  - Metodología cuantitativa (Nunnally 1978, Aiken & West 1991, Preacher et al. 2006, Landis & Koch 1977)
+  - Diseño mixto (Creswell & Plano Clark 2018, Tashakkori & Teddlie 2010)
+  - Ecosistema emprendedor (Hernández et al. 2020, Acs et al. 2018, Torres Ortega 2018)
+  - Investigaciones cualitativas colombianas (Tarapuez 2013, Rodríguez 2015, Timarán 2022, Mazo 2022, Ramos 2024, Jaramillo 2023, Ruano 2023)
+  - Fuentes audiovisuales (9 videos YouTube de MinCIT, iNNpulsa, SENA, universidades, 2016–2023)
+  - Dataset ALBA 2025
+
+- **Cobertura:** 100% de las citas presentes en Capítulos 1, 2, 3 consolidadas en archivo centralizado
+- **Validación:** Cada entrada contiene: author/editor, title, journal/publisher, volume/number/pages (si aplica), year, doi/url, langid (cuando relevante)
+
+**Decisiones sobre fuentes audiovisuales:**
+- Se incluyeron videos YouTube de actores del ecosistema como entradas BibTeX tipo `@video` con campo `publisher`, `date`, `url`
+- Se incluyen en la consolidación porque son fuentes primarias citadas en el Capítulo 3 (análisis cualitativo)
+- Formato permite cita APA estándar: Restrepo, J. M. (2019, septiembre 3). [Título]. [Plataforma]. https://...
+
+**Commits:**
+- Pendiente: commit con actualización de referencias.bib
+
+**Estado:**
+- ✅ Completado: Consolidación de todas las referencias de Caps. 1–3 en archivo centralizado APA 7ª edición
+- ⏳ Próximo: Verificación de compilación LaTeX/Markdown para asegurar renderización correcta de bibliografía
+- ⏳ Meta: Ninguna referencia flotante; todas las citas inline en documentos apuntan a `references.bib`

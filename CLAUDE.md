@@ -124,7 +124,7 @@ Ver `.claude/rules/quality.md` para la fórmula de agregación ponderada.
 | Operacionalización | `docs/04_cap3_metodologia_resultados/markdown_from_excel/` | ✅ Completo | 3 matrices en Markdown |
 | Dataset ALBA | `data/processed/survey_data_2026.csv` | ✅ Disponible | N=540 global, N=41 Colombia |
 | Entrevistas | `data/raw/interviews_actors_extended_20260331.json` | ✅ Disponible | 38 videos + 24 documentos (~280K palabras) |
-| Cap. 4 | `docs/05_cap4_propuesta_transformacion/01_capitulo_4.md` | ✅ Revisiones completadas | Phase 3 strategist-critic: 86/100; Phase 4 writer-critic: 87/100. Combinado: 86.5/100. Listo para enmiendas Tier 1 (linaje causal + APA referencias) antes de comité |
+| Cap. 4 | `docs/05_cap4_propuesta_transformacion/01_capitulo_4.md` | ✅ Tier 1 enmiendas completadas | Phase 3 strategist-critic: 86→89/100; Phase 4 writer-critic: 87→90/100. Combinado: 89.5/100. Linaje causal, criterios mentoría, heterogeneidad, vulnerabilidad macro, APA formal. **Listo para comité doctoral (≥90).** |
 | Análisis | Cap. 3 Sección 3.3 | ✅ Especificado | 3 modelos regresión, sub-análisis Colombia, integración mixta |
 
 ---

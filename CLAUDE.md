@@ -124,7 +124,7 @@ Ver `.claude/rules/quality.md` para la fórmula de agregación ponderada.
 | Operacionalización | `docs/04_cap3_metodologia_resultados/markdown_from_excel/` | ✅ Completo | 3 matrices en Markdown |
 | Dataset ALBA | `data/processed/survey_data_2026.csv` | ✅ Disponible | N=540 global, N=41 Colombia |
 | Entrevistas | `data/raw/interviews_actors_extended_20260331.json` | ✅ Disponible | 38 videos + 24 documentos (~280K palabras) |
-| Cap. 4 | `docs/05_cap4_propuesta_transformacion/` | ⬜ No iniciado | Propuesta de transformación (basada en Cap. 3 resultados) |
+| Cap. 4 | `docs/05_cap4_propuesta_transformacion/01_capitulo_4.md` | 🔄 Redactado (~9,500 palabras) | 7 secciones (4.1-4.7): fundamentación, descripción, objetivos, actividades/fases, recursos, resultados (4.6.1+4.6.2), valoración. Versión humanizada + .docx UIIX. Pendiente writer-critic |
 | Análisis | Cap. 3 Sección 3.3 | ✅ Especificado | 3 modelos regresión, sub-análisis Colombia, integración mixta |
 
 ---

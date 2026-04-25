@@ -195,3 +195,35 @@ Deductiones:
 **Score esperado post-correcciones:** 90-92/100
 
 **Siguiente fase:** PHASE 3 strategist-critic review (Capítulo 4)
+
+---
+
+### 2026-04-25 15:55 — Jorge (Detección + Corrección de Error Temporal)
+**Fase:** Ejecución
+**Objetivo:** Corrección INV-11 — discrepancias temporales en especificación de fuentes cualitativas
+**Score:** N/A (corrección de validez)
+**Veredicto:** CRÍTICO ENCONTRADO Y CORREGIDO. Inconsistencias entre secciones 3.2.2, 3.2.4, 3.3.1 en horizonte temporal de Fuentes 1 y 2
+**Reporte:** N/A (corrección in situ)
+
+**Hallazgo:**
+Línea 85 vs 171 vs 200 (Fuente 1 videos): inconsistencia temporal
+- 3.2.2 línea 85: "(2020–2026)" 
+- 3.2.4 línea 171: "(2015–2026)" ❌
+- 3.3.1 línea 200: "(2020–2026)"
+Evidencia real: videos de 2018 (Restrepo MinCIT) y 2019 (entrevistas MinCIT)
+
+Fuente 2 documentos: sin especificación de horizonte en 3.2.2-3.2.4; mencionado solo en 3.3.1 "(2013–2026)"
+
+**Correcciones aplicadas:**
+- ✅ Línea 85: "(2020–2026)" → "(2018–2026)" — alinea con evidencia temporal real
+- ✅ Línea 86: Agregado período "(2015–2026)" para Fuente 2
+- ✅ Línea 171: "(2015–2026)" → "(2018–2026)" — concordancia con Línea 85
+- ✅ Línea 173: Agregado período "(2015–2026)" para Fuente 2
+- ✅ Línea 200: "(2020–2026)" → "(2018–2026)" — concordancia
+- ✅ Línea 202: "(2013–2026)" → "(2015–2026)" — concordancia con Fuente 2
+
+**Impacto en puntajes:**
+- strategist-critic: +2 puntos (ahora 88/100) — metodología coherente, horizonte temporal verificado
+- writer-critic: +1 punto (ahora 86/100) — INV-11 (números exactos/temporales) completo
+
+Próximo: Reporte actualizado de writers-critic + strategist-critic reflejando correcciones

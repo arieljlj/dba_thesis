@@ -82,10 +82,10 @@ Este estudio adopta un **diseño secuencial confirmatorio mixto (QUAN → qual)*
 **Método cualitativo:**
 
 **Fuentes de datos cualitativos:**
-- **Fuente 1:** Transcripciones de videos YouTube (n=38) de actores del ecosistema colombiano (2020–2026): funcionarios MinCIT, directivos iNNpulsa, líderes SENA, emprendedores reconocidos, académicos. Extracción mediante Apify YouTube Scraper.
-- **Fuente 2:** Documentos institucionales (n=24) de iNNpulsa, Ministerio de Comercio, universidades colombianas, SENA, medios especializados. Extracción mediante web scraping automatizado.
+- **Fuente 1:** Transcripciones de videos YouTube (n=38) de actores del ecosistema colombiano (2018–2026): funcionarios MinCIT, directivos iNNpulsa, líderes SENA, emprendedores reconocidos, académicos. Extracción mediante Apify YouTube Scraper.
+- **Fuente 2:** Documentos institucionales (n=24) de iNNpulsa, Ministerio de Comercio, universidades colombianas, SENA, medios especializados (2015–2026). Extracción mediante web scraping automatizado.
 
-**Total corpus cualitativo:** 62 documentos fuente, aproximadamente 280,000 palabras de texto transcrito/extraído (período 2013–2026).
+**Total corpus cualitativo:** 62 documentos fuente, aproximadamente 280,000 palabras de texto transcrito/extraído (período 2015–2026).
 
 **Técnica de análisis:** Codificación mixta (deductiva + inductiva) organizada alrededor de preguntas de investigación cualitativas (PQ1–PQ3):
 - **PQ1:** Validación de constructos TCP en perspectiva de actores del ecosistema
@@ -168,9 +168,9 @@ Edad: M=21.8 años (DE=2.4, rango 18–30). Sexo: 54% mujer, 46% hombre. Año de
 
 **Muestra Cualitativa:**
 
-**Fuente 1 (Videos):** n=38 videos de actores ecosistema (MinCIT, iNNpulsa, SENA, emprendedores, académicos), recopilados mediante búsqueda YouTube 2015–2026 con palabras clave "emprendimiento Colombia", "política pública emprendimiento", filtro 5+ minutos. Selección de videos con discusión substantiva sobre intención o políticas (excluyendo autopromocionales, redundancia, audio deficiente).
+**Fuente 1 (Videos):** n=38 videos de actores ecosistema (MinCIT, iNNpulsa, SENA, emprendedores, académicos), recopilados mediante búsqueda YouTube 2018–2026 con palabras clave "emprendimiento Colombia", "política pública emprendimiento", filtro 5+ minutos. Selección de videos con discusión substantiva sobre intención o políticas (excluyendo autopromocionales, redundancia, audio deficiente).
 
-**Fuente 2 (Documentos):** n=24 documentos de iNNpulsa, MinCIT, universidades colombianas, SENA, medios especializados, recopilados mediante web scraping automatizado.
+**Fuente 2 (Documentos):** n=24 documentos de iNNpulsa, MinCIT, universidades colombianas, SENA, medios especializados (2015–2026), recopilados mediante web scraping automatizado.
 
 **Total corpus:** ~280,000 palabras de texto transcrito/extraído.
 
@@ -197,9 +197,9 @@ El cuestionario ALBA 2025 fue administrado online mediante plataforma Qualtrics 
 
 #### Recolección de datos cualitativos
 
-**Videos YouTube:** n=38 videos de actores del ecosistema emprendedor colombiano (MinCIT, iNNpulsa, SENA, universidades, emprendedores) identificados mediante búsqueda sistemática YouTube (2020–2026) con términos "emprendimiento Colombia", "política pública emprendimiento", "ecosistema emprendedor". Selección limitada a videos con duración ≥5 minutos y contenido substantivo sobre intención emprendedora o políticas públicas. Transcripciones obtenidas mediante servicio automático (Apify YouTube Scraper) con revisión manual de fragmentos relevantes a códigos de investigación.
+**Videos YouTube:** n=38 videos de actores del ecosistema emprendedor colombiano (MinCIT, iNNpulsa, SENA, universidades, emprendedores) identificados mediante búsqueda sistemática YouTube (2018–2026) con términos "emprendimiento Colombia", "política pública emprendimiento", "ecosistema emprendedor". Selección limitada a videos con duración ≥5 minutos y contenido substantivo sobre intención emprendedora o políticas públicas. Transcripciones obtenidas mediante servicio automático (Apify YouTube Scraper) con revisión manual de fragmentos relevantes a códigos de investigación.
 
-**Documentos institucionales:** n=24 documentos de fuentes primarias y secundarias recopilados mediante web scraping automatizado de sitios iNNpulsa, MinCIT, universidades colombianas acreditadas, SENA, medios especializados en emprendimiento (2013–2026). Documentos incluyen: artículos académicos (SciELO), noticias institucionales, políticas, convocatorias, informes de gestión. Limpieza de metadatos, extracción de texto plano y deduplicación automatizada.
+**Documentos institucionales:** n=24 documentos de fuentes primarias y secundarias recopilados mediante web scraping automatizado de sitios iNNpulsa, MinCIT, universidades colombianas acreditadas, SENA, medios especializados en emprendimiento (2015–2026). Documentos incluyen: artículos académicos (SciELO), noticias institucionales, políticas, convocatorias, informes de gestión. Limpieza de metadatos, extracción de texto plano y deduplicación automatizada.
 
 **Total corpus cualitativo:** 62 documentos fuente, aproximadamente 280,000 palabras de texto transcrito/extraído, período temporal 2013–2026.
 

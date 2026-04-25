@@ -63,7 +63,7 @@ Este estudio adopta un **diseño secuencial confirmatorio mixto (QUAN → qual)*
 - **Total de ítems:** 43 items distribuidos en 10 secciones (demografía + 9 constructos)
 - **Escala de respuesta:** Likert 1–7 (excepto demografía)
 - **Tiempo de respuesta:** 12–15 minutos
-- **Idiomas:** Español (muestras colombiana y andina), portugués (Brasil)
+- **Idiomas:** Español (muestras colombiana y andina), inglés (Brasil)
 - **Población objetivo:** Estudiantes en últimos dos años de pregrado en instituciones acreditadas por ACBSP
 
 **Estructura del cuestionario:**
@@ -168,7 +168,7 @@ Edad: M=21.8 años (DE=2.4, rango 18–30). Sexo: 54% mujer, 46% hombre. Año de
 
 **Muestra Cualitativa:**
 
-**Fuente 1 (Videos):** n=38 videos de actores ecosistema (MinCIT, iNNpulsa, SENA, emprendedores, académicos), recopilados mediante búsqueda YouTube 2020–2026 con palabras clave "emprendimiento Colombia", "política pública emprendimiento", filtro 5+ minutos. Selección de videos con discusión substantiva sobre intención o políticas (excluyendo autopromocionales, redundancia, audio deficiente).
+**Fuente 1 (Videos):** n=38 videos de actores ecosistema (MinCIT, iNNpulsa, SENA, emprendedores, académicos), recopilados mediante búsqueda YouTube 2015–2026 con palabras clave "emprendimiento Colombia", "política pública emprendimiento", filtro 5+ minutos. Selección de videos con discusión substantiva sobre intención o políticas (excluyendo autopromocionales, redundancia, audio deficiente).
 
 **Fuente 2 (Documentos):** n=24 documentos de iNNpulsa, MinCIT, universidades colombianas, SENA, medios especializados, recopilados mediante web scraping automatizado.
 

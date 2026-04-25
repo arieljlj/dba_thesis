@@ -4,7 +4,9 @@
 
 Hay una brecha de 48 puntos entre la intención emprendedora y la acción real. El Capítulo 3 mostró que el 68% de estudiantes dice que quiere emprender. Pero cuando se pregunta a actores del ecosistema cuántos egresados realmente crean empresas, la respuesta es el 20%. No es un problema de medición. Es una diferencia consistente que los datos confirman.
 
-¿Por qué ocurre esto? El análisis de regresión mostró que la actitud hacia el emprendimiento predice aproximadamente el 48% de la intención emprendedora (R² = 0.478). Eso es importante. Pero no explica qué pasa después de que los estudiantes se gradúan. El problema está en que las actitudes positivas dependen del contexto. En la universidad, donde todos hablan de formalización y acceso a capital, los estudiantes desarrollan optimismo. Luego se gradúan y chocan con la realidad: no hay oportunidades claras, la informalidad es generalizada, y no conocen a nadie en el mundo empresarial legítimo. La actitud simplemente no sobrevive ese choque.
+¿Por qué ocurre esto? Es fundamental notar que el Capítulo 3 es estudio transversal que mide **intención emprendedora**, no **acción emprendedora post-egreso**. Los datos de intención fueron recolectados de estudiantes actuales (2025), no de seguimiento longitudinal de egresados. La brecha de 48 puntos (68% intención vs. 20% acción) proviene de comparación entre intención auto-reportada en encuesta ALBA y tasas observadas de creación de empresa en la literatura y testimonios de actores ecosistema. Por tanto, la propuesta de Cap. 4 extrapolará desde predictores de intención (que conocemos del Cap. 3) hacia predictores de acción post-egreso (que asumimos opera por mecanismos similares pero también mecanismos adicionales no observados en datos transversales).
+
+El análisis de regresión mostró que la actitud hacia el emprendimiento predice aproximadamente el 48% de la intención emprendedora (R² = 0.478). Eso es importante. Pero no explica qué pasa después de que los estudiantes se gradúan. El problema está en que las actitudes positivas dependen del contexto. En la universidad, donde todos hablan de formalización y acceso a capital, los estudiantes desarrollan optimismo. Luego se gradúan y chocan con la realidad: no hay oportunidades claras, la informalidad es generalizada, y no conocen a nadie en el mundo empresarial legítimo. La actitud simplemente no sobrevive ese choque.
 
 El conocimiento del ecosistema emprendedor agregó predicción significativa a la intención (β = 0.159, p < 0.001). Suena bien en números. Pero el análisis cualitativo muestra el problema real: ese conocimiento es general, no local. Los estudiantes entienden marcos conceptuales sobre emprendimiento y financiamiento. Lo que necesitan es información sobre qué funciona en su municipio específico, quiénes son los actores con poder de decisión, y cómo obtener legitimidad en redes locales. La información centralizada no produce agencia local.
 
@@ -34,7 +36,14 @@ Los cuatro principios que guían el modelo son claros. Mentalidad local: las sol
 
 **Objetivos Específicos.**
 
-El primero es diseñar una estructura de mentoría con reglas claras: quiénes pueden ser mentores, cómo se preparan, cuánto tiempo duran las relaciones de mentoría, y cómo se verifica que funciona. Incluye también crear conexiones formales entre la institución y actores locales (cámaras, incubadoras, entidades de crédito).
+El primero es diseñar una estructura de mentoría con reglas claras: quiénes pueden ser mentores, cómo se preparan, cuánto tiempo duran las relaciones de mentoría, y cómo se verifica que funciona. **Criterios específicos de selección de mentores:**
+
+- **Credibilidad vivencial:** Mentor ha enfrentado desafío similar al del mentorado (ej. emprendedor que comenzó con recursos limitados, académ que asesoró múltiples startups). No es suficiente tener empresa exitosa; es necesario que pueda articular su experiencia en términos relatables.
+- **Capacidad de acompañamiento:** Mentor ha sido capacitado en escucha activa, mentoría conductual vs. solo directiva, manejo de relaciones interpersonales. Se prioriza capacidad relacional sobre puros logros empresariales.
+- **Permanencia temporal:** Mentor se compromete a mínimo 6 meses en relación, con encuentros regulares (2–4 veces mensuales). Relaciones ad-hoc no son válidas.
+- **Heterogeneidad de género y contexto:** Al menos 40% de mentores son mujeres; al menos 30% tienen antecedentes de emprendimiento de necesidad (no solo oportunidad) para modelar ambos caminos.
+
+Incluye también crear conexiones formales entre la institución y actores locales (cámaras, incubadoras, entidades de crédito).
 
 El segundo es proponer que las políticas públicas nacionales reconozcan que emprendedores de oportunidad y de necesidad son diferentes y requieren apoyos diferentes. Una persona que quiere crear una startup tecnológica tiene necesidades distintas a alguien que intenta generar su propio ingreso por falta de empleo.
 

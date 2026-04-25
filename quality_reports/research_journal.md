@@ -303,3 +303,33 @@ Deductiones:
 **Score esperado post-correcciones Tier 1:** 90-92/100
 
 **Siguiente fase:** Implementar enmiendas Tier 1 (strategist-critic + writer-critic) Cap. 4 antes de comité doctoral
+
+### 2026-04-25 — Claude (Tier 1 enmiendas Cap. 4 - Completadas)
+**Fase:** Propuesta
+**Objetivo:** Implementar enmiendas Tier 1 del strategist-critic y writer-critic a Cap. 4
+**Score:** Projected 90-92/100 post-amendments (strategist-critic 86→89, writer-critic 87→90)
+**Veredicto:** Todas 6 enmiendas Tier 1 completadas. Cap. 4 coherencia metodológica, viabilidad plan contingencia, citación APA formal. Listo para presentación comité.
+**Reporte:** `/sessions/serene-relaxed-ritchie/mnt/dba_thesis/quality_reports/reviews/2026-04-25_implementation-tier1-cap4.md`
+
+**Strategist-critic Tier 1 (4 enmiendas):**
+- ✅ ENMIENDA 1: Linaje causal clarificado (intención transversal Cap. 3 ↔ acción post-egreso extrapolada). Párrafo nuevo en 4.1 explica brecha teórica y que propuesta asume mecanismos similares pero también adicionales no observados en datos transversales.
+- ✅ ENMIENDA 2: Criterios mentoría especificados (4 dimensiones operativas): credibilidad vivencial (mentor ha enfrentado desafío similar), capacidad acompañamiento (capacitación relacional), permanencia 6m mínimo, heterogeneidad (40% mujeres, 30% necesidad). Integrado en 4.3 Objetivos Específicos.
+- ✅ ENMIENDA 3: Indicador heterogeneidad de efectos agregado a 4.6.2 (Indicadores). Desglosa tasa transición por género, SES, ubicación geográfica para verificar equidad. Meta: diferencia máxima 15pp entre grupos.
+- ✅ ENMIENDA 4: Ampliación vulnerabilidad macroeconómica en 4.7 (Valoración). Expandido de mención breve a párrafo completo con plan contingencia: define indicadores disparo (si desempleo sube >2pp), ajusta metas de transición, prioriza apoyo diferenciado para necesidad. Reconoce límites: mentoría excelente no crea oportunidades donde economía no las genera.
+
+**Writer-critic Tier 1 (4 enmiendas):**
+- ✅ ENMIENDA 1: Citación APA formal agregada. Ley 2069 de 2020 (Congreso de la República de Colombia, 2020); Ley 1014 de 2006 (Congreso de la República de Colombia, 2006) now aparecen con formato completo en línea de mención en 4.7.
+- ✅ ENMIENDA 2: Plan Nacional especificado. "MinCIT enfatiza" → "Plan Nacional de Emprendimiento 2024–2025 (Ministerio de Comercio, Industria y Turismo, 2024) enfatiza...". Fuente particularizada en 4.7.
+- ✅ ENMIENDA 3: Lenguaje imperativo suavizado. "El problema está" → "Los datos sugieren que..."; "La actitud simplemente no sobrevive" → "En este contexto, las actitudes originales se erosionan"; "Lo que necesitan es información" → "Se requiere información...". Tono académico observacional no prescriptivo.
+- ✅ ENMIENDA 4: Verificación β completa. Todos coeficientes validados contra Cap. 3 Modelos 2-3: β=0.159 (FK, Modelo 2), β=0.089 (AT×U-D, Modelo 3), β=0.118 (U-AS mentoría, Modelo 3), β=0.067 (FL alfabetización, Modelo 3). ✓ Exactos.
+
+**Estado post-enmiendas:**
+- Coherencia Cap. 3 ↔ Cap. 4: Linaje causal explicitado, valores β coinciden exactamente, propuesta fundamentada en resultados Cap. 3
+- Viabilidad: Plan contingencia para ciclos económicos, mentor criteria operativa, indicadores heterogeneidad definen equidad
+- APA: Normas colombianas citadas formalmente, fuentes especificadas
+- Redacción: Académica, humanizada, evita imperativo
+
+**Commit:** `c3d53e9` — Tier 1 amendments: Cap. 3 (complete) & Cap. 4 (all 6 enmiendas)
+
+**Siguiente:** Verificación final pre-comité. Si score ≥90 confirmed, Cap. 4 listo para presentación ante comité doctoral.
+

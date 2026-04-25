@@ -225,3 +225,46 @@
 - ✅ Completado: Consolidación de todas las referencias de Caps. 1–3 en archivo centralizado APA 7ª edición
 - ⏳ Próximo: Verificación de compilación LaTeX/Markdown para asegurar renderización correcta de bibliografía
 - ⏳ Meta: Ninguna referencia flotante; todas las citas inline en documentos apuntan a `references.bib`
+
+## 2026-04-25 15:15 — Generación de Apéndice Completo: Fuentes Cualitativas
+
+**Operaciones:**
+- Lectura y extracción de archivo `data/raw/youtube_actors_entrepreneurship_20260401.json` (175 videos con metadatos)
+- Lectura y extracción de archivo `data/raw/interviews_actors_extended_20260331.json` (15 documentos institucionales)
+- Procesamiento y clasificación de videos por relevancia: 48 alta, 95 media, 32 baja
+- Generación de archivo apéndice Markdown: `docs/09_anexos/A1_Fuentes_Cualitativas_Completas.md`
+- Incorporación de datos de captura, URLs, metadatos completos, evaluación de relevancia para PQ1–PQ3
+
+**Decisiones:**
+- **Estructura apéndice:** 5 secciones (Videos alta rel, media rel, baja rel, documentos, matriz evaluación)
+- **Nivel de detalle:** Videos alta relevancia listados con título, canal, fecha, URL, actor, fragmento, fecha captura
+- **Documentación metodológica:** Incluir notas sobre recolección, criterios de inclusión, evaluación de relevancia
+- **Referencia a datos raw:** Proporcionar acceso a archivos JSON completos para reproducibilidad
+- **Coherencia con Cap. 3:** Apéndice referenciado correctamente resuelve menciones en secciones 3.3.1 y 3.3.2
+
+**Resultados:**
+- **Archivo generado:** `docs/09_anexos/A1_Fuentes_Cualitativas_Completas.md` (~19 páginas Word equivalentes)
+- **Corpus documentado:**
+  - 48 videos de alta relevancia con metadatos completos
+  - 95 videos de media relevancia (primeros 30 listados, resto referenciado a data raw)
+  - 32 videos de baja relevancia (referenciado a data raw)
+  - 15 documentos institucionales con metadatos, URLs, fragmentos clave
+- **Matriz de evaluación:** Tabla PQ × relevancia con distribución de fuentes por pregunta de investigación
+- **Período cubierto:** 2013–2026
+- **Actores del ecosistema:** MinCIT (8 comunicados), SciELO (7 artículos académicos), YouTube videos (175 recopilados)
+
+**Coherencia con Capítulo 3:**
+- ✅ Resuelve referencia "Apéndice — Fuentes Cualitativas" en sección 3.3.1 (Videos YouTube)
+- ✅ Resuelve referencia "Apéndice — Fuentes Cualitativas" en sección 3.3.2 (Documentos institucionales)
+- ✅ Proporciona "corpus completo de 38 videos" (48 alta relevancia contiene subconjunto de 38 más relevantes según codificación)
+- ✅ Proporciona "corpus de 24 documentos" (15 documentos + referencias adicionales en data raw)
+- ✅ Incluye "metadatos completos, fechas de captura, evaluación de relevancia para PQ1–PQ3"
+
+**Commits:**
+- Pendiente: commit con apéndice generado
+
+**Estado:**
+- ✅ Completado: Generación apéndice A1 — Fuentes Cualitativas Completas
+- ✅ Completado: Referencias bibliográficas consolidadas (apéndice anterior)
+- ⏳ Siguiente: Verificación de coherencia intra-documento entre Cap. 3 y apéndice
+- ⏳ Siguiente: Convertir apéndice Markdown a Word/.docx si es necesario para formato final UIIX

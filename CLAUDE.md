@@ -120,11 +120,11 @@ Ver `.claude/rules/quality.md` para la fórmula de agregación ponderada.
 |-----------|---------|--------|-------------|
 | Cap. 1 | `docs/02_cap1_proyeccion_investigacion/01_capitulo_1.md` | ✅ Completo | H₀/Ha reformuladas, operacionalización alineada |
 | Cap. 2 | `docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md` | ✅ Redactado (11,146 palabras) | Incluye sec. 2.6 marco cualitativo; pendiente writer-critic |
-| Cap. 3 | `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` | 🔄 En revisión fase 2/4 | strategist-critic: 86/100; writer-critic: 85/100 (enmiendas formato APA pendientes) |
+| Cap. 3 | `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` | ✅ Revisiones completadas | Phase 1 strategist-critic: 88/100 (post-corrección temporal); Phase 2 writer-critic: 86/100 (post-INV-11). Listo para enmiendas Tier 1 antes de comité |
 | Operacionalización | `docs/04_cap3_metodologia_resultados/markdown_from_excel/` | ✅ Completo | 3 matrices en Markdown |
 | Dataset ALBA | `data/processed/survey_data_2026.csv` | ✅ Disponible | N=540 global, N=41 Colombia |
 | Entrevistas | `data/raw/interviews_actors_extended_20260331.json` | ✅ Disponible | 38 videos + 24 documentos (~280K palabras) |
-| Cap. 4 | `docs/05_cap4_propuesta_transformacion/01_capitulo_4.md` | 🔄 Redactado (~9,500 palabras) | 7 secciones (4.1-4.7): fundamentación, descripción, objetivos, actividades/fases, recursos, resultados (4.6.1+4.6.2), valoración. Versión humanizada + .docx UIIX. Pendiente writer-critic |
+| Cap. 4 | `docs/05_cap4_propuesta_transformacion/01_capitulo_4.md` | 🔄 En revisión fase 3/4 | Phase 3 strategist-critic completado: 86/100. Pendiente: Tier 1 enmiendas (linaje causal, heterogeneidad) + Phase 4 writer-critic |
 | Análisis | Cap. 3 Sección 3.3 | ✅ Especificado | 3 modelos regresión, sub-análisis Colombia, integración mixta |
 
 ---

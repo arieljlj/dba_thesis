@@ -120,7 +120,7 @@ Ver `.claude/rules/quality.md` para la fórmula de agregación ponderada.
 |-----------|---------|--------|-------------|
 | Cap. 1 | `docs/02_cap1_proyeccion_investigacion/01_capitulo_1.md` | ✅ Completo | H₀/Ha reformuladas, operacionalización alineada |
 | Cap. 2 | `docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md` | ✅ Redactado (11,146 palabras) | Incluye sec. 2.6 marco cualitativo; pendiente writer-critic |
-| Cap. 3 | `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` | 🔄 Redactado (~7,500 palabras MD) | Parte A,B,C completa; pendiente strategist-critic + writer-critic |
+| Cap. 3 | `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` | 🔄 En revisión fase 2/4 | strategist-critic: 86/100; writer-critic: 85/100 (enmiendas formato APA pendientes) |
 | Operacionalización | `docs/04_cap3_metodologia_resultados/markdown_from_excel/` | ✅ Completo | 3 matrices en Markdown |
 | Dataset ALBA | `data/processed/survey_data_2026.csv` | ✅ Disponible | N=540 global, N=41 Colombia |
 | Entrevistas | `data/raw/interviews_actors_extended_20260331.json` | ✅ Disponible | 38 videos + 24 documentos (~280K palabras) |

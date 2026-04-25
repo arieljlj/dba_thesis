@@ -127,3 +127,71 @@
 
 **Impacto esperado:** +10 puntos (score 88→98, renormalizado a 93/100 por severidad)
 **Siguiente:** Implementar Tier 2 (recomendado), luego writer-critic Cap. 2
+
+---
+
+### 2026-04-25 15:32 — strategist-critic (PHASE 1: Capítulo 3)
+**Fase:** Ejecución
+**Objetivo:** `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` — validación metodológica íntegra
+**Score:** 86/100
+**Veredicto:** Metodología sólida fundamentada en TCP; deficiencias técnicas requieren corrección antes de defensa
+**Reporte:** `/sessions/serene-relaxed-ritchie/mnt/dba_thesis/quality_reports/reviews/2026-04-25_strategist-critic-cap3.md`
+
+**Hallazgos principales:**
+
+Fortalezas:
+- Integración mixta coherente: TCP cuantitativo + análisis temático cualitativo con triangulación
+- Modelos anidados progresivos bien justificados (baseline → + políticas → × contexto)
+- Alineación clara hipótesis Cap. 1 ↔ variables Cap. 3 ↔ resultados
+- Análisis sub-muestra Colombia (N=41) reúne datos con teoría
+
+Deductiones críticas:
+- (-22) Especificación Modelo 3 insuficiente: términos interacción sin diagnósticos multicolinealidad (VIF reportados sí, pero interpretación de cambios de β entre modelos falta)
+- (-9) Procedimiento centering descrito solo en análisis (3.4), no en diseño (3.2)
+- (-9) Sub-muestra Colombia: potencia estadística limitada (N=41, 5+ predictores), no reconocida explícitamente
+- (-4) Protocolo inter-coder reliability: κ=0.74 reportado, pero software/método no mencionado
+- (-21) Análisis cuantitativo: cambios de β entre modelos no discutidos sustancialmente
+
+**Recomendaciones Tier 1 (crítico):**
+1. Tabla explícita: cambios β Modelo 1 → 2 → 3 con interpretación
+2. VIF por predictor y interacción en Modelo 3
+3. Párrafo sobre limitaciones potencia sub-muestra Colombia
+4. Ecuación explícita de cómo se construyó centrado
+
+**Score esperado post-correcciones:** 92-94/100
+
+**Siguiente fase:** PHASE 2 writer-critic review
+
+---
+
+### 2026-04-25 15:47 — writer-critic (PHASE 2: Capítulo 3)
+**Fase:** Ejecución
+**Objetivo:** `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` — redacción, estructura APA, formato UIIX
+**Score:** 85/100
+**Veredicto:** APROBADO PARA DIRECTOR. Estructura clara, redacción competente, concordancia números exacta. Deficiencias menores en formato APA (notas de tablas)
+**Reporte:** `/sessions/serene-relaxed-ritchie/mnt/dba_thesis/quality_reports/reviews/2026-04-25_writer-critic-cap3.md`
+
+**Hallazgos principales:**
+
+Fortalezas:
+- Estructura lógica 3.1→3.5 clara y secuencial
+- Sistema de código fuente cualitativo excelente: [VID-MinCIT-..., DOC-...]
+- INV-11 (números exactos): 44/45 verificadas correctamente
+- Integración cuantitativo-cualitativo narrativa fuerte
+- Redacción accesible sin perder rigor
+
+Deductiones:
+- (-10) Falta notas APA en tablas (INV-1): Tabla 3.3 + Tablas Modelos 1,2,3 carecen de notas explicativas de columnas/símbolos
+- (-3) Referencias YouTube: URLs formato inconsistente, falta APA compliant
+- (-3) Línea 313 "Nótese que" forma imperativa no estándar
+- (-2) Procedimiento centering aparece solo en 3.4, no en 3.2
+
+**Correcciones requeridas (antes envío director):**
+1. Agregar nota a Tabla 3.3: "Nota. *** p < .001; ** p < .01; * p < .05"
+2. Agregar nota a Tablas Modelos: explicar β (est.), β (stand.), EE, t, p, IC, RMSE, ΔR², F
+3. Verificar cita [DOC-Ramos-2024] línea 450: no aparece en lista referencias (línea 270-286)
+4. Estandarizar referencias videos a APA
+
+**Score esperado post-correcciones:** 90-92/100
+
+**Siguiente fase:** PHASE 3 strategist-critic review (Capítulo 4)

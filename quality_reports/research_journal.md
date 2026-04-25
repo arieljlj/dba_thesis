@@ -262,3 +262,44 @@ Deductiones críticas:
 **Score esperado post-correcciones:** 90-92/100
 
 **Siguiente fase:** PHASE 4 writer-critic review (Capítulo 4)
+
+---
+
+### 2026-04-25 15:52 — writer-critic (PHASE 4: Capítulo 4)
+**Fase:** Propuesta
+**Objetivo:** `docs/05_cap4_propuesta_transformacion/01_capitulo_4.md` — redacción, estructura, formato UIIX, APA compliance
+**Score:** 87/100
+**Veredicto:** BIEN ESCRITO Y ESTRUCTURADO — Propuesta comunicada claramente, coherencia interna fuerte, lenguaje académico pero humano. Deficiencias primarias: formato APA (referencias legislativas), ajustes menores redacción. Con enmiendas Tier 1, listo para comité.
+**Reporte:** `/sessions/serene-relaxed-ritchie/mnt/dba_thesis/quality_reports/reviews/2026-04-25_writer-critic-cap4.md`
+
+**Hallazgos principales:**
+
+Fortalezas:
+- Estructura clara: 4.1 Fundamentación → 4.2-4.3 Definición → 4.4-4.5 Operacional → 4.6 Resultados → 4.7 Validación (jerarquía lógica)
+- Redacción accesible: combina números con narrativa (ej. "Hay una brecha de 48 puntos..."), evita jerga sin perder rigor
+- Humanización: evita copula avoidance, em-dash overuse, "undue emphasis"; mantiene voz autoral real
+- Coherencia numérica: brecha 48 (68% vs 20%), R²=0.478, β=0.159, β=0.089, β=0.118 consistentes con Cap. 3
+- Indicadores definidos: proceso (70% acceso), resultado (30-40% vs 20%), mantención (60%)
+
+Deductiones:
+- (-14) Formato APA: Ley 2069 y Ley 1014 mencionadas sin cita formal (Congreso de la República, año); MinCIT referencias sin documento específico
+- (-8) Redacción: línea 313 "Nótese que..." lenguaje imperativo (rompe registro académico), línea 14 "Aquí viene lo interesante" es coloquia, línea 23-24 "la mayoría en universidades técnicas" necesita verificación
+- (-8) Coherencia: β=0.159, β=0.089 requieren verificación contra Cap. 3 para confirmar exactitud; si son ΔR² vs β hay diferencia estadística
+- (-3) Estructura: transición 4.5→4.6 es brusca sin párrafo puente; sección 4.6 introduce subsecciones sin explicación
+- (-2) Humanización: "Aquí viene lo interesante", "en valores 2026" son registros no-estándar
+
+**Correcciones requeridas (Tier 1 — Crítico):**
+1. Agregar citas formales APA para Ley 2069, Ley 1014 (Congreso de la República, año)
+2. Especificar documento MinCIT que respalda "énfasis en formalización y acceso a crédito" (Plan Nacional Emprendimiento 2024-2025 u otro)
+3. Cambiar línea 313 "Nótese que..." → "Los resultados son asociacionales, no causales, porque..."
+4. Verificar β exactos contra Cap. 3 Tabla 3.3 o Modelos: β=0.159 (conocimiento), β=0.089 (moderación)
+
+**Mejoras Tier 2 (Importante — recomendado):**
+1. Párrafo puente 4.5→4.6 explicando transición de recursos a resultados
+2. Cambiar "Aquí viene lo interesante" → "Un hallazgo particularmente relevante fue..."
+3. Formato lista numerada para tres preguntas sección 4.4 (auditoría)
+4. "en valores 2026" → "estimado a precios de 2026"
+
+**Score esperado post-correcciones Tier 1:** 90-92/100
+
+**Siguiente fase:** Implementar enmiendas Tier 1 (strategist-critic + writer-critic) Cap. 4 antes de comité doctoral

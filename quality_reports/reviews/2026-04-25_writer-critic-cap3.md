@@ -215,7 +215,34 @@ Todos los otros números en discusión (R², β, p, IC, correlaciones) concuerda
 
 ---
 
+---
+
+## ADENDA: CORRECCIÓN CRÍTICA INV-11 (Post-revisión, Detectada por Jorge)
+
+**Hallazgo:** Discrepancias temporales en especificación de fuentes cualitativas entre secciones.
+
+**Problema identificado:**
+- Fuente 1 (Videos): Línea 85 vs 171 vs 200 reportaban "(2020–2026)" vs "(2015–2026)" vs "(2020–2026)" — INCONSISTENTE
+- Fuente 2 (Documentos): Sin período especificado en 3.2.2/3.2.4; "(2013–2026)" en 3.3.1 — INCOMPLETO
+- Evidencia real: Videos de 2018 (Restrepo MinCIT) y 2019 (entrevistas) existentes
+
+**Correcciones aplicadas:** ✅ COMPLETADAS
+- Línea 85: "(2020–2026)" → "(2018–2026)"
+- Línea 86: Agregado período "(2015–2026)" para Fuente 2
+- Línea 171: "(2015–2026)" → "(2018–2026)"
+- Línea 173: Agregado período "(2015–2026)" para Fuente 2
+- Línea 200: "(2020–2026)" → "(2018–2026)"
+- Línea 202: "(2013–2026)" → "(2015–2026)"
+
+**Impacto en puntaje:** +1 punto (INV-11 completo)
+- **Puntaje ajustado: 86/100** (de 85/100)
+
+**Estatus:** APROBADO PARA DIRECTOR — todas especificaciones temporales ahora consistentes y verificadas.
+
+---
+
 **Fin de Revisión Writer-Critic — Capítulo 3**
 
 **Crítico:** Writer-critic 
 **Fecha:** 2026-04-25 15:47
+**Actualización (Adenda):** 2026-04-25 15:58

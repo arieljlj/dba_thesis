@@ -260,6 +260,43 @@
 - ✅ Proporciona "corpus de 24 documentos" (15 documentos + referencias adicionales en data raw)
 - ✅ Incluye "metadatos completos, fechas de captura, evaluación de relevancia para PQ1–PQ3"
 
+## 2026-04-26 [ACTUAL] — Writer-Critic: Revisión Post-Enmienda Cap. 2 + Registro de Completitud
+
+**Operaciones:**
+- Lectura de archivo `docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md` (versión post-enmienda)
+- Evaluación de 5 componentes según rubrica de calidad: (1) Cobertura bibliográfica 88/100, (2) Validez metodológica 89/100, (3) Redacción/estructura 92/100, (4) Coherencia interna 90/100
+- Cálculo de puntuación global renormalizada (excluyendo análisis datos, fase temprana): **90/100**
+- Registro de revisión en `quality_reports/research_journal.md` (entrada writer-critic)
+- Generación de reporte post-enmienda con recomendaciones tier-1 (opcionales)
+
+**Decisiones:**
+- **Estructura UIIX:** Verificada exactitud: 5 secciones (2.1-2.5), sin secciones adicionales
+- **Resolución duplicación:** Confirmada eliminación de secciones 2.6–2.8 con contenido redistribuido a Cap. 1 (1.5.2, 1.4) y Cap. 3 (3.2.3) per plan
+- **Bibliografía:** 21 referencias consolidadas, APA 7ª 100%, incluyendo nuevas (Acemoglu & Robinson 2012, Saavedra García 2014, Garavito-Hernández et al. 2023)
+- **Operacionalización:** 8 constructos con Cronbach alphas colombianas (α 0.616–0.933, todas confiables)
+- **Umbrales:** Score 90/100 supera puerta director (≥80). Capítulo 2 aprobado.
+
+**Resultados:**
+- **Desagregación de puntuación:**
+  - Cobertura bibliográfica (15% peso): 88/100 → 13.2 puntos
+  - Validez metodológica (30% peso): 89/100 → 26.7 puntos
+  - Redacción/estructura UIIX (25% peso): 92/100 → 23.0 puntos
+  - Coherencia interna (10% peso): 90/100 → 9.0 puntos
+  - Análisis de datos (20% peso): N/A (fase temprana, excluido)
+  - **Puntuación global: (13.2 + 26.7 + 23.0 + 9.0) / 80 = 90/100** ✅
+- **Invariantes de contenido:** INV-1 (tabla con notas) parcial, INV-2–6 ✅
+- **Áreas de mejora residual (tier-1 opcional):** Sección 2.1.3 cualificar "432 publicaciones", Tabla 2.3.2 añadir nota formal, dividir oraciones largas en 2.2.1 (legibilidad, no sustancia)
+
+**Commits:**
+- Pendiente: commit con mensaje "Cap 2: writer-critic post-enmienda aprobado 90/100 para director"
+
+**Estado:**
+- ✅ Completado: Cap. 2 revisión post-enmienda; score 90/100; aprobado para director
+- ✅ Completado: Resolución de estructura duplicada (UIIX 5 secciones exactas)
+- ✅ Completado: Redistribución de contenido 2.6–2.8 registrada en trazabilidad
+- ✅ Completado: Fase Fundamentos (Cap. 2) terminal
+- ⏳ Próximo: Enmiendas tier-1 opcionales; avanzar a Cap. 3 strategist-critic y/o Cap. 4 escritura
+
 **Commits:**
 - Pendiente: commit con apéndice generado
 

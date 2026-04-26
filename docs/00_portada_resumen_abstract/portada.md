@@ -21,7 +21,7 @@
 Jorge Ariel Loaiza Loaiza
 
 **Director(a) de tesis:**
-[Por confirmar]
+Dra. Lyzzi Coromoto Davalillo Bolívar
 
 **Institución de adscripción:**
 Corporación de Estudios Tecnológicos del Norte del Valle — COTECNOVA

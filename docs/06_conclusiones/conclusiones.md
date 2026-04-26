@@ -1,0 +1,92 @@
+---
+bibliography: ../08_bibliografia/referencias.bib
+csl: apa.csl
+---
+
+# Capítulo 6. Conclusiones
+
+## Síntesis general
+
+Esta investigación se propuso analizar la relación entre las políticas públicas de emprendimiento y la intención emprendedora de estudiantes universitarios en América Latina, con énfasis en el contexto colombiano, determinando además el efecto moderador del contexto universitario. Para ello, se articuló un diseño secuencial confirmatorio mixto que integró un análisis cuantitativo sobre la base del dataset ALBA 2026 (N=540) con un análisis cualitativo de perspectivas de actores del ecosistema emprendedor colombiano. La Teoría del Comportamiento Planificado (TCP) de Ajzen (1991) sirvió como marco teórico central, complementada por constructos de conocimiento formal del ecosistema, alfabetización financiera y contexto universitario operacionalizado en tres dimensiones: desarrollo institucional, apoyo académico y clima de aprendizaje.
+
+Los hallazgos del estudio confirman que la intención emprendedora es un fenómeno explicable, predecible en su estructura, pero complejo en su dinámica. Los componentes de la TCP predicen robustamente la intención, el conocimiento de las políticas públicas agrega predicción significativa, y el contexto universitario modera las relaciones entre antecedentes individuales e intención. Sin embargo, los datos cualitativos añaden una dimensión fundamental que los modelos estadísticos capturan solo parcialmente: la transición de la intención a la acción depende de mecanismos no cognitivos —mentoría, intermediación local, legitimidad social, resiliencia ante el fracaso— que los marcos normativos actuales abordan de manera insuficiente.
+
+Las conclusiones que siguen responden a cada uno de los cinco objetivos específicos de la investigación. Integran los aportes de los capítulos de fundamentos teóricos (Capítulo 2), metodología y resultados (Capítulo 3) y propuesta de transformación (Capítulo 4), con el propósito de ofrecer una síntesis coherente que honre la complejidad del fenómeno estudiado.
+
+---
+
+## Conclusión 1: Perfil de intención emprendedora y contribución de antecedentes individuales (OE1)
+
+El primer objetivo específico buscaba caracterizar el perfil de intención emprendedora de los estudiantes participantes y determinar la contribución de los antecedentes individuales —actitud emprendedora, autoeficacia y motivación— a su explicación.
+
+Los datos del dataset ALBA 2026 revelan que la intención emprendedora de los estudiantes universitarios latinoamericanos es moderada-alta en términos declarativos (M=3.68, DE=1.92 en escala de 1 a 7), con una variación sustancial entre individuos. El 68% de los estudiantes de la muestra manifestó intención de emprender en los próximos cinco años cuando se les formuló la pregunta de forma directa, pero cuando la misma población fue consultada sobre acciones concretas —como postularse a una incubadora o registrar una empresa— la tasa descendía aproximadamente al 20%, una brecha de 48 puntos porcentuales que el análisis cualitativo confirmó como estructural y no meramente artefactual.
+
+En términos de antecedentes individuales, la actitud emprendedora (AT) resultó ser el predictor dominante de la intención en el modelo de regresión baseline (β estandarizado=0.548, p<0.001), seguida del control conductual percibido (PBC, β=0.395, p<0.001) y las normas subjetivas (SN, β=0.147, p<0.001). El conjunto de los tres componentes TCP explicó el 47.8% de la varianza de la intención emprendedora (R²=0.478), cifra consistente con metaanálisis de la literatura internacional que posicionan la TCP como el marco con mayor poder explicativo de la intención emprendedora (Schlaegel & Koenig, 2014).
+
+El Capítulo 2 de esta investigación fundamentó por qué la actitud ocupa esta posición jerárquica: como constructo evaluativo que integra dimensiones afectivas y cognitivas sobre las consecuencias de emprender, la actitud captura tanto el deseo como la valoración instrumental del emprendimiento, lo que la convierte en el mecanismo psicológico más próximo a la decisión de actuar. El control conductual percibido, por su parte, refleja la percepción de capacidad y acceso a recursos; su efecto significativo confirma que la intención emprendedora no se sostiene solo en el deseo, sino también en la confianza de que uno puede materializarlo.
+
+En la sub-muestra colombiana (N=41), los patrones se replicaron con magnitudes similares (AT β=0.498, PBC β=0.361; R²=0.487), lo que valida la aplicabilidad del marco TCP en el contexto nacional. Sin embargo, los datos descriptivos mostraron que los estudiantes colombianos presentan un control conductual percibido significativamente menor que el promedio latinoamericano (M=4.2 vs. M=4.8 global), diferencia que el análisis cualitativo atribuyó a la percepción de barreras estructurales más pronunciadas: costos de formalización, escasez de redes empresariales en ciudades intermedias, y experiencias de fracaso temprano en el entorno cercano.
+
+Esta conclusión aporta evidencia empírica robusta para fundamentar intervenciones focalizadas en el fortalecimiento actitudinal y en la reducción de barreras percibidas, antes que en programas genéricos de promoción del emprendimiento desconectados de las condiciones locales.
+
+---
+
+## Conclusión 2: Nivel de conocimiento de las políticas públicas y su variación contextual (OE2)
+
+El segundo objetivo específico se propuso evaluar el nivel de conocimiento y percepción de las políticas públicas de emprendimiento entre los estudiantes, así como su variación según el contexto universitario.
+
+Los resultados del estudio revelan un nivel de conocimiento del ecosistema emprendedor que puede calificarse de bajo-moderado. La variable de conocimiento formal del ecosistema (FK) presentó una media global de 3.94 sobre 7 (DE=1.67), mientras que en la muestra colombiana descendió a M=3.56, lo que indica que los estudiantes universitarios colombianos tienen un conocimiento por debajo del promedio latinoamericano sobre los marcos normativos, programas de apoyo e instituciones del ecosistema emprendedor de su país.
+
+Esta brecha de conocimiento es teóricamente relevante. El Capítulo 2 estableció, a partir del estado del arte, que el conocimiento institucional del ecosistema opera como moderador entre la intención emprendedora y la acción concreta (Autio et al., 2014). Los datos cuantitativos del Capítulo 3 confirmaron que el conocimiento formal del ecosistema es un predictor significativo de la intención (β=0.159, p<0.001 en Modelo 2), aunque su efecto se redujo al incorporar las variables del contexto universitario en el Modelo 3 (β=0.137, p<0.001), lo que sugiere que la infraestructura institucional universitaria captura parte del efecto que inicialmente se atribuía al conocimiento formal de los programas nacionales.
+
+La variación por contexto universitario es especialmente ilustrativa. El análisis cualitativo identificó que el conocimiento de las políticas públicas nacionales —Ley 1014 de 2006, Fondo Emprender, programas iNNpulsa, líneas de crédito Bancóldex— es mayor en universidades ubicadas en grandes ciudades donde existen oficinas locales de estos programas con personal de seguimiento, que en instituciones de ciudades intermedias donde el acceso depende exclusivamente de plataformas digitales y procesos sin acompañamiento. Un actor del ecosistema documentado en el análisis cualitativo [VID-MinCIT-Restrepo-2019b] describió este fenómeno con precisión: en regiones con menor infraestructura de ecosistema, los estudiantes deciden emigrar o buscar empleo formal porque no perciben apoyo local viable.
+
+Esto tiene consecuencias normativas directas: el nivel de conocimiento de las políticas públicas no es solo una variable individual, sino una variable contextualmente producida. Dos estudiantes con perfil similar diferirán en su conocimiento del ecosistema —y consecuentemente en su intención emprendedora— no solo por sus características personales, sino por la calidad del entorno institucional de su universidad y de su región. Políticas que asuman que la información es igualmente accesible para todos los territorios del país subestiman la heterogeneidad estructural del ecosistema colombiano.
+
+---
+
+## Conclusión 3: Relación estadística entre políticas públicas e intención emprendedora (OE3)
+
+El tercer objetivo específico buscaba determinar la relación estadística entre la percepción de las políticas públicas de emprendimiento —medida mediante las escalas de conocimiento formal del ecosistema (FK) y alfabetización financiera (FL)— y la intención emprendedora, en el marco de un modelo de regresión que controla por los antecedentes TCP.
+
+Los datos confirman con claridad que las políticas públicas de emprendimiento, tal como son percibidas por los estudiantes universitarios, se relacionan positiva y significativamente con la intención emprendedora. Esta es la hipótesis central de la investigación (H1), y los modelos de regresión la soportan empíricamente.
+
+El conocimiento formal del ecosistema (FK) mostró un efecto directo robusto y consistente (β=0.159, p<0.001 en Modelo 2; β=0.137, p<0.001 en Modelo 3), manteniendo su significancia estadística incluso tras controlar por los tres componentes de la TCP y por las variables del contexto universitario. Esto implica que el conocimiento de marcos normativos y programas de apoyo —por encima de la actitud, las normas y el control percibido— tiene un efecto propio y diferenciado sobre la intención emprendedora, lo que constituye una contribución empírica relevante al debate sobre el papel de las políticas públicas en la formación de la intención.
+
+La alfabetización financiera (FL) mostró un efecto más limitado y sensible al modelo en que se la incluye. En el Modelo 2 su efecto fue estadísticamente significativo pero marginal (β=0.080, p=0.043), y al incorporar los moderadores contextuales en el Modelo 3 perdió significancia estadística (β=0.063, p=0.125). Esta diferencia entre FK y FL tiene implicaciones sustantivas: el conocimiento de programas e instituciones del ecosistema (FK) tiene un efecto sobre la intención emprendedora más robusto y menos dependiente del contexto que la comprensión de conceptos financieros (FL).
+
+El Capítulo 2 anticipó esta diferenciación desde la perspectiva teórica al distinguir entre el conocimiento institucional —que habilita la agencia al revelar qué recursos existen y cómo acceder a ellos— y la alfabetización financiera —que proporciona herramientas para la gestión una vez que la decisión de emprender se ha tomado. Los datos cualitativos del Capítulo 3 reforzaron esta interpretación: los actores del ecosistema enfatizaron que la mentoría empresarial continuada supera al capital como factor determinante del éxito emprendedor, lo que sugiere que la comprensión de conceptos financieros abstractos tiene menor poder de habilitación que el acceso a acompañamiento humano concreto.
+
+En síntesis, la hipótesis H1 se confirma: las políticas públicas, medidas a través de la percepción estudiantil del FK y el FL, se relacionan positiva y significativamente con la intención emprendedora. Sin embargo, esta relación no opera de manera uniforme: el mecanismo de influencia es el conocimiento de programas e instituciones, más que la comprensión de conceptos financieros per se.
+
+---
+
+## Conclusión 4: Efecto moderador del contexto universitario (OE4)
+
+El cuarto objetivo específico se propuso examinar el efecto moderador del contexto universitario —medido a través del desarrollo institucional (U-D), el apoyo académico (U-AS) y el clima de aprendizaje emprendedor (LC)— en la relación entre políticas públicas e intención emprendedora.
+
+Los resultados del Modelo 3 de regresión con términos de interacción confirman parcialmente la hipótesis H2: el contexto universitario modera la relación entre las variables predictoras y la intención emprendedora. La interacción estadísticamente más significativa se produjo entre la actitud emprendedora y el desarrollo institucional universitario (AT×U-D: β=0.089, p=0.031), lo que indica que en instituciones con mayor desarrollo de infraestructura emprendedora —incubadoras, programas, redes, acceso a financiamiento universitario— el efecto de la actitud sobre la intención se amplifica significativamente. La interacción entre control conductual percibido y desarrollo universitario (PBC×U-D: β=0.072, p=0.058) se aproximó al umbral de significancia convencional pero no lo alcanzó, constituyendo una señal moderadamente sugestiva.
+
+Adicionalmente, tanto el desarrollo institucional (β=0.127, p=0.005) como el apoyo académico (β=0.109, p=0.007) y el clima de aprendizaje (β=0.109, p=0.007) mostraron efectos directos significativos sobre la intención en el Modelo 3, lo que revela que el contexto universitario no opera únicamente como moderador sino también como predictor directo de la intención emprendedora.
+
+Este hallazgo tiene una implicación teórica relevante que el Capítulo 2 anticipó: la intención emprendedora no es solo el resultado de disposiciones individuales y cognitivas, sino que está co-producida por el entorno institucional en el que el estudiante se forma. Una universidad que valora explícitamente el emprendimiento, que proporciona mentoría y apoyo académico activo, y que fomenta un clima de experimentación y tolerancia al error, no solo amplifica el efecto de actitudes previas, sino que contribuye a construirlas.
+
+El análisis cualitativo añadió profundidad a este hallazgo: los actores del ecosistema describieron cómo el contexto universitario opera como arquitectura de intermediación local entre los estudiantes y las oportunidades reales de emprendimiento. Cuando esa arquitectura es sólida —cuando hay docentes que acompañan, empresarios que orientan, y procesos para acceder a recursos externos—, el conocimiento de las políticas públicas y la actitud favorable se traducen más efectivamente en intención de actuar. Cuando esa arquitectura es débil o inexistente, la distancia entre intención y acción se amplía, independientemente de la actitud individual.
+
+Esta conclusión tiene consecuencias para el diseño de políticas: el impacto de los programas nacionales de fomento al emprendimiento —iNNpulsa, Fondo Emprender, Ley 1014, Ley 2069— depende críticamente de la capacidad de intermediación de las instituciones universitarias locales. Sin esa intermediación, las políticas nacionales llegan a los estudiantes como información abstracta, no como recursos concretos. Con ella, ese mismo conocimiento se convierte en agencia.
+
+---
+
+## Conclusión 5: Lineamientos de política pública y estrategia universitaria (OE5)
+
+El quinto objetivo específico orientó la investigación hacia la propuesta de lineamientos de política pública y estrategia universitaria fundamentados en los hallazgos empíricos, con el propósito de contribuir al fortalecimiento de la intención emprendedora en el contexto universitario latinoamericano, con énfasis en Colombia.
+
+Los hallazgos del estudio confluyen en señalar que el principal desafío del ecosistema de emprendimiento universitario colombiano no es la ausencia de instrumentos de política ni la falta de intención entre los estudiantes —que existe y es considerable—, sino la insuficiencia de mecanismos de intermediación que traduzcan recursos disponibles en agencia local concreta. Esta traducción requiere dos condiciones: por un lado, políticas nacionales diseñadas con reconocimiento explícito de la heterogeneidad entre emprendimiento por oportunidad y emprendimiento por necesidad; por otro, instituciones universitarias capaces de funcionar como intermediarias locales activas, no solo como transmisoras de información.
+
+El Capítulo 4 desarrolló en detalle un Modelo de Fortalecimiento de la Intención Emprendedora mediante Intermediación Local y Mentoría Estructurada, que articula estos dos niveles de intervención con un tercer nivel centrado en el acompañamiento individual. Los datos que sustentan este modelo son precisos: la mentoría académica (U-AS, β=0.109) supera el efecto de la alfabetización financiera (FL, β=0.063 en Modelo 3) sobre la intención emprendedora, lo que invierte la jerarquía implícita de las políticas públicas colombianas que han privilegiado el acceso a crédito como solución central.
+
+La síntesis mixta del Capítulo 3 identificó que la brecha intención-acción —estimada en 48 puntos porcentuales— se explica por una combinación de factores: artefacto parcial de medición por deseabilidad social, insuficiencia de los factores proximales de la TCP para predecir comportamiento real, barreras estructurales no cognitivas (redes, legitimidad, capital social) que varían fuertemente por región, y una arquitectura de políticas públicas orientada al emprendimiento formal que excluye sistemáticamente al emprendimiento de necesidad.
+
+Los lineamientos derivados de estos hallazgos apuntan en tres direcciones complementarias. En el nivel nacional, se requiere bifurcar los instrumentos de fomento al emprendimiento para atender de manera diferenciada a emprendedores de oportunidad —que necesitan escala, tecnología y acceso a mercados— y emprendedores de necesidad —que requieren simplificación regulatoria, acceso a economía popular y apoyo a la formalización progresiva. En el nivel universitario, las instituciones deben desarrollar capacidades reales de intermediación local: selección y formación de mentores, alianzas formalizadas con actores del ecosistema, mecanismos de apoyo post-fracaso. En el nivel individual, los programas deben fortalecer el acceso a redes y legitimidad social de los estudiantes, reconociendo que estas dimensiones del control conductual percibido —estructurales, no solo cognitivas— son las que con mayor frecuencia bloquean la transición de la intención a la acción.
+
+La investigación concluye, en definitiva, que el fortalecimiento de la intención emprendedora en estudiantes universitarios colombianos exige una política articulada que vincule el nivel nacional con el nivel institucional local y con el acompañamiento individual, reconociendo la heterogeneidad territorial del ecosistema y privilegiando la mentoría continuada sobre el acceso al crédito como mecanismo central de habilitación del emprendimiento.

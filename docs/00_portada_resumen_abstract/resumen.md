@@ -1,3 +1,11 @@
 # Resumen
 
-Resumen en español (máx. 300 palabras)
+Esta investigación analiza la relación entre las políticas públicas de emprendimiento y la intención emprendedora de estudiantes universitarios latinoamericanos, determinando el efecto moderador del contexto universitario. El estudio adopta un diseño secuencial confirmatorio mixto (QUAN → qual) con primacía cuantitativa, basado en el dataset ALBA 2026 (N=540 estudiantes de instituciones acreditadas por ACBSP en América Latina, con sub-muestra colombiana N=41) y un corpus cualitativo de 62 fuentes del ecosistema emprendedor colombiano (~280,000 palabras).
+
+El marco teórico se fundamenta en la Teoría del Comportamiento Planificado (Ajzen, 1991), complementada con constructos de conocimiento formal del ecosistema (FK) y alfabetización financiera (FL) como proxies de la percepción de políticas públicas, y tres dimensiones del contexto universitario: desarrollo institucional (U-D), apoyo académico (U-AS) y clima de aprendizaje (LC). Se especificaron tres modelos de regresión múltiple progresivos.
+
+Los resultados cuantitativos muestran que los componentes de la TCP predicen robustamente la intención emprendedora (R²=0.478), con la actitud como predictor dominante (β=0.548). El conocimiento del ecosistema añade predicción incremental significativa (FK β=0.159, p<0.001; ΔR²=0.034), y el contexto universitario amplifica la relación entre actitud e intención (interacción AT×U-D: β=0.089, p=0.031). El análisis cualitativo revela que el mecanismo de influencia de las políticas es la intermediación local —docentes, mentores, gestores— más que la información centralizada. La brecha intención-acción (~48 puntos porcentuales) se explica por artefactos de medición, barreras no-cognitivas y arquitectura de políticas desalineada con el emprendimiento de necesidad.
+
+La propuesta de transformación articula un Modelo de Fortalecimiento de la Intención Emprendedora mediante Intermediación Local y Mentoría Estructurada, operativo en tres niveles: política nacional diferenciada, infraestructura universitaria de intermediación, y acompañamiento individual con apoyo post-fracaso. Los hallazgos tienen implicaciones directas para el diseño de programas universitarios de emprendimiento y para la política pública colombiana en el marco de la Ley 2069 de 2020.
+
+**Palabras clave:** intención emprendedora, teoría del comportamiento planificado, políticas públicas de emprendimiento, contexto universitario, intermediación local, Colombia, diseño mixto.

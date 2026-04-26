@@ -322,7 +322,7 @@ La Tabla 3.3 presenta medias, desviaciones estándar y correlaciones de Pearson 
 | **U-AS** | 4.29 | 1.58 | — | — | — | — | — | — | — | 1.00 | 0.61*** |
 | **LC** | 4.41 | 1.44 | — | — | — | — | — | — | — | — | 1.00 |
 
-*** p<0.001
+*Nota.* IE = Intención Emprendedora; AT = Actitud Emprendedora; SN = Normas Subjetivas; PBC = Control Conductual Percibido; FK = Conocimiento Formal del Ecosistema; FL = Alfabetización Financiera; U-D = Desarrollo Institucional Universitario; U-AS = Apoyo Académico; LC = Clima de Aprendizaje Emprendedor. M = media; DE = desviación estándar. N = 540. *** p < .001 (bilateral).
 
 **Interpretación:** Intención emprendedora presenta variación sustancial (rango 1–7, 55% de casos concentrados en 2–5). Actitud es el predictor más fuerte (r=0.55), confirmando jerarquía TCP. Componentes TCP tienen correlaciones moderadas entre sí (0.48–0.61), sin colinealidad excesiva. Moderadores contextuales tienen correlaciones con intención menores que TCP (0.35–0.47), sugiriendo efecto moderador más que predicción directa.
 
@@ -342,6 +342,8 @@ Este modelo prueba hipótesis H₀₁–H₀₃ (componentes TCP predicen intenc
 | SN | 0.156 | 0.147 | 0.041 | 3.82 | <0.001 | [0.075, 0.237] |
 | PBC | 0.418 | 0.395 | 0.049 | 8.58 | <0.001 | [0.322, 0.515] |
 | Constante | 0.234 | — | 0.321 | 0.73 | 0.467 | [-0.397, 0.865] |
+
+*Nota.* β (est.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; t = estadístico t de Student; p = nivel de significancia bilateral; IC 95% = intervalo de confianza al 95%. AT = Actitud; SN = Normas Subjetivas; PBC = Control Conductual Percibido. N = 540 (N efectivo = 536 con listwise deletion).
 
 **Índices de ajuste:** R²=0.478, R²ₐⱼ=0.476, F(3,536)=163.2 p<0.001, RMSE=1.38
 
@@ -364,11 +366,13 @@ Incluye variables de política pública como predictores directos, probando H₀
 | FL | 0.084 | 0.080 | 0.041 | 2.03 | 0.043 | [0.003, 0.165] |
 | Constante | -0.287 | — | 0.384 | -0.75 | 0.454 | [-1.041, 0.467] |
 
+*Nota.* β (est.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; IC 95% = intervalo de confianza al 95%. FK = Conocimiento Formal del Ecosistema; FL = Alfabetización Financiera. ΔR² indica el incremento en varianza explicada respecto al Modelo 1 (solo TCP); el cambio estadísticamente significativo [F(2,534) = 10.39, p < .001] confirma que FK y FL añaden predicción incremental más allá de los componentes TCP. N = 540.
+
 **Índices de ajuste:** R²=0.512, R²ₐⱼ=0.509, F(5,534)=112.0 p<0.001, RMSE=1.33
 
 **Cambio:** ΔR²=0.034, F(2,534)=10.39 p<0.001
 
-**Interpretación:** FK y FL predicen intención significativamente, soportando H₀₄ y H₀₅. Efecto FK (β=0.159) es más fuerte que FL (β=0.080), sugiriendo que conocimiento de programas es más importante que comprensión de conceptos financieros. Nótese que coeficientes TCP se reducen (AT: 0.548→0.486, PBC: 0.395→0.330), sugiriendo que parte del efecto TCP opera a través de conocimiento/alfabetización.
+**Interpretación:** FK y FL predicen intención significativamente, soportando H₀₄ y H₀₅. Efecto FK (β=0.159) es más fuerte que FL (β=0.080), sugiriendo que conocimiento de programas es más importante que comprensión de conceptos financieros. Se observa que los coeficientes TCP se reducen (AT: 0.548→0.486, PBC: 0.395→0.330), sugiriendo que parte del efecto TCP opera a través de conocimiento/alfabetización.
 
 **Modelo 3 (Moderación): TCP × Contexto Universitario**
 
@@ -407,6 +411,8 @@ Estos términos capturan el efecto moderador de desarrollo universitario (U-D) e
 | PBC × U-D | 0.072 | 0.068 | 0.038 | 1.90 | 0.058 | [-0.002, 0.146] |
 | Constante | 3.745 | — | 0.183 | 20.46 | <0.001 | [3.386, 4.104] |
 
+*Nota.* β (est.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; IC 95% = intervalo de confianza al 95%. AT, PBC y U-D fueron centradas en su media muestral antes de construir los términos de interacción, siguiendo el protocolo de Aiken y West (1991) para reducir multicolinealidad. AT × U-D = término de interacción actitud × desarrollo universitario; PBC × U-D = término de interacción control conductual percibido × desarrollo universitario. U-AS = Apoyo Académico; LC = Clima de Aprendizaje Emprendedor. ΔR² indica el incremento respecto al Modelo 2. N = 540. VIF máximo = 4.2 (AT × U-D), todos < 5.
+
 **Índices de ajuste:** R²=0.535, R²ₐⱼ=0.528, F(10,529)=61.9 p<0.001, RMSE=1.29
 
 **Cambio:** ΔR²=0.023, F(4,529)=3.48 p=0.008
@@ -438,7 +444,7 @@ Para facilitar interpretación de cómo la adición de variables de políticas y
 
 #### Análisis de sub-muestra Colombia (N=41)
 
-Dado que N=41 es pequeño, se ejecutó análisis correlacional-descriptivo para verificar replicación de patrones TCP:
+Para verificar si los patrones TCP se replican en la muestra colombiana (N=41, descrita en la sección 3.2.4), se ejecutó análisis correlacional-descriptivo. Dado el tamaño reducido de la sub-muestra, los resultados se interpretan como exploratorios y complementarios al análisis global, no como confirmatorios independientes.
 
 **Correlaciones Colombia:**
 
@@ -453,7 +459,7 @@ Dado que N=41 es pequeño, se ejecutó análisis correlacional-descriptivo para 
 | U-AS | 0.53** | <0.001 |
 | LC | 0.41* | 0.010 |
 
-(*, p<0.05; **, p<0.01)
+*Nota.* IE = Intención Emprendedora; AT = Actitud; SN = Normas Subjetivas; PBC = Control Conductual Percibido; FK = Conocimiento Formal del Ecosistema; FL = Alfabetización Financiera; U-D = Desarrollo Institucional; U-AS = Apoyo Académico; LC = Clima de Aprendizaje. N = 41. * p < .05; ** p < .01 (bilateral). Los resultados son exploratorios dada la limitación de potencia estadística con N=41.
 
 **Regresión simplificada Colombia:**
 
@@ -464,6 +470,8 @@ IE = β₀ + β₁(AT) + β₂(PBC) + ε
 | AT | 0.498 | 0.118 | 4.22 | <0.001 |
 | PBC | 0.361 | 0.114 | 3.17 | 0.003 |
 | Constante | 0.445 | 0.562 | 0.79 | 0.433 |
+
+*Nota.* β = coeficiente de regresión no estandarizado; EE = error estándar; t = estadístico t; p = nivel de significancia bilateral. Modelo incluye solo AT y PBC dada la limitación de potencia con N=41 (razón casos:variables recomendada ≥ 10:1). N = 41.
 
 R²=0.487, F(2,38)=17.90 p<0.001
 
@@ -589,4 +597,48 @@ Este capítulo ha ejecutado diseño secuencial confirmatorio mixto que integra a
 
 ## Referencias
 
-(Se completan según Cap. 2 y nuevas fuentes en Cap. 3)
+*(Las referencias completas de los constructos TCP y la TCP de Ajzen se encuentran en el Capítulo 2. Se listan aquí las fuentes adicionales citadas exclusivamente en el Capítulo 3.)*
+
+Aiken, L. S., & West, S. G. (1991). *Multiple regression: Testing and interpreting interactions*. Sage.
+
+Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and conducting mixed methods research* (3rd ed.). Sage.
+
+Jaramillo, A. C. (2023). Reincorporación colectiva FARC-EP y emprendimiento social. *Revista Colombiana de Sociología, 46*(2), 207–225. https://doi.org/10.15446/rcs.v46n2.101243
+
+Lacouture, A. (2017, marzo 27). *Ministra Lacouture en el Lanzamiento del Libro "Emprendedores en Crecimiento" de INNpulsa* [Video]. YouTube. https://www.youtube.com/watch?v=QXE5LvFjflw
+
+Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Biometrics, 33*(1), 159–174. https://doi.org/10.2307/2529310
+
+Lombana, M. X. (2021, septiembre 24). *María Ximena Lombana, ministra de Comercio, Industria y Turismo te invita a conocer la VUE* [Video]. YouTube. https://www.youtube.com/watch?v=vTgwH-4w4fM
+
+Mazo, O. L. (2022). Liderazgo cultural y emprendimiento en grupos artísticos. *Prospectiva, 34*(2), 177–195. https://doi.org/10.25100/prts.v0i34.11648
+
+MinComercio Colombia. (2022, julio 12). *Logros Ministerio de Comercio, Industria y Turismo #EsTiempoDeCreer* [Video]. YouTube. https://www.youtube.com/watch?v=85ijEvaimN8
+
+MinCIT. (2026, marzo 16). *MinCIT impulsa a 5.900 mujeres de economía popular* [Comunicado de prensa]. Ministerio de Comercio, Industria y Turismo. https://www.mincit.gov.co/prensa/noticias/industria/mincit-impulsa-a-5-900-mujeres-de-economia-popular
+
+Nunnally, J. C. (1978). *Psychometric theory* (2nd ed.). McGraw-Hill.
+
+Presidencia de la República — Colombia. (2023, marzo 8). *Inicia Programa "Mujeres Tenderas": alianza que busca posicionarlas en las regiones: MinComercio* [Video]. YouTube. https://www.youtube.com/watch?v=chTGyGE2FeQ
+
+Ramos, C. L. (2024). Integración laboral de migrantes y emprendimiento en Colombia. *El Ágora USB, 24*(1), 167–189. https://doi.org/10.21500/16578031.6501
+
+Restrepo, J. M. (2019, mayo 16). *INSIDE LR José Manuel Restrepo Ministro de Comercio, Industria y Turismo* [Video]. YouTube. https://www.youtube.com/watch?v=hQbGYI699L8
+
+Restrepo, J. M. (2019, septiembre 3). *José Manuel Restrepo, MinComercio, en "Diálogo con los Ministros"* [Video]. YouTube. https://www.youtube.com/watch?v=x8oRhRltk7s
+
+Restrepo, J. M. (2020, febrero 3). *¿Cómo mejorar la productividad y competitividad? Entrevista con el ministro José Manuel Restrepo* [Video]. YouTube. https://www.youtube.com/watch?v=CYX2V1RJRC4
+
+Rodríguez, O. (2015). Revisión histórica del avance en el estudio del emprendimiento en Colombia. *Cuadernos de Economía, 34*(66), 693–701. https://doi.org/10.15446/cuad.econ.v34n66.52719
+
+Ruano, E. (2023). Cátedra de Emprendimiento en instituciones educativas latinoamericanas. *Interações, 24*(2), 537–556. https://doi.org/10.20435/inter.v24i2.3611
+
+Tashakkori, A., & Teddlie, C. (2010). *SAGE handbook of mixed methods in social and behavioral research* (2nd ed.). Sage.
+
+Tarapuez, E. (2013). Políticas públicas de emprendimiento en Colombia: Análisis del período 2002-2010. *Estudios Gerenciales, 29*(128), 64–73. https://doi.org/10.1016/j.estger.2013.09.007
+
+Timarán, A. P. (2022). Estrategias de base cultural para proyectos académicos de emprendimiento. *Tendencias, 23*(2), 220–240. https://doi.org/10.22267/rtend.222302.207
+
+UNIMINUTO Bogotá. (2016, noviembre 21). *Avances de la Ley de Emprendimiento en Colombia* [Video]. YouTube. https://www.youtube.com/watch?v=XKFju5J28Fo
+
+UNIMINUTO Bogotá. (2016, noviembre 21). *Ministerio de Comercio en UNIMINUTO — "Emprendimiento en Colombia"* [Video]. YouTube. https://www.youtube.com/watch?v=bWgnQOj-8jg

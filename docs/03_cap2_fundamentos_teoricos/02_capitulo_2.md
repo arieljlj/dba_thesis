@@ -277,6 +277,10 @@ Tercero, la efectividad de los programas de educación emprendedora de corta dur
 
 Cuarto, y más relevante para la presente investigación, no existe evaluación sistemática de cómo estos marcos legales e institucionales se traducen en conocimiento accesible para el estudiante universitario promedio. Si el estudiante no sabe que Bancóldex existe, o confunde iNNpulsa (solo para startups tech de alto crecimiento) como opción para su pequeña empresa de servicios, la política es inefectiva para ese individuo aunque esté bien diseñada y financiada. El constructo FK de esta investigación intenta medir precisamente esta traducción: si las políticas públicas existentes se han convertido en capital cognitivo útil para el potencial emprendedor universitario colombiano.
 
+### Síntesis del Capítulo
+
+Los cinco apartados de este capítulo conforman una arquitectura conceptual integrada que sostiene el diseño empírico de la investigación. El estado del arte (sección 2.1) sitúa el problema en cuarenta años de investigación sobre intención emprendedora, identifica las brechas que justifican este estudio y delimita la contribución esperada al campo. El marco teórico (sección 2.2) fundamenta la elección de la Teoría del Comportamiento Planificado como eje explicativo central y justifica, con evidencia comparativa, por qué esta teoría supera a sus alternativas en poder predictivo y parsimonia conceptual. El marco conceptual (sección 2.3) opera como bisagra entre teoría y datos, definiendo con precisión operacional los ocho constructos medidos en el dataset ALBA 2026 y sus propiedades psicométricas. El marco contextual (sección 2.4) ancla el modelo en la realidad colombiana y latinoamericana, documentando las condiciones estructurales que modulan la traducción de intención en acción. Finalmente, el marco legal y normativo (sección 2.5) describe el ecosistema de política pública en el que se insertan los constructos FK y FL, revelando sus fortalezas y sus brechas de implementación. En conjunto, estos fundamentos guían el diseño metodológico del Capítulo III: la selección de los tres modelos de regresión progresivos, la decisión de incluir términos de interacción para capturar la moderación del contexto universitario, y el protocolo de triangulación mixta que integra los análisis cuantitativos con las perspectivas de actores del ecosistema colombiano.
+
 ---
 
 ## Referencias
@@ -289,13 +293,13 @@ Al-Jubari, I., Hassan, A., & Liñán, F. (2019). Entrepreneurial intention among
 
 Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman and Company.
 
-BID. (2023). *Informe sobre emprendimiento en América Latina 2023*. Banco Interamericano de Desarrollo.
+BID. (2023). *Informe sobre emprendimiento en América Latina 2023*. Banco Interamericano de Desarrollo. https://publications.iadb.org/publications/spanish/viewer/Informe-sobre-emprendimiento-en-America-Latina-2023.pdf
 
 Bird, B. (1988). Implementing entrepreneurial ideas: The case for intention. *Academy of Management Review, 13*(3), 442–453. https://doi.org/10.5465/amr.1988.4306970
 
 Blanco-Mesa, F. (2023). Entrepreneurial intention among Colombian university students: A theory of planned behavior analysis in Colombia. *Cuadernos de Gestión, 23*(1), 89–102. https://doi.org/10.5295/cdg.221858fb
 
-Borre, L., Barros, M., & Martínez, O. (2021). Factores contextuales que influyen en la intención emprendedora de estudiantes universitarios venezolanos y colombianos. *Pensamiento & Gestión, 51*, 1–28. https://doi.org/10.5281/zenodo.5806320
+Borre, L., Barros, M., & Martínez, O. (2021). *Factores contextuales que influyen en la intención emprendedora de estudiantes universitarios venezolanos y colombianos* [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.5806320
 
 Brush, C. G., Greene, P. G., & Hart, M. M. (2001). From initial idea to unique advantage: The entrepreneurial challenge of constructing a resource base. *Academy of Management Perspectives, 15*(1), 64–78. https://doi.org/10.5465/ame.2001.4251394
 

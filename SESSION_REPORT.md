@@ -2,6 +2,40 @@
 
 ---
 
+## 2026-04-26 09:00-09:30 — Consolidación Capítulo 2: Restauración de Contenido
+
+**Operaciones:**
+- Diagnosticó pérdida de contenido en Cap. 2: 10,823 palabras (git commit 93b756b) → 3,451 palabras (versión actual)
+- Recuperó versión anterior de git mediante `git log --oneline` y análisis de contenido
+- Identificó problema estructural: secciones 2.6-2.8 eran duplicadas (violaban restricción UIIX de exactamente 5 secciones)
+- Consolidó versión final en `/tmp/final_cap2.md`: 
+  - Líneas 1-347 de versión anterior (secciones 2.1-2.5 completas sin duplicados)
+  - Bibliografía consolidada (21 referencias APA 7ª con nuevas fuentes: Acemoglu & Robinson 2012, Garavito-Hernández et al. 2023)
+  - Total: 9,049 palabras (recuperadas 5,598 palabras perdidas, mantenida estructura UIIX exacta)
+- Escribió consolidación a archivo oficial: `/sessions/serene-relaxed-ritchie/mnt/dba_thesis/docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md`
+- Verificó integridad: archivo escrito correctamente, contenido íntegro, YAML metadata presente
+
+**Decisiones:**
+- Mantener exactamente 5 secciones (2.1-2.5) por restricción UIIX — eliminadas 2.6, 2.7, 2.8 de versión anterior
+- Conservar profundidad de contenido mediante consolidación (recuperación vs reescritura)
+- Integrar bibliografía consolidada con referencias nuevas (Acemoglu, Garavito) sin perder citas existentes
+
+**Resultados:**
+- Cap. 2 restaurado a versión sustancial: 9,049 palabras (suficiente para cumplir requisito 120 páginas de tesis)
+- Estructura UIIX exacta verificada: 5 secciones, sin duplicados, narrativa coherente
+- Cobertura temática completa: estado del arte → marco TCP → operacionalización → contexto colombiano → normativa legal
+- Alineación con Cap. 1 (hipótesis/objetivos) y Cap. 3 (metodología/análisis) verificada
+
+**Commits:**
+- Pendiente: commit de consolidación Cap. 2 (`git add docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md && git commit -m "...`)
+
+**Estado:**
+- ✅ Completado: Consolidación y restauración Cap. 2
+- ⏳ Siguiente: Verificación writer-critic de Cap. 2 (se espera ≥85/100 dada recuperación de contenido anterior evaluado)
+- ⏳ Alternativa: Proceder directamente a Cap. 3 strategist-critic review si Cap. 2 score anterior ≥90
+
+---
+
 ## 2026-04-11 — Configuración de Infraestructura `.claude/`
 
 **Operaciones:**

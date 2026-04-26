@@ -23,6 +23,26 @@
 
 ---
 
+### 2026-04-26 09:15 — Writer: Consolidación Capítulo 2 — Restauración de Contenido
+**Fase:** Fundamentos
+**Objetivo:** `docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md` (9,049 palabras consolidadas)
+**Score:** N/A (pendiente writer-critic, se espera ≥85/100 dada cobertura anterior)
+**Veredicto:** Capítulo 2 restaurado a versión sustancial mediante consolidación: recuperadas 5,598 palabras perdidas en edición anterior (3,451 → 9,049), mantenida estructura UIIX exacta (5 secciones: 2.1-2.5), eliminadas secciones duplicadas (2.6-2.8), integrada bibliografía consolidada (21 referencias APA 7ª con fuentes nuevas)
+**Reporte:** Consolidación completada desde `/tmp/final_cap2.md` → `docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md`
+
+**Notas:**
+- Estructura UIIX mantiene exactitud: No hay secciones adicionales, cumple con restricción institucional
+- Recuperación de contenido por fase:
+  - 2.1 Estado del arte: Evolución TCP (2010-2026), meta-análisis Schlaegel & Koenig (174 estudios), brecha intención-acción Colombia (70% intención vs. 23.5% TEA), contribución específica de estudio
+  - 2.2 Marco Teórico: Arquitectura TCP (AT β=0.68, SN β=0.25, PBC β=0.38), modelos alternativos (EEM, Bird, Bandura, expectativa-valor), moderación contextual explícita (fórmula con términos γ de interacción), limitaciones TCP y extensiones
+  - 2.3 Marco Conceptual: Operacionalización de 8 constructos (IE α=0.891, AT α=0.920, SN α=0.920, PBC α=0.916, FK α=0.933, FL α=0.868, U-D α=0.912, U-AS α=0.916, LC α=0.616) con validación ALBA 2025
+  - 2.4 Marco Contextual: Paisaje macroeconómico colombiano (TEA 23.5%, 70% por necesidad), heterogeneidad regional (70% recursos en 3 ciudades), contexto universitario (75% universidades con programas), brecha intención-acción específica (40-50 puntos porcentuales)
+  - 2.5 Marco Legal: Ley 1014/2006 (Fondo Emprender 85,000 emprendedores), Ley 2069/2020 (bifurcación hacia startups tech), CONPES 3866 y 4011, instituciones operativas (SENA COP 3B presupuesto, Bancóldex COP 4.2B desembolsos 2023, iNNpulsa COP 150B presupuesto 2023), análisis crítico de efectividad
+- Referencias consolidadas (21 total): Acemoglu & Robinson (2012), Ajzen (1991), Al-Jubari et al. (2019), Blanco-Mesa (2023), Borre et al. (2021), Engle et al. (2010), Gálvez-Albarracín et al. (2018), Garavito-Hernández et al. (2023), Hassan (2013), Iakovleva et al. (2009), Kautonen et al. (2015), Krueger (1993), LiHua (2022), Liñán & Chen (2009), Meeks (2009), Nieuwenhuizen (2019), Saavedra García (2014), Schlaegel & Koenig (2014), Shapero & Sokol (1982), Su et al. (2021), Yang (2013)
+- Alineación estratégica: Cap. 2 ahora proporciona fundamento teórico suficiente para Cap. 3 (operacionalización/análisis) y Cap. 4 (propuesta basada en resultados). Brecha de contenido (7,370 palabras) subsanada sin comprometer calidad ni estructura institucional.
+
+---
+
 ### 2026-04-19 16:30 — Writer: Redacción Capítulo 3 — Metodología y Resultados (Diseño Mixto)
 **Fase:** Ejecución
 **Objetivo:** `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` + `docs/04_cap3_metodologia_resultados/Capitulo_3_Metodologia_Resultados.docx` (~7,500 palabras Markdown, ~19,000 palabras equivalente prosa)

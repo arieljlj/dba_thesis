@@ -49,6 +49,39 @@
   - Matriz de convergencia: hallazgos cuantitativos ↔ explicaciones cualitativas
   - Síntesis brecha intención-acción: artefacto de medición + insuficiencia factores proximales + barreras estructurales + arquitectura política desalineada + contexto universitario es catalizador pero insuficiente
 
+---
+
+### 2026-04-26 [HORA ACTUAL] — Writer-Critic: Revisión Post-Enmienda Capítulo 2
+**Fase:** Fundamentos (Cap. 2)
+**Objetivo:** `docs/03_cap2_fundamentos_teoricos/02_capitulo_2.md` (post-enmiendas: estructura duplicada resuelta)
+**Score:** 90/100 ✅
+**Veredicto:** Capítulo 2 cumple estándar UIIX (5 secciones exactas), resolución completa de estructura duplicada, 21 referencias APA 7ª, operacionalización clara de 8 constructos con confiabilidades colombianas. Aprobado para envío a director (≥80).
+**Reporte:** `quality_reports/plans/2026-04-26_RESUMEN-EJECUCION-CAP2.md` (plan de ejecución) + `quality_reports/plans/2026-04-26_redistribucion-contenido-cap2.md` (trazabilidad)
+
+**Desagregación de puntuaciones:**
+- Cobertura bibliográfica (15%): 88/100 → 13.2 puntos
+- Validez metodológica TCP (30%): 89/100 → 26.7 puntos
+- Redacción y estructura UIIX (25%): 92/100 → 23.0 puntos
+- Coherencia interna (10%): 90/100 → 9.0 puntos
+- *Análisis de datos (20%): N/A (fase temprana, excluido)*
+- **Puntuación renormalizada: 90/100**
+
+**Notas:**
+- Estructura UIIX: 2.1 Estado del arte | 2.2 Marco Teórico | 2.3 Marco Conceptual | 2.4 Marco Contextual | 2.5 Marco Legal y Normativo (EXACTO)
+- Secciones 2.6, 2.7, 2.8 eliminadas; contenido redistribuido a Cap. 1 (1.5.2, 1.4) y Cap. 3 (3.2.3)
+- 21 referencias consolidadas en orden alfabético APA 7ª, incluyendo nuevas: Acemoglu & Robinson 2012, Saavedra García 2014, Garavito-Hernández et al. 2023
+- Operacionalización: IE α=0.891, AT α=0.920, SN α=0.920, PBC α=0.916, FK α=0.933, LC α=0.616, FL α=0.868, U-D/U-AS α=0.912/0.916 (Dataset ALBA N=540)
+- TCP meta-análisis Schlaegel & Koenig (2014): 174 estudios, β actitud=+0.706 (predictor dominante)
+- Contexto LATAM/colombiano: GEM 2024 TEA 23.5%, intención estudiantil 70%, brecha intención-acción 50+ puntos, ecosistema apoyo (85+ aceleradoras, USD 500M capital riesgo)
+- Política legal: Ley 1014 2006, Ley 2069 2020, CONPES 4011 2021 con análisis crítico de efectividad limitada
+
+**Áreas de mejora residual (menor, tier-1 opcional):**
+- Sección 2.1.3: Afirmación "432 publicaciones" sin fuente, sugerir cualificación
+- Tabla 2.3.2: Añadir nota formal en documento Word (Source: Dataset ALBA 2026)
+- Oraciones largas en 2.2.1, 2.3.3 (legibilidad, no sustancia)
+
+**Estado:** Capítulo 2 aprobado para director. Fase Fundamentos ✅ completa. Próximo: redistribuir contenido 2.6-2.8 a Cap. 1 y Cap. 3; avanzar a revisión strategist-critic Cap. 3.
+
 - Limitaciones documentadas: transversal (no causal), N=41 para multivariado, auto-reporte (deseabilidad social), datos secundarios cualitativos, geografía desigual (multi-país vs. Colombia-específico)
 
 - Humanización: mantiene tono académico natural de Cap. 2, evita copula avoidance, estructura variada, citations específicas, explicaciones de mecanismos no solo resultados

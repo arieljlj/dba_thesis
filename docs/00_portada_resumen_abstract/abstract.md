@@ -1,3 +1,11 @@
 # Abstract
 
-Abstract en inglés
+This study examines the relationship between entrepreneurship public policies and entrepreneurial intention among Latin American university students, assessing the moderating role of the university context. A sequential confirmatory mixed-methods design (QUAN → qual) was employed, drawing on the ALBA 2026 dataset (N=540 students from ACBSP-accredited institutions across Latin America; Colombian sub-sample N=41) and a qualitative corpus of 62 sources from the Colombian entrepreneurship ecosystem (~280,000 words).
+
+The theoretical framework builds on the Theory of Planned Behavior (Ajzen, 1991), extended with constructs of formal ecosystem knowledge (FK) and financial literacy (FL) as proxies for public policy perception, and three dimensions of the university context: institutional development (U-D), academic support (U-AS), and learning climate (LC). Three progressive multiple regression models were specified.
+
+Quantitative results indicate that TPB components robustly predict entrepreneurial intention (R²=0.478), with attitude as the dominant predictor (β=0.548). Ecosystem knowledge adds significant incremental prediction (FK β=0.159, p<0.001; ΔR²=0.034), and university context amplifies the attitude–intention relationship (AT×U-D interaction: β=0.089, p=0.031). Qualitative analysis reveals that the mechanism through which public policies influence intention is local intermediation —teachers, mentors, and institutional managers— rather than centralized information dissemination. The intention–action gap (~48 percentage points) is explained by measurement artifacts, non-cognitive structural barriers, and a policy architecture misaligned with necessity-driven entrepreneurship.
+
+The transformation proposal articulates a Model for Strengthening Entrepreneurial Intention through Local Intermediation and Structured Mentorship, operating at three levels: differentiated national policy, university intermediation infrastructure, and individual accompaniment with post-failure support. Findings have direct implications for the design of university entrepreneurship programs and for Colombian public policy within the framework of Law 2069 of 2020.
+
+**Keywords:** entrepreneurial intention, theory of planned behavior, entrepreneurship public policy, university context, local intermediation, Colombia, mixed methods design.

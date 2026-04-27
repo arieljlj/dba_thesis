@@ -57,7 +57,7 @@ Este estudio adopta un **diseño secuencial confirmatorio mixto (QUAN → qual)*
 
 #### Método cuantitativo
 
-**Instrumento de recolección:** Cuestionario estructurado del dataset ALBA 2025, administrado online mediante plataforma Qualtrics.
+**Instrumento de recolección:** Cuestionario estructurado del dataset ALBA 2026, administrado online mediante plataforma Qualtrics.
 
 **Descripción del instrumento:** 
 - **Total de ítems:** 43 items distribuidos en 10 secciones (demografía + 9 constructos)
@@ -182,7 +182,7 @@ Edad: M=21.8 años (DE=2.4, rango 18–30). Sexo: 54% mujer, 46% hombre. Año de
 
 #### Recolección de datos cuantitativos
 
-El cuestionario ALBA 2025 fue administrado online mediante plataforma Qualtrics durante el período mayo 2024–mayo 2025. La recolección fue descentralizada, ejecutada por coordinadores regionales en universidades participantes de América Latina y el Caribe acreditadas por ACBSP.
+El cuestionario ALBA 2026 fue administrado online mediante plataforma Qualtrics durante el período mayo 2024–mayo 2025. La recolección fue descentralizada, ejecutada por coordinadores regionales en universidades participantes de América Latina y el Caribe acreditadas por ACBSP.
 
 **Procedimiento:**
 1. Acceso estudiantes a enlace Qualtrics mediante correo institucional o plataforma LMS de universidad

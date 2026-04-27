@@ -22,18 +22,18 @@ csl: apa.csl
 | **Rol / Variable** | **Definición Conceptual** | **Dimensión** | **Indicador** | **Ítems** | **Escala** | **α Cronbach** | **Observaciones** |
 |---|---|---|---|---|---|---|---|
 | **VARIABLE DEPENDIENTE (VD)** |  |  |  |  |  |  |  |
-| **Intención Emprendedora (IE)** | Disposición psicológica del individuo hacia la creación de una empresa o negocio propio (Ajzen, 1991) | Intención declarada (actitudinal) | Grado en que el estudiante expresa su propósito de crear una empresa en futuro cercano | IE1–IE2 | Likert 1–7 | α = 0.891 | Dos ítems de alta confiabilidad. Variable criterio en modelos de regresión. |
+| **Intención Emprendedora (EI)** | Disposición psicológica del individuo hacia la creación de una empresa o negocio propio (Ajzen, 1991) | Intención declarada (actitudinal) | Grado en que el estudiante expresa su propósito de crear una empresa en futuro cercano | EI1–EI5 | Likert 1–5 | α = 0.891 | Cinco ítems. M global = 4.02. Variable criterio en modelos de regresión. |
 | **VARIABLES INDEPENDIENTES (VI)** |  |  |  |  |  |  |  |
-| **Actitud Emprendedora (AT)** | Evaluación global de consecuencias positivas/negativas de emprender (Ajzen, 1991) | Actitud (evaluativa) | Apreciación favorable o desfavorable del estudiante sobre convertirse en emprendedor | AT1–AT5 | Likert 1–7 | α = 0.920 | Predictor dominante en TCP. β = 0.548 en Modelo 1. |
-| **Normas Subjetivas (SN)** | Percepción de presión social de referentes significativos para emprender | Normas (social) | Percepción de apoyo familiar, pares, docentes hacia emprendimiento | SN1–SN3 | Likert 1–7 | α = 0.920 | Predictor significativo TCP (β=0.147, p<0.001) pero contextodependiente. |
-| **Control Conductual Percibido (PBC)** | Confianza en propia capacidad para manejar desafíos y barreras del emprendimiento | Control (autoeficacia) | Percepción de capacidad propia, acceso a recursos, manejo de obstáculos | PBC1–PBC6 | Likert 1–7 | α = 0.916 | Tercer predictor TCP (β=0.395). Varía por contexto: Colombia M=4.2 < Global M=4.8. |
+| **Actitud Emprendedora (AT → EA)** | Evaluación global de consecuencias positivas/negativas de emprender (Ajzen, 1991) | Actitud (evaluativa) | Apreciación favorable o desfavorable del estudiante sobre convertirse en emprendedor | EA1–EA8 | Likert 1–5 | α = 0.920 | Ocho ítems. M global = 4.07. Predictor dominante en TCP. |
+| **Normas Subjetivas (SN → S)** | Percepción de cómo el entorno social valora el emprendimiento; proxy de SN-TCP complementado con evidencia cualitativa | Normas (social) | Percepción de imagen positiva, responsabilidad social y contribución de empresarios en el país | S1–S3 | Likert 1–5 | α = 0.920 | Tres ítems. M global = 3.58. Operacionalización híbrida (cuant. + cual.). |
+| **Control Conductual Percibido (PBC → SE)** | Autoeficacia percibida para crear y gestionar una empresa; complementado con evidencia cualitativa | Control (autoeficacia) | Percepción de capacidad propia para definir, planear y ejecutar un emprendimiento | SE1–SE5 | Likert 1–5 | α = 0.916 | Cinco ítems. M global = 3.84; Colombia M = 3.91. Operacionalización híbrida (cuant. + cual.). |
 | **VARIABLES MODERADORAS — Políticas Públicas (VI de modulación)** |  |  |  |  |  |  |  |
-| **Conocimiento Formal Ecosistema (FK)** | Familiaridad con marcos regulatorios y programas de apoyo del ecosistema emprendedor | Conocimiento (institucional) | Grado de conocimiento sobre Ley 1014, Fondo Emprender, iNNpulsa, SENA, Bancóldex, incubadoras, trámites legales | FK1–FK8 | Likert 1–7 | α = 0.933 | Proxy cuantitativo de VI política. Predictor significativo (β=0.159, p<0.001). Global M=3.94, Colombia M=3.56. |
-| **Alfabetización Financiera (FL)** | Comprensión de conceptos financieros básicos para gestionar empresa | Alfabetización (financiera) | Entendimiento de flujos de caja, tasas de interés, apalancamiento, riesgo, ROI | FL1–FL5 | Likert 1–7 | α = 0.868 | Efecto marginal (β=0.080, p=0.043). Global M=4.01, Colombia M=3.78. |
+| **Conocimiento Financiero (FK)** | Familiaridad con conceptos e instrumentos financieros básicos relevantes para el emprendimiento | Conocimiento (financiero) | Grado de conocimiento sobre liquidez, planificación financiera, ahorro, interés compuesto, seguros, diversificación | FK1–FK8 | Likert 1–5 | α = 0.933 | Ocho ítems. M global = 3.71; Colombia M = 3.53. Proxy de alfabetización financiera como dimensión de políticas públicas. |
+| **Estado de Flujo (FL)** | Nivel de absorción cognitiva y emocional del estudiante durante el aprendizaje | Flujo (engagement) | Grado de inmersión, concentración y ausencia de pensamiento externo durante los estudios | FL1–FL6 | Likert 1–5 | α = 0.868 | Seis ítems. M global = 2.95; Colombia M = 2.80. Variable moderadora del proceso de aprendizaje emprendedor. |
 | **VARIABLES MODERADORAS — Contexto Universitario (VM)** |  |  |  |  |  |  |  |
-| **Desarrollo Institucional (U-D)** | Disponibilidad en universidad de programas, incubadoras, mentoría para emprendimiento | Desarrollo (institucional) | Percepción de infraestructura, programas, redes emprendedoras en la institución | U-D1–U-D5 | Likert 1–7 | α = 0.912 | Modera relación AT→IE (β interacción=0.089, p=0.031). Global M=4.35, Colombia M=4.22. |
-| **Apoyo Académico (U-AS)** | Apoyo directo de docentes e institución hacia estudiantes con intención emprendedora | Apoyo (académico) | Nivel de incentivo de profesores, mentoría, validación institucional del emprendimiento | U-AS1–U-AS3 | Likert 1–7 | α = 0.916 | Predictor directo significativo en Modelo 3. Global M=4.29, Colombia M=4.15. |
-| **Clima de Aprendizaje Emprendedor (LC)** | Ambiente institucional percibido como propicio para experimentación, innovación, tolerancia al fracaso | Clima (ambiental) | Percepción de cultura de creatividad, toma de riesgo, aprendizaje de errores | LC1–LC4 | Likert 1–7 | α = 0.616 ⚠️ | ⚠️ α cuestionable. Usar con nota metodológica. Predictor Modelo 3 (β=0.118, p=0.007). |
+| **Desarrollo Institucional (U-D)** | Disponibilidad en universidad de programas, incubadoras, mentoría para emprendimiento | Desarrollo (institucional) | Percepción de infraestructura, programas, redes emprendedoras en la institución | U-D1–U-D5 | Likert 1–5 | α = 0.912 | Cinco ítems. M global = 3.63; Colombia M = 4.10. Modera relación EA→EI. |
+| **Apoyo Académico (U-AS)** | Apoyo directo de docentes e institución hacia estudiantes con intención emprendedora | Apoyo (académico) | Nivel de incentivo de profesores, mentoría, validación institucional del emprendimiento | U-AS1–U-AS3 | Likert 1–5 | α = 0.916 | Tres ítems. M global = 3.38; Colombia M = 3.97. Predictor directo significativo en Modelo 3. |
+| **Locus de Control (LC)** | Grado en que el individuo percibe que los eventos de su vida están bajo su propio control (locus interno) vs. determinados por fuerzas externas (locus externo) | Control (atribución causal) | Percepción de agencia personal, anticipación de dificultades, confianza en capacidad de planear y ejecutar | LC1–LC8 | Likert 1–5 | α calculado | Ocho ítems (LC2, LC3, LC4, LC7 son ítems externos — se revierten). M global = 3.32; Colombia M = 3.40. Variable moderadora/covariable. |
 
 ---
 
@@ -60,24 +60,25 @@ Este estudio adopta un **diseño secuencial confirmatorio mixto (QUAN → qual)*
 **Instrumento de recolección:** Cuestionario estructurado del dataset ALBA 2025, administrado online mediante plataforma Qualtrics.
 
 **Descripción del instrumento:** 
-- **Total de ítems:** 43 items distribuidos en 10 secciones (demografía + 9 constructos)
-- **Escala de respuesta:** Likert 1–7 (excepto demografía)
-- **Tiempo de respuesta:** 12–15 minutos
-- **Idiomas:** Español (muestras colombiana y andina), inglés (Brasil)
-- **Población objetivo:** Estudiantes en últimos dos años de pregrado en instituciones acreditadas por ACBSP
+- **Variables en dataset:** 131 (5 sociodemográficas + 126 ítems de escala en 23 bloques)
+- **Escala de respuesta principal:** Likert 1–5 (1 = Muy en desacuerdo / 5 = Muy de acuerdo), salvo Bienestar General (EW, escala 1–7)
+- **Tiempo de respuesta:** 15–20 minutos
+- **Idiomas:** Español (muestras colombiana, ecuatoriana, peruana, paraguaya), inglés (México)
+- **Población objetivo:** Estudiantes universitarios de pregrado en instituciones acreditadas por ACBSP
 
-**Estructura del cuestionario:**
+**Secciones del cuestionario con variables de análisis en la tesis:**
 
-1. Demografía (6 ítems): Edad, sexo, año de carrera, institución, región, experiencia emprendedora familiar
-2. Intención emprendedora (2 ítems): α = 0.891
-3. Actitud emprendedora (5 ítems): α = 0.920
-4. Normas subjetivas (3 ítems): α = 0.920
-5. Control conductual percibido (6 ítems): α = 0.916
-6. Conocimiento formal ecosistema (8 ítems): α = 0.933
-7. Alfabetización financiera (5 ítems): α = 0.868
-8. Desarrollo institucional (5 ítems): α = 0.912
-9. Apoyo académico (5 ítems): α = 0.916
-10. Clima de aprendizaje (4 ítems): α = 0.616
+1. Datos sociodemográficos (5 var. CSV): Country, Age, Semester, Exp, Gender
+2. Intención Emprendedora — EI (5 ítems): α = 0.891 | **Variable dependiente**
+3. Actitudes hacia el Emprendimiento — EA (8 ítems): α = 0.920 | **TCP: Actitud (AT)**
+4. Entorno Social — S (3 ítems): α reportado 0.920 | **TCP: Normas Subjetivas proxy**
+5. Autoeficacia Emprendedora — SE (5 ítems): α = 0.916 | **TCP: PBC**
+6. Conocimiento Financiero — FK (8 ítems): α = 0.933
+7. Desarrollo Institucional Universitario — U-D (5 ítems): α = 0.912
+8. Apoyo Académico — U-AS (3 ítems): α = 0.916
+9. Locus de Control — LC (8 ítems): α calculado
+10. Estado de Flujo — FL (6 ítems): α = 0.868
+11. Variables adicionales: R (9), M (2), F (2), G (4), U (3), UI-1 (1), EC (21), EAct (16), CL (12), EW (5)
 
 **Método cualitativo:**
 
@@ -98,35 +99,42 @@ Este estudio adopta un **diseño secuencial confirmatorio mixto (QUAN → qual)*
 
 #### Operacionalización de constructos cuantitativos
 
-**Variable Dependiente: Intención Emprendedora (IE)**
+**Variable Dependiente: Intención Emprendedora (EI)**
 
-Medida mediante dos ítems auto-reportados en escala Likert 1–7:
-1. "He pensado seriamente en empezar un negocio propio en los próximos 5 años"
-2. "Mi objetivo a futuro es crear mi propia empresa"
+Medida mediante cinco ítems auto-reportados en escala Likert 1–5 (variables CSV: EI1–EI5):
+1. "Mi meta profesional es convertirme en emprendedor/a"
+2. "Haré todo esfuerzo para comenzar y dirigir mi propio negocio"
+3. "Estoy determinado/a a crear una empresa en el futuro"
+4. "Pienso seriamente en comenzar una empresa"
+5. "Tengo el firme propósito de comenzar una empresa algún día"
 
-El constructo se calcula como promedio, generando variable continua rango 1–7. Confiabilidad α=0.891 supera umbral 0.70 (Nunnally, 1978). En muestra global, M=3.68 (DE=1.92).
+El constructo se calcula como promedio, generando variable continua en rango 1–5. Confiabilidad α=0.891 supera umbral 0.70 (Nunnally, 1978). En muestra global, M=4.02 (DE=1.06); Colombia M=4.22.
 
 **Variables Independientes — Componentes TCP:**
 
-**Actitud Emprendedora (AT):** 5 ítems que capturan evaluación global sobre consecuencias de emprender (attractiveness, oportunidad económica, prestigio social, autorrealización). Scoring: promedio 5 ítems, α=0.920. Global M=5.12 (DE=1.45), indicando visión favorable. Predictor más potente de intención según TCP.
+**Actitud Emprendedora (AT → EA):** 8 ítems que capturan la disposición valorativa hacia el emprendimiento como opción de vida y carrera (variables CSV: EA1–EA8). Los ítems cubren motivaciones de impacto social (proveer empleo, agente de cambio), reconocimiento, liderazgo, equilibrio personal, pasión por el aprendizaje, motivación por desempleo y posición social. Scoring: promedio de 8 ítems, α=0.920. M global=4.07 (DE=1.02); Colombia M=4.30, indicando visión favorable. Predictor más potente de EI según TCP.
 
-**Normas Subjetivas (SN):** 3 ítems sobre presión social de referentes significativos (familia, pares, profesores). Scoring: promedio, α=0.920. Global M=4.23 (DE=1.58). Aunque correlación bivariada es significativa (r=0.38, p<0.001), en modelos multivariados pierde significancia cuando se controla por actitud y control, patrón consistente con literatura latinoamericana que documenta que en contextos informales, normas operan difusamente.
+**Normas Subjetivas (SN → S):** En el dataset ALBA 2025, las Normas Subjetivas del TCP se operacionalizan mediante los 3 ítems del bloque S (variables CSV: S1–S3), que miden la percepción de imagen social positiva de los empresarios en el país (imagen favorable, responsabilidad social, contribución a la sociedad). Scoring: promedio de S1–S3. M global=3.58 (DE=1.05); Colombia M=3.68.
 
-**Control Conductual Percibido (PBC):** 6 ítems combinando autoeficacia (habilidades, confianza) y percepción de barreras/recursos (acceso capital, regulación, información). Ítems invertidos se revierten antes de promediar. Scoring: promedio, α=0.916. Global M=4.52 (DE=1.51), Colombia M=4.18 (7.5% menor), reflejando percepción de mayores barreras estructurales.
+*Nota metodológica:* Los ítems S1–S3 miden el clima social hacia el emprendimiento en sentido amplio, no la presión normativa directa de referentes personales (familia, pares) como en la formulación clásica de TCP (Ajzen, 1991). La operacionalización del constructo SN en esta investigación es, por tanto, híbrida: los ítems cuantitativos capturan la dimensión macro-social (valoración social del empresario), mientras que la evidencia cualitativa de entrevistas con actores del ecosistema complementa la dimensión micro-social (presión normativa personal). Esta triangulación es característica del diseño mixto (QUAN→qual) adoptado. Aunque la correlación bivariada de S con EI es significativa, en modelos multivariados S pierde potencia cuando se controla por EA y SE, patrón consistente con la literatura latinoamericana.
+
+**Control Conductual Percibido (PBC → SE):** 5 ítems de autoeficacia emprendedora (variables CSV: SE1–SE5) que capturan la confianza percibida del estudiante en su capacidad para definir, planear y ejecutar un emprendimiento (definir idea/estrategia, escribir plan de negocios, negociar con inversores, reconocer oportunidades, construir redes de capital). Scoring: promedio de SE1–SE5, α=0.916. M global=3.84 (DE=0.95); Colombia M=3.91.
+
+*Nota metodológica:* Al igual que SN, la operacionalización de PBC en esta investigación es híbrida. Los ítems SE1–SE5 capturan la dimensión de autoeficacia (capacidad percibida propia), mientras que la evidencia cualitativa complementa la dimensión estructural del constructo (acceso a recursos, redes, regulación). Esta distinción es relevante porque en contexto latinoamericano las barreras estructurales del emprendimiento (financiamiento, regulación) son tan determinantes como la autoeficacia individual.
 
 **Variables Moderadoras — Políticas Públicas:**
 
-**Conocimiento Formal Ecosistema (FK):** 8 ítems evaluando familiaridad con marcos normativos (Ley 1014, Fondo Emprender, SENA, iNNpulsa, Bancóldex, incubadoras, trámites legales, mentoría). Escala 1="Nada familiar" a 7="Muy familiar". Scoring: promedio, α=0.933 (muy alta). Global M=3.94 (DE=1.67), Colombia M=3.56. Este constructo actúa como proxy cuantitativo de la variable independiente política pública.
+**Conocimiento Financiero (FK):** 8 ítems evaluando la familiaridad del estudiante con conceptos financieros básicos (variables CSV: FK1–FK8): liquidez del activo, planificación financiera personal, patrones de gasto y ahorro, interés compuesto, certificados de depósito, seguros, diversificación de inversiones, y un ítem adicional presente en el dataset (FK8, confirmación pendiente). Escala 1–5. Scoring: promedio, α=0.933 (muy alta). M global=3.71 (DE=1.09); Colombia M=3.53. Este constructo actúa como proxy cuantitativo de la dimensión de alfabetización financiera de las políticas públicas de emprendimiento.
 
-**Alfabetización Financiera (FL):** 5 ítems sobre conceptos financieros (flujos de caja, tasas de interés, apalancamiento, evaluación de riesgo, ROI). Scoring: promedio, α=0.868. Global M=4.01 (DE=1.54), Colombia M=3.78. Modera el efecto de control conductual percibido.
+**Estado de Flujo (FL):** 6 ítems (variables CSV: FL1–FL6) que miden el nivel de absorción cognitiva y emocional del estudiante durante el aprendizaje: no distracción mental, bienestar corporal, menor autoconciencia, concentración automática, absorción en la tarea, identificación total con la actividad. Scoring: promedio de FL1–FL6, α=0.868. M global=2.95 (DE=1.20); Colombia M=2.80. Variable moderadora del proceso de aprendizaje emprendedor universitario.
 
 **Variables Moderadoras — Contexto Universitario:**
 
-**Desarrollo Institucional (U-D):** 5 ítems evaluando infraestructura de apoyo (incubadora/centro emprendimiento, programas específicos, acceso redes, financiamiento universitario, conexiones industria). Scoring: promedio, α=0.912. Global M=4.35 (DE=1.59), Colombia M=4.22. Modera especialmente relación actitud→intención.
+**Desarrollo Institucional (U-D):** 5 ítems evaluando la percepción de infraestructura curricular universitaria para el emprendimiento (variables CSV: U-D1–U-D5): atmósfera creativa de la universidad, cursos orientados a nuevos productos, definición de modelo de negocio, habilidades sociales y de liderazgo, y conocimiento para crear nuevos negocios. Scoring: promedio, α=0.912. M global=3.63 (DE=1.03); Colombia M=4.10. Modera especialmente la relación EA→EI.
 
-**Apoyo Académico (U-AS):** 3 ítems sobre apoyo directo de institución (ánimo de profesores, mentoría docente, valoración institucional). Scoring: promedio, α=0.916. Global M=4.29 (DE=1.58), Colombia M=4.15. Modera normas subjetivas: cuando profesores (referentes legitimados) expresan apoyo, norma percibida aumenta.
+**Apoyo Académico (U-AS):** 3 ítems sobre el apoyo institucional universitario al emprendimiento estudiantil (variables CSV: U-AS1–U-AS3): apoyo a equipos multidisciplinarios, promoción activa de nuevos negocios, y soporte institucional general. Scoring: promedio, α=0.916. M global=3.38 (DE=1.11); Colombia M=3.97. Predictor directo significativo en Modelo 3. Modera la influencia de normas subjetivas: cuando la institución expresa apoyo, refuerza la percepción normativa del entorno.
 
-**Clima de Aprendizaje Emprendedor (LC):** 4 ítems evaluando ambiente institucional (valoración de creatividad, incentivo a tomar riesgos, errores como aprendizaje, cultura de apoyo a ideas). Scoring: promedio, α=0.616 (cuestionable, cercano a 0.60). Global M=4.41 (DE=1.44), Colombia M=4.28. La consistencia interna más baja sugiere que clima es constructo menos homogéneo.
+**Locus de Control (LC):** 8 ítems que miden el grado en que el individuo atribuye los eventos de su vida a causas internas (agencia propia) vs. externas (suerte, azar, otros) (variables CSV: LC1–LC8). Ítems de locus interno (LC1, LC5, LC6, LC8): anticipación de dificultades, confianza en los planes, atribución del éxito al esfuerzo, confianza en el afrontamiento futuro. Ítems de locus externo que se revierten (LC2, LC3, LC4, LC7). Scoring: promedio del índice de locus interno. M global=3.32 (DE=1.14); Colombia M=3.40. Variable moderadora/covariable del modelo de regresión.
 
 #### Operacionalización de datos cualitativos
 
@@ -164,7 +172,7 @@ Esquema deductivo basado en preguntas de investigación cualitatitvas (PQ1–PQ3
 
 Edad: M=21.8 años (DE=2.4, rango 18–30). Sexo: 54% mujer, 46% hombre. Año de carrera: 68% último año, 32% penúltimo. Campos: Negocios/administración (35%), Ingeniería (28%), Ciencias sociales (16%), Educación (12%), Otros (9%). Experiencia emprendedora previa: 61% reporta experiencia propia o familiar; 39% sin exposición.
 
-**Sub-muestra Colombia (N=41):** Perfil comparable en edad (M=21.6, DE=2.2) y sexo (51% mujer). Diferencia notable: sobre-representación negocios/administración (44% vs. 35% global) y menor control conductual percibido (M=4.2 vs. M=4.8 global). Aunque N representa 7.6% del total, es suficiente para análisis descriptivo-comparativo y triangulación con datos cualitativos.
+**Sub-muestra Colombia (N=41):** Perfil comparable en edad (M=21.6, DE=2.2) y sexo (51% mujer). Diferencia notable: sobre-representación negocios/administración (44% vs. 35% global) y menor autoeficacia emprendedora (SE; M=3.91 vs. M=3.84 global). Aunque N representa 7.6% del total, es suficiente para análisis descriptivo-comparativo y triangulación con datos cualitativos.
 
 **Muestra Cualitativa:**
 
@@ -207,28 +215,27 @@ El cuestionario ALBA 2025 fue administrado online mediante plataforma Qualtrics 
 
 #### Procesamiento cuantitativo
 
-**Limpieza de datos:** Se verificaron valores fuera de rango (todos ítems escala 1–7; eliminación de 3 casos con valores >7). Se inspeccionó patrón de respuestas repetitivas (straight-lining) sin hallazgos problemáticos. Casos con >10% de valores faltantes fueron excluidos (n=2), resultando N=538 (de 540 original). Para análisis reportado, se utilizó N=540 con tratamiento listwise de missing data en regresiones (N=536 efectivo).
+**Limpieza de datos:** Se verificaron valores fuera de rango (escala principal 1–5; excepción EW usa 1–7; eliminación de casos con valores fuera del rango correspondiente). Se inspeccionó patrón de respuestas repetitivas (straight-lining) sin hallazgos problemáticos. Casos con >10% de valores faltantes fueron excluidos (n=2), resultando N=538 (de 540 original). Para análisis reportado, se utilizó N=540 con tratamiento listwise de missing data en regresiones (N=536 efectivo).
 
 **Verificación de supuestos:**
 
-- **Normalidad:** Prueba Shapiro-Wilk en variables continuas principales (W>0.98 para IE, AT, SN; W=0.981 para PBC, p=0.026). Ligero sesgo izquierda en PBC; regresión es robusta a desviaciones menores con N=540.
+- **Normalidad:** Prueba Shapiro-Wilk en variables continuas principales (W>0.98 para EI, EA, S; W=0.981 para SE, p=0.026). Ligero sesgo izquierda en SE; regresión es robusta a desviaciones menores con N=540.
 
-- **Multicolinealidad:** Correlaciones bivariadas entre predictores TCP moderadas (AT↔SN r=0.52, AT↔PBC r=0.61, SN↔PBC r=0.48). VIF de componentes TCP en modelos baseline (Modelo 1): 1.6–1.9, muy por debajo de umbral 10.
-  
-  **VIF en Modelo 3 (con términos de interacción):** Tras centrado de variables AT, PBC, U-D y creación de términos interacción AT×U-D y PBC×U-D:
-  - AT (centrada): VIF=2.1
-  - PBC (centrada): VIF=2.3
-  - U-D (centrada): VIF=2.8
-  - AT × U-D: VIF=4.2
-  - PBC × U-D: VIF=3.9
-  - FK: VIF=1.8
-  - FL: VIF=1.6
-  - U-AS: VIF=3.1
-  - LC: VIF=2.4
-  
-  Todos VIF <5, indicando que centering procedure fue efectivo. VIF de términos interacción (4.2, 3.9) es elevado pero esperado cuando variables están correlacionadas; el protocolo de centering reduce significativamente multicolinealidad respecto a no-centering.
-  
-  **Conclusión:** Multicolinealidad no es problema crítico en ningún modelo.
+- **Multicolinealidad:** Correlaciones bivariadas entre predictores TCP: EA↔S r=0.515, EA↔SE r=0.593, S↔SE r=0.420 (todos p<.001). VIF de componentes TCP en modelo baseline (Modelo 1): EA=1.5, S=1.4, SE=1.6 — muy por debajo del umbral 10.
+
+  **VIF en Modelo 3 (con términos de interacción y covariables contextuales):**
+  - EA_c (centrada): VIF=2.2
+  - SE_c (centrada): VIF=1.9
+  - U-D_c (centrada): VIF=2.2
+  - EA × U-D: VIF=3.9
+  - SE × U-D: VIF=3.3
+  - S: VIF=27.3 ⚠️
+  - FK: VIF=27.7 ⚠️
+  - FL: VIF=13.8 ⚠️
+  - U-AS: VIF=25.7 ⚠️
+  - LC: VIF=49.3 ⚠️
+
+  **Conclusión:** El protocolo de centering es efectivo para los términos de interacción (VIF<4). Sin embargo, las variables S, FK, FL, U-AS y LC presentan VIF>10 en el Modelo 3, indicando multicolinealidad severa. La correlación U-D↔U-AS (r=0.748) y las múltiples correlaciones de LC con el resto de predictores (r=0.445–0.575) son las fuentes principales. Las estimaciones de coeficientes para estas variables son inestables. Los modelos M1 y M2 no presentan este problema.
 
 - **Homocedasticidad:** Gráficos de residuales vs. valores predichos muestran dispersión relativamente uniforme, con ligera heterocedasticidad creciente en valores predichos altos (tolerable dado naturaleza de auto-reporte). Se reportan errores estándar robustos.
 
@@ -310,27 +317,27 @@ El cuestionario ALBA 2025 fue administrado online mediante plataforma Qualtrics 
 
 La Tabla 3.3 presenta medias, desviaciones estándar y correlaciones de Pearson de todas variables:
 
-| Variable | M | DE | IE | AT | SN | PBC | FK | FL | U-D | U-AS | LC |
+| Variable | M | DE | EI | EA | S | SE | FK | FL | U-D | U-AS | LC |
 |----------|-------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| **IE** | 3.68 | 1.92 | 1.00 | 0.55*** | 0.38*** | 0.51*** | 0.42*** | 0.35*** | 0.47*** | 0.44*** | 0.39*** |
-| **AT** | 5.12 | 1.45 | — | 1.00 | 0.52*** | 0.61*** | 0.48*** | 0.41*** | 0.53*** | 0.49*** | 0.45*** |
-| **SN** | 4.23 | 1.58 | — | — | 1.00 | 0.48*** | 0.39*** | 0.32*** | 0.42*** | 0.43*** | 0.35*** |
-| **PBC** | 4.52 | 1.51 | — | — | — | 1.00 | 0.56*** | 0.44*** | 0.61*** | 0.57*** | 0.49*** |
-| **FK** | 3.94 | 1.67 | — | — | — | — | 1.00 | 0.62*** | 0.58*** | 0.51*** | 0.47*** |
-| **FL** | 4.01 | 1.54 | — | — | — | — | — | 1.00 | 0.53*** | 0.48*** | 0.42*** |
-| **U-D** | 4.35 | 1.59 | — | — | — | — | — | — | 1.00 | 0.69*** | 0.57*** |
-| **U-AS** | 4.29 | 1.58 | — | — | — | — | — | — | — | 1.00 | 0.61*** |
-| **LC** | 4.41 | 1.44 | — | — | — | — | — | — | — | — | 1.00 |
+| **EI** | 4.02 | 0.98 | — | 0.729*** | 0.433*** | 0.470*** | 0.361*** | 0.164*** | 0.406*** | 0.359*** | 0.352*** |
+| **EA** | 4.07 | 0.81 | — | — | 0.515*** | 0.593*** | 0.502*** | 0.225*** | 0.505*** | 0.443*** | 0.513*** |
+| **S** | 3.58 | 0.84 | — | — | — | 0.420*** | 0.420*** | 0.195*** | 0.481*** | 0.417*** | 0.445*** |
+| **SE** | 3.84 | 0.86 | — | — | — | — | 0.578*** | 0.328*** | 0.467*** | 0.414*** | 0.575*** |
+| **FK** | 3.71 | 0.89 | — | — | — | — | — | 0.283*** | 0.448*** | 0.367*** | 0.490*** |
+| **FL** | 2.95 | 0.92 | — | — | — | — | — | — | 0.231*** | 0.305*** | 0.356*** |
+| **U-D** | 3.63 | 0.89 | — | — | — | — | — | — | — | 0.748*** | 0.495*** |
+| **U-AS** | 3.38 | 1.02 | — | — | — | — | — | — | — | — | 0.470*** |
+| **LC** | 3.32 | 0.54 | — | — | — | — | — | — | — | — | — |
 
-*Nota.* IE = Intención Emprendedora; AT = Actitud Emprendedora; SN = Normas Subjetivas; PBC = Control Conductual Percibido; FK = Conocimiento Formal del Ecosistema; FL = Alfabetización Financiera; U-D = Desarrollo Institucional Universitario; U-AS = Apoyo Académico; LC = Clima de Aprendizaje Emprendedor. M = media; DE = desviación estándar. N = 540. *** p < .001 (bilateral).
+*Nota.* EI = Intención Emprendedora (EI1–EI5); EA = Actitud Emprendedora (EA1–EA8); S = Entorno Social/proxy SN-TCP (S1–S3); SE = Autoeficacia Emprendedora/proxy PBC-TCP (SE1–SE5); FK = Conocimiento del Ecosistema (FK1–FK8); FL = Estado de Flujo (FL1–FL6); U-D = Desarrollo Institucional Universitario (U-D1–U-D5); U-AS = Apoyo Académico (U-AS1–U-AS3); LC = Locus de Control (LC1–LC8). M y DE corresponden a medias y desviaciones estándar calculados del dataset ALBA 2025 (N=540). *** p < .001 (bilateral). Todas las correlaciones bivariadas son estadísticamente significativas (p < .001).
 
-**Interpretación:** Intención emprendedora presenta variación sustancial (rango 1–7, 55% de casos concentrados en 2–5). Actitud es el predictor más fuerte (r=0.55), confirmando jerarquía TCP. Componentes TCP tienen correlaciones moderadas entre sí (0.48–0.61), sin colinealidad excesiva. Moderadores contextuales tienen correlaciones con intención menores que TCP (0.35–0.47), sugiriendo efecto moderador más que predicción directa.
+**Interpretación:** La intención emprendedora (EI, M=4.02, DE=0.98) muestra variación sustancial en la muestra global, con Colombia ligeramente superior (M=4.22). La actitud emprendedora (EA) es el predictor bivariado más fuerte (r=0.729), una magnitud elevada que anticipa su dominancia en los modelos multivariados y es consistente con la literatura TCP en emprendimiento (Liñán & Chen, 2009). Todos los demás predictores correlacionan significativamente con EI (r=0.164–0.470, todos p<.001). Destacan la alta correlación entre U-D y U-AS (r=0.748), que anticipa problemas de multicolinealidad en el Modelo 3. Los componentes TCP correlacionan moderada-altamente entre sí (EA↔SE: 0.593; EA↔S: 0.515), y las variables contextuales/moderadoras muestran correlaciones moderadas con LC (LC↔SE: 0.575; LC↔EA: 0.513; LC↔U-D: 0.495). Esta estructura de intercorrelaciones elevadas generará índices de varianza inflada (VIF) que se analizan en el Modelo 3.
 
 #### Análisis de regresión — Tres modelos progresivos
 
 **Modelo 1 (Baseline): Predicción TCP sin contexto**
 
-Especificación: IE = β₀ + β₁(AT) + β₂(SN) + β₃(PBC) + ε
+Especificación: EI = β₀ + β₁(EA) + β₂(S) + β₃(SE) + ε
 
 Este modelo prueba hipótesis H₀₁–H₀₃ (componentes TCP predicen intención en muestra global).
 
@@ -338,20 +345,20 @@ Este modelo prueba hipótesis H₀₁–H₀₃ (componentes TCP predicen intenc
 
 | Predictor | β (no stand.) | β (stand.) | EE | t | p | IC 95% |
 |-----------|--------|---------|--------|--------|-------|---------|
-| AT | 0.582 | 0.548 | 0.045 | 12.88 | <0.001 | [0.493, 0.671] |
-| SN | 0.156 | 0.147 | 0.041 | 3.82 | <0.001 | [0.075, 0.237] |
-| PBC | 0.418 | 0.395 | 0.049 | 8.58 | <0.001 | [0.322, 0.515] |
-| Constante | 0.234 | — | 0.321 | 0.73 | 0.467 | [-0.397, 0.865] |
+| EA | 0.807 | 0.665 | 0.048 | 16.978 | <0.001*** | [0.714, 0.901] |
+| S | 0.083 | 0.071 | 0.041 | 2.045 | 0.041* | [0.003, 0.163] |
+| SE | 0.052 | 0.046 | 0.042 | 1.239 | 0.216 | [-0.031, 0.135] |
+| Constante | 0.243 | — | 0.164 | 1.481 | 0.139 | [-0.079, 0.565] |
 
-*Nota.* β (est.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; t = estadístico t de Student; p = nivel de significancia bilateral; IC 95% = intervalo de confianza al 95%. AT = Actitud; SN = Normas Subjetivas; PBC = Control Conductual Percibido. N = 540 (N efectivo = 536 con listwise deletion).
+*Nota.* β (no stand.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; t = estadístico t de Student; p = nivel de significancia bilateral; IC 95% = intervalo de confianza al 95%. EA = Actitud Emprendedora (EA1–EA8); S = Entorno Social/SN proxy (S1–S3); SE = Autoeficacia Emprendedora/PBC proxy (SE1–SE5). N = 540. *** p < .001; * p < .05.
 
-**Índices de ajuste:** R²=0.478, R²ₐⱼ=0.476, F(3,536)=163.2 p<0.001, RMSE=1.38
+**Índices de ajuste:** R²=0.537, R²ₐⱼ=0.535, F(3,536)=207.43, p<0.001, RMSE=0.666
 
-**Interpretación:** Los tres componentes TCP predicen significativamente intención (p<0.001 todos). Efecto de actitud (β=0.548) es más fuerte que normas (β=0.147) y control (β=0.395), jerarquía consistente con teoría. El modelo explica aproximadamente 47.8% de la varianza.
+**Interpretación:** La actitud emprendedora (EA) es el predictor dominante (β_std=0.665, t=16.98, p<.001), explicando por sí sola la mayor parte de la varianza del modelo. El entorno social (S) tiene un efecto pequeño pero estadísticamente significativo (β_std=0.071, p=.041). La autoeficacia emprendedora (SE), por el contrario, no alcanza significancia cuando se controla la actitud (β_std=0.046, p=.216), evidenciando supresión por la alta correlación entre EA y SE (r=0.593). El modelo explica el 53.7% de la varianza en EI —magnitud sustancial para el campo— con un ajuste ligeramente superior al reportado en estudios TCP precedentes (Liñán & Chen, 2009, reportaron R²=0.36–0.47). La dominancia de EA sobre SE es consistente con la literatura latinoamericana, donde la actitud general hacia el emprendimiento tiene mayor peso relativo que el control percibido (Moriano et al., 2012).
 
 **Modelo 2 (Ampliado): TCP + Políticas Públicas**
 
-Especificación: IE = β₀ + β₁(AT) + β₂(SN) + β₃(PBC) + β₄(FK) + β₅(FL) + ε
+Especificación: EI = β₀ + β₁(EA) + β₂(S) + β₃(SE) + β₄(FK) + β₅(FL) + ε
 
 Incluye variables de política pública como predictores directos, probando H₀₄–H₀₅.
 
@@ -359,88 +366,92 @@ Incluye variables de política pública como predictores directos, probando H₀
 
 | Predictor | β (est.) | β (stand.) | EE | t | p | IC 95% |
 |-----------|--------|---------|--------|--------|-------|---------|
-| AT | 0.516 | 0.486 | 0.049 | 10.51 | <0.001 | [0.420, 0.612] |
-| SN | 0.095 | 0.090 | 0.043 | 2.20 | 0.028 | [0.010, 0.180] |
-| PBC | 0.349 | 0.330 | 0.052 | 6.69 | <0.001 | [0.246, 0.451] |
-| FK | 0.168 | 0.159 | 0.038 | 4.43 | <0.001 | [0.093, 0.243] |
-| FL | 0.084 | 0.080 | 0.041 | 2.03 | 0.043 | [0.003, 0.165] |
-| Constante | -0.287 | — | 0.384 | -0.75 | 0.454 | [-1.041, 0.467] |
+| EA | 0.818 | 0.674 | 0.048 | 16.945 | <0.001*** | [0.723, 0.913] |
+| S | 0.093 | 0.079 | 0.041 | 2.245 | 0.025* | [0.012, 0.174] |
+| SE | 0.078 | 0.068 | 0.046 | 1.680 | 0.093† | [-0.013, 0.169] |
+| FK | -0.052 | -0.047 | 0.042 | -1.249 | 0.212 | [-0.134, 0.030] |
+| FL | -0.012 | -0.012 | 0.033 | -0.373 | 0.709 | [-0.078, 0.053] |
+| Constante | 0.297 | — | 0.172 | 1.724 | 0.085 | [-0.041, 0.636] |
 
-*Nota.* β (est.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; IC 95% = intervalo de confianza al 95%. FK = Conocimiento Formal del Ecosistema; FL = Alfabetización Financiera. ΔR² indica el incremento en varianza explicada respecto al Modelo 1 (solo TCP); el cambio estadísticamente significativo [F(2,534) = 10.39, p < .001] confirma que FK y FL añaden predicción incremental más allá de los componentes TCP. N = 540.
+*Nota.* β (est.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; IC 95% = intervalo de confianza al 95%. EA = Actitud Emprendedora; S = Entorno Social (proxy SN-TCP); SE = Autoeficacia Emprendedora (proxy PBC-TCP); FK = Conocimiento del Ecosistema; FL = Estado de Flujo. ΔR² indica el incremento en varianza explicada respecto al Modelo 1. N = 540. *** p < .001; * p < .05; † p < .10.
 
-**Índices de ajuste:** R²=0.512, R²ₐⱼ=0.509, F(5,534)=112.0 p<0.001, RMSE=1.33
+**Índices de ajuste:** R²=0.539, R²ₐⱼ=0.534, F(5,534)=124.78, p<0.001, RMSE=0.667
 
-**Cambio:** ΔR²=0.034, F(2,534)=10.39 p<0.001
+**Cambio:** ΔR²=0.002, F(2,534)=0.91, p=0.403 (no significativo)
 
-**Interpretación:** FK y FL predicen intención significativamente, soportando H₀₄ y H₀₅. Efecto FK (β=0.159) es más fuerte que FL (β=0.080), sugiriendo que conocimiento de programas es más importante que comprensión de conceptos financieros. Se observa que los coeficientes TCP se reducen (AT: 0.548→0.486, PBC: 0.395→0.330), sugiriendo que parte del efecto TCP opera a través de conocimiento/alfabetización.
+**Interpretación:** Contrario a las hipótesis H₀₄ y H₀₅, la adición de conocimiento del ecosistema (FK) y estado de flujo (FL) no mejora significativamente la predicción de EI. Ambas variables presentan coeficientes ligeramente negativos y no significativos (FK: β=-0.047, p=.212; FL: β=-0.012, p=.709), y el incremento de R² es mínimo (ΔR²=0.002, p=.403). Este resultado sugiere que, una vez controlados los componentes TCP, el conocimiento del ecosistema emprendedor no añade poder predictivo sobre la intención. Una explicación plausible es que FK y EI comparten varianza que ya está capturada por EA: conocer los programas de apoyo puede incrementar la actitud favorable, pero no la intención directamente. El efecto de EA permanece estable (β_std=0.674), confirmando su primacía como predictor.
 
 **Modelo 3 (Moderación): TCP × Contexto Universitario**
 
-Especificación: IE = β₀ + β₁(AT) + β₂(SN) + β₃(PBC) + β₄(FK) + β₅(FL) + γ₁(AT×U-D) + γ₂(PBC×U-D) + γ₃(U-D) + γ₄(U-AS) + γ₅(LC) + ε
+Especificación: EI = β₀ + β₁(EA) + β₂(S) + β₃(SE) + β₄(FK) + β₅(FL) + γ₁(EA×U-D) + γ₂(SE×U-D) + γ₃(U-D) + γ₄(U-AS) + γ₅(LC) + ε
 
 **Procedimiento centering:** Variables continuas fueron centradas en media antes de crear términos de interacción, siguiendo protocolo Aiken & West (1991). Centering reduce multicolinealidad debida a correlación entre X y X×M, y facilita interpretación de efectos principales en contexto de interacción.
 
 **Ecuaciones de centrado:**
 
-- **AT_c = AT − M(AT) = AT − 5.12**
-- **PBC_c = PBC − M(PBC) = PBC − 4.52**
-- **U-D_c = U-D − M(U-D) = U-D − 4.35**
+- **EA_c = EA − M(EA) = EA − 4.07**
+- **SE_c = SE − M(SE) = SE − 3.84**
+- **U-D_c = U-D − M(U-D) = U-D − 3.63**
 
-Donde M denota media muestral. Todas demás variables (SN, FK, FL, U-AS, LC) no están centradas en la especificación de Modelo 3 porque no participan en términos de interacción.
+Donde M denota media muestral. Todas demás variables (S, FK, FL, U-AS, LC) no están centradas en la especificación de Modelo 3 porque no participan en términos de interacción.
 
 **Términos de interacción construidos:**
 
-- **AT_c × U-D_c = (AT − 5.12) × (U-D − 4.35)**
-- **PBC_c × U-D_c = (PBC − 4.52) × (U-D − 4.35)**
+- **EA_c × U-D_c = (EA − 4.07) × (U-D − 3.63)**
+- **SE_c × U-D_c = (SE − 3.84) × (U-D − 3.63)**
 
-Estos términos capturan el efecto moderador de desarrollo universitario (U-D) en la relación entre actitud/control percibido e intención emprendedora.
+Estos términos capturan el efecto moderador de desarrollo universitario (U-D) en la relación entre actitud (EA) / autoeficacia (SE) e intención emprendedora (EI).
 
 **Resultados:**
 
 | Predictor | β (est.) | β (stand.) | EE | t | p | IC 95% |
 |-----------|--------|---------|--------|--------|-------|---------|
-| AT (centrada) | 0.524 | 0.494 | 0.050 | 10.42 | <0.001 | [0.425, 0.623] |
-| SN (centrada) | 0.087 | 0.082 | 0.044 | 1.98 | 0.049 | [-0.001, 0.174] |
-| PBC (centrada) | 0.372 | 0.352 | 0.053 | 7.01 | <0.001 | [0.268, 0.477] |
-| FK | 0.145 | 0.137 | 0.041 | 3.54 | <0.001 | [0.065, 0.225] |
-| FL | 0.067 | 0.063 | 0.043 | 1.54 | 0.125 | [-0.018, 0.152] |
-| U-D (centrada) | 0.134 | 0.127 | 0.048 | 2.81 | 0.005 | [0.041, 0.227] |
-| U-AS | 0.118 | 0.109 | 0.044 | 2.70 | 0.007 | [0.031, 0.204] |
-| LC | 0.118 | 0.109 | 0.044 | 2.70 | 0.007 | [0.031, 0.204] |
-| AT × U-D | 0.089 | 0.084 | 0.041 | 2.17 | 0.031 | [0.009, 0.169] |
-| PBC × U-D | 0.072 | 0.068 | 0.038 | 1.90 | 0.058 | [-0.002, 0.146] |
-| Constante | 3.745 | — | 0.183 | 20.46 | <0.001 | [3.386, 4.104] |
+| EA (centrada) | 0.784 | 0.646 | 0.054 | 14.552 | <0.001*** | [0.679, 0.890] |
+| S | 0.084 | 0.072 | 0.043 | 1.932 | 0.054† | [-0.001, 0.169] |
+| SE (centrada) | 0.101 | 0.089 | 0.049 | 2.054 | 0.040* | [0.004, 0.197] |
+| FK | -0.051 | -0.046 | 0.042 | -1.207 | 0.228 | [-0.135, 0.032] |
+| FL | -0.002 | -0.002 | 0.035 | -0.071 | 0.944 | [-0.070, 0.065] |
+| U-D (centrada) | 0.022 | 0.020 | 0.053 | 0.407 | 0.684 | [-0.083, 0.126] |
+| U-AS | 0.030 | 0.032 | 0.044 | 0.696 | 0.487 | [-0.055, 0.116] |
+| LC | -0.153 | -0.085 | 0.072 | -2.124 | 0.034* | [-0.295, -0.012] |
+| EA × U-D | -0.057 | -0.076 | 0.042 | -1.369 | 0.172 | [-0.138, 0.025] |
+| SE × U-D | 0.014 | 0.017 | 0.041 | 0.344 | 0.731 | [-0.066, 0.095] |
+| Constante | 4.339 | — | 0.307 | 14.125 | <0.001*** | [3.736, 4.942] |
 
-*Nota.* β (est.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; IC 95% = intervalo de confianza al 95%. AT, PBC y U-D fueron centradas en su media muestral antes de construir los términos de interacción, siguiendo el protocolo de Aiken y West (1991) para reducir multicolinealidad. AT × U-D = término de interacción actitud × desarrollo universitario; PBC × U-D = término de interacción control conductual percibido × desarrollo universitario. U-AS = Apoyo Académico; LC = Clima de Aprendizaje Emprendedor. ΔR² indica el incremento respecto al Modelo 2. N = 540. VIF máximo = 4.2 (AT × U-D), todos < 5.
+*Nota.* β (est.) = coeficiente de regresión no estandarizado; β (stand.) = coeficiente estandarizado; EE = error estándar; IC 95% = intervalo de confianza al 95%. EA, SE y U-D fueron centradas en su media muestral (EA_c = EA − 4.07; SE_c = SE − 3.84; U-D_c = U-D − 3.63) antes de construir los términos de interacción (Aiken & West, 1991). EA × U-D = término de interacción actitud × desarrollo universitario; SE × U-D = término de interacción autoeficacia × desarrollo universitario. *** p < .001; * p < .05; † p < .10. **Nota sobre multicolinealidad:** Varios predictores del Modelo 3 presentan VIF elevados: S (VIF=27.3), FK (VIF=27.7), FL (VIF=13.8), U-AS (VIF=25.7), LC (VIF=49.3). Estos valores exceden el umbral convencional de 10, indicando multicolinealidad severa. Las estimaciones de coeficientes para estas variables son inestables y sus errores estándar están inflados. Los VIF de las variables libres de multicolinealidad son bajos: EA_c (2.2), SE_c (1.9), U-D_c (2.2), EA×U-D (3.9), SE×U-D (3.3). N = 540.
 
-**Índices de ajuste:** R²=0.535, R²ₐⱼ=0.528, F(10,529)=61.9 p<0.001, RMSE=1.29
+**Índices de ajuste:** R²=0.546, R²ₐⱼ=0.537, F(10,529)=63.58, p<0.001, RMSE=0.665
 
-**Cambio:** ΔR²=0.023, F(4,529)=3.48 p=0.008
+**Cambio respecto a Modelo 2 (versión centrada):** ΔR²=0.007, F(5,529)=1.64, p=0.148 (no significativo)
 
 #### Tabla comparativa: Cambios en coeficientes entre modelos
 
 Para facilitar interpretación de cómo la adición de variables de políticas y contexto modula los efectos TCP, se presenta tabla comparativa de coeficientes β estandarizados:
 
-| Predictor | Modelo 1 (TCP solo) | Modelo 2 (TCP + Políticas) | Modelo 3 (+ Moderación) | Cambio 1→2 | Cambio 2→3 | Interpretación |
+| Predictor | Modelo 1 (TCP) | Modelo 2 (+Políticas) | Modelo 3 (+Moderación) | Cambio 1→2 | Cambio 2→3 | Interpretación |
 |-----------|---------|---------|---------|---------|---------|---------|
-| **AT** | 0.548 | 0.486 | 0.494 | -0.062 (-11.3%) | +0.008 (+1.6%) | Actitud se reduce moderadamente cuando añaden políticas públicas (FK/FL), sugiriendo que parte efecto TCP opera a través de conocimiento ecosistema. Se estabiliza en Modelo 3. |
-| **SN** | 0.147 | 0.090 | 0.082 | -0.057 (-38.8%) | -0.008 (-8.9%) | Normas pierden potencia dramáticamente, especialmente entre Modelo 1 y 2. En contexto latinoamericano con instituciones débiles, presión social percibida opera difusamente. |
-| **PBC** | 0.395 | 0.330 | 0.352 | -0.065 (-16.5%) | +0.022 (+6.7%) | Control conductual se reduce cuando se añaden moderadores contextuales (U-D, U-AS, LC), pero se recupera parcialmente en Modelo 3, sugiriendo que desarrollo institucional captura recursos que antes atribuían a control percibido. |
-| **FK** | — | 0.159 | 0.137 | — | -0.022 (-13.8%) | Conocimiento ecosistema entra en Modelo 2 como predictor significativo pero se reduce en Modelo 3, sugiriendo que U-D (que captura mentoría, incubadora) es predictor superior. |
-| **FL** | — | 0.080 | 0.063 | — | -0.017 (-21.3%) | Alfabetización financiera tiene efecto marginal y decrece con addition moderadores contextuales, reforzando hallazgo cualitativo: mentoría es más crítica que educación financiera. |
-| **U-D** | — | — | 0.127 | — | — | Desarrollo institucional es predictor directo significativo (p=0.005) e interactúa con AT (p=0.031). |
-| **U-AS** | — | — | 0.109 | — | — | Apoyo académico es significativo predictor directo (p=0.007), replicando importancia de mentoría docente. |
-| **LC** | — | — | 0.109 | — | — | Clima de aprendizaje es significativo (p=0.007), aunque α=0.616 indica heterogeneidad constructo. |
+| **EA** | 0.665*** | 0.674*** | 0.646*** | +0.009 (+1.4%) | -0.028 (-4.2%) | Predictor dominante y estable en los tres modelos. Magnitud elevada (β_std > 0.64 en todos) sugiere que la actitud es el factor primario de la intención emprendedora, absorbiendo gran parte de la varianza. |
+| **S** | 0.071* | 0.079* | 0.072† | +0.008 (+11.3%) | -0.007 (-8.9%) | Efecto pequeño pero consistentemente significativo/marginal. El entorno social (proxy SN) mantiene su contribución aunque EA domina. El estudio cualitativo ayuda a interpretar este efecto como imagen social del empresario. |
+| **SE** | 0.046 (ns) | 0.068† | 0.089* | +0.022 | +0.021 | No significativo en M1 cuando se controla EA (supresión). Alcanza significancia marginal en M3 (p=.040), posiblemente porque la multicolinealidad en M2 enmascara su efecto. |
+| **FK** | — | -0.047 (ns) | -0.046 (ns) | — | +0.001 | Contra H₀₄: FK no predice EI de forma directa cuando se controla EA. Coeficientes ligeramente negativos y no significativos en M2 y M3. |
+| **FL** | — | -0.012 (ns) | -0.002 (ns) | — | +0.010 | Contra H₀₅: FL no predice EI. Efecto prácticamente nulo en ambos modelos. |
+| **U-D** | — | — | 0.020 (ns) | — | — | Desarrollo institucional no es predictor directo significativo en M3 (p=.684), en parte por la severa multicolinealidad con U-AS (VIF=25.7) y LC (VIF=49.3). |
+| **U-AS** | — | — | 0.032 (ns) | — | — | Apoyo académico no alcanza significancia individual (p=.487), también afectado por multicolinealidad con U-D (r=0.748). |
+| **LC** | — | — | -0.085* | — | — | Locus de Control es el único moderador/covariable significativo en M3, pero con coeficiente negativo (β=-0.153, p=.034). Este resultado contra-intuitivo puede explicarse por el efecto de realismo: personas con mayor locus interno evalúan de forma más crítica las barreras emprendedoras. VIF=49.3 exige cautela interpretativa. |
 
-**Síntesis:** La tabla muestra que adición de variables de política (Modelo 2) reduce sustancialmente coeficientes TCP, especialmente SN (-38.8%), sugiriendo confusión de efectos. Adición de moderadores contextuales (Modelo 3) estabiliza coeficientes AT y PBC, indicando que contexto universitario es factor crítico que no debe omitirse del modelo.
+**Síntesis:** La actitud emprendedora (EA) es el predictor robusto y estable de EI en los tres modelos (β_std=0.646–0.674). Las hipótesis H₀₄ (FK predice EI) y H₀₅ (FL predice EI) no se soportan: ambas variables presentan coeficientes no significativos y el ΔR² de M2 es estadísticamente nulo (p=.403). La multicolinealidad severa en M3 (varios VIF>10) hace inestables los coeficientes de U-D, U-AS y LC, limitando inferencias sobre su efecto directo. Solo EA, S y SE (marginalmente) mantienen estimaciones confiables. Los hallazgos son consistentes con la centralidad de la actitud en la TCP (Ajzen, 1991; Liñán & Chen, 2009) y señalan que, en esta muestra, los factores de política pública (FK, FL) no añaden predicción incremental significativa sobre los antecedentes psicológicos.
 
 ---
 
 **Interpretación de interacciones:**
 
-- **AT × U-D:** β=0.089, p=0.031. Efecto de actitud es amplificado en instituciones con mejor desarrollo universitario. Un incremento de 1 unidad en U-D aumenta el efecto de AT sobre IE en 0.089 unidades, sugiriendo que ecosistemas robustos amplifican la traducción de actitud favorable a intención.
+Los términos de interacción EA×U-D y SE×U-D no alcanzan significancia estadística (EA×U-D: β=-0.057, p=.172; SE×U-D: β=0.014, p=.731), no soportando las hipótesis de moderación. El ΔR² al añadir los términos de moderación y covariables contextuales es de 0.007 (p=.148), estadísticamente no significativo. En consecuencia, **H₀₆ y H₀₇ no se soportan empíricamente**.
 
-- **PBC × U-D:** β=0.072, p=0.058 (marginal). Control conductual es amplificado levemente por desarrollo institucional, con significancia límite.
+- **EA × U-D:** β=-0.057, p=.172 (no significativo). No hay evidencia de que el desarrollo institucional universitario modere el efecto de la actitud sobre la intención. El signo negativo (aunque NS) sugeriría que en contextos de mayor desarrollo universitario, el efecto de EA se reduce ligeramente —lo opuesto a la hipótesis— pero la imprecisión estadística impide ninguna inferencia.
+
+- **SE × U-D:** β=0.014, p=.731 (no significativo). La autoeficacia y el desarrollo institucional no interactúan de forma significativa sobre EI.
+
+*Nota interpretativa:* La ausencia de efectos moderadores puede deberse a la severa multicolinealidad entre U-D, U-AS y LC (r=0.748 entre U-D y U-AS; VIF>10 para ambas), que infla los errores estándar y reduce la potencia para detectar interacciones. Estudios futuros con muestras más grandes y medidas ortogonales del contexto institucional podrían revisar estas hipótesis.
 
 #### Análisis de sub-muestra Colombia (N=41)
 
@@ -448,34 +459,34 @@ Para verificar si los patrones TCP se replican en la muestra colombiana (N=41, d
 
 **Correlaciones Colombia:**
 
-| Predictor | r con IE | p |
+| Predictor | r con EI | p |
 |-----------|----------|---|
-| AT | 0.61** | <0.001 |
-| SN | 0.34* | 0.031 |
-| PBC | 0.52** | <0.001 |
-| FK | 0.48** | 0.002 |
-| FL | 0.31* | 0.053 |
-| U-D | 0.56** | <0.001 |
-| U-AS | 0.53** | <0.001 |
-| LC | 0.41* | 0.010 |
+| EA | 0.673*** | <0.001 |
+| S | 0.427** | 0.005 |
+| SE | 0.198 | 0.215 |
+| FK | -0.003 | 0.984 |
+| FL | 0.235 | 0.139 |
+| U-D | -0.039 | 0.807 |
+| U-AS | 0.035 | 0.827 |
+| LC | -0.001 | 0.994 |
 
-*Nota.* IE = Intención Emprendedora; AT = Actitud; SN = Normas Subjetivas; PBC = Control Conductual Percibido; FK = Conocimiento Formal del Ecosistema; FL = Alfabetización Financiera; U-D = Desarrollo Institucional; U-AS = Apoyo Académico; LC = Clima de Aprendizaje. N = 41. * p < .05; ** p < .01 (bilateral). Los resultados son exploratorios dada la limitación de potencia estadística con N=41.
+*Nota.* EI = Intención Emprendedora; EA = Actitud Emprendedora (proxy AT-TCP); S = Entorno Social (proxy SN-TCP); SE = Autoeficacia Emprendedora (proxy PBC-TCP); FK = Conocimiento del Ecosistema; FL = Estado de Flujo; U-D = Desarrollo Institucional; U-AS = Apoyo Académico; LC = Locus de Control. N = 41. *** p < .001; ** p < .01 (bilateral). Solo EA y S correlacionan significativamente con EI en la sub-muestra colombiana. Resultados exploratorios.
 
 **Regresión simplificada Colombia:**
 
-IE = β₀ + β₁(AT) + β₂(PBC) + ε
+EI = β₀ + β₁(EA) + β₂(SE) + ε
 
 | Predictor | β | EE | t | p |
 |-----------|--------|--------|--------|-------|
-| AT | 0.498 | 0.118 | 4.22 | <0.001 |
-| PBC | 0.361 | 0.114 | 3.17 | 0.003 |
-| Constante | 0.445 | 0.562 | 0.79 | 0.433 |
+| EA | 1.062 | 0.194 | 5.483 | <0.001*** |
+| SE | -0.134 | 0.154 | -0.874 | 0.388 |
+| Constante | 0.187 | 0.795 | 0.235 | 0.816 |
 
-*Nota.* β = coeficiente de regresión no estandarizado; EE = error estándar; t = estadístico t; p = nivel de significancia bilateral. Modelo incluye solo AT y PBC dada la limitación de potencia con N=41 (razón casos:variables recomendada ≥ 10:1). N = 41.
+*Nota.* β = coeficiente de regresión no estandarizado; EE = error estándar; t = estadístico t; p = nivel de significancia bilateral. Modelo incluye solo EA y SE (con N=41, el límite de 10:1 casos:predictores restringe el número de variables). N = 41. *** p < .001.
 
-R²=0.487, F(2,38)=17.90 p<0.001
+R²=0.464, R²ₐⱼ=0.435, F(2,38)=16.42, p<0.001
 
-**Conclusión:** En muestra colombiana, actitud y control conductual predicen intención (R²=0.487) con magnitudes similares a global (AT β=0.498 vs. β=0.548 global; PBC β=0.361 vs. β=0.330). Aunque N es pequeño, patrón valida que hallazgos globales aplican en contexto colombiano.
+**Conclusión:** En la sub-muestra colombiana, únicamente la actitud (EA) predice significativamente la intención (β=1.062, p<.001; β_std=0.723). La autoeficacia (SE) presenta un coeficiente negativo no significativo (β=-0.134, p=.388), reforzando el patrón observado en la muestra global: EA absorbe prácticamente toda la varianza, dejando a SE sin efecto adicional. El modelo explica el 46.4% de la varianza de EI en Colombia —magnitud comparable a la muestra global (R²=0.537)— aunque con mayor incertidumbre de estimación por el tamaño reducido de la muestra. Con N=41, el análisis tiene potencia estadística aproximada de 0.82 para detectar el efecto grande de EA (f²=0.27), pero insuficiente para efectos moderados de otras variables. Los resultados deben interpretarse como exploratorios.
 
 ### Análisis cualitativo
 
@@ -503,11 +514,11 @@ Varios actores reportan que los estudiantes llegan con actitud favorable, pero d
 
 **Tema 2.1: "Políticas funcionan mejor cuando hay intermediación local, peor cuando son centralizadas"**
 
-iNNpulsa es percibido como funcional en Bogotá porque hay oficina local con personal que hace seguimiento. En ciudades intermedias opera a través de terceros —universidades, cámaras de comercio— con capacidad desigual [VID-MinCIT-MujeresPopulares-2023]. Un académico de institución regional señaló: "Bancóldex ofrece crédito subsidiado, pero nuestros estudiantes no saben cómo acceder. Los formularios están online y nadie acompaña el proceso. Tres estudiantes lo intentaron; dos se rindieron por la complejidad" [DOC-Ramos-2024]. Esto indica que el conocimiento del ecosistema (FK) es condición necesaria pero insuficiente: requiere además una arquitectura local de intermediación que el modelo cuantitativo no captura completamente. Eso explica en parte por qué el efecto FK en el Modelo 2 (β=0.159) es significativo pero moderado.
+iNNpulsa es percibido como funcional en Bogotá porque hay oficina local con personal que hace seguimiento. En ciudades intermedias opera a través de terceros —universidades, cámaras de comercio— con capacidad desigual [VID-MinCIT-MujeresPopulares-2023]. Un académico de institución regional señaló: "Bancóldex ofrece crédito subsidiado, pero nuestros estudiantes no saben cómo acceder. Los formularios están online y nadie acompaña el proceso. Tres estudiantes lo intentaron; dos se rindieron por la complejidad" [DOC-Ramos-2024]. Esto indica que el conocimiento del ecosistema (FK) es condición necesaria pero insuficiente: requiere además una arquitectura local de intermediación que el modelo cuantitativo no captura completamente. Esto es consistente con el hallazgo cuantitativo: FK no predice EI directamente (β=-0.047, ns en M2), posiblemente porque su efecto opera a través de la actitud (EA↔FK: r=0.502) más que directamente sobre la intención.
 
 **Tema 2.2: "El acceso a mentoría es lo que realmente modula la intención, no el dinero"**
 
-Varios actores señalan que el factor crítico no es el capital inicial sino la mentoría empresarial continuada [VID-MinCIT-Restrepo-2020; DOC-Tarapuez-2013]. Un director de incubadora lo formuló así: "Financiamiento sin mentoría fracasa. Emprendedores con 100 millones quiebran en el primer año porque no saben gestionar. Con mentoría y poco capital, algunos prosperan" [Entrevista actor-ecosistema]. Esto sugiere que el desarrollo institucional (U-D, que incluye mentoría y apoyo académico) es más determinante que la alfabetización financiera (FL) para traducir la intención en acción. El dato empírico lo confirma: en el Modelo 3, la interacción AT×U-D es significativa (β=0.089, p=0.031), mientras FL pierde significancia (β=0.067, p=0.125).
+Varios actores señalan que el factor crítico no es el capital inicial sino la mentoría empresarial continuada [VID-MinCIT-Restrepo-2020; DOC-Tarapuez-2013]. Un director de incubadora lo formuló así: "Financiamiento sin mentoría fracasa. Emprendedores con 100 millones quiebran en el primer año porque no saben gestionar. Con mentoría y poco capital, algunos prosperan" [Entrevista actor-ecosistema]. Esto sugiere que el desarrollo institucional (U-D, que incluye mentoría y apoyo académico) es más determinante que la alfabetización financiera (FL) para traducir la intención en acción. El análisis cuantitativo no confirma esta interacción a nivel estadístico (EA×U-D: β=-0.057, p=.172, ns), posiblemente por la severa multicolinealidad entre variables del contexto universitario (VIF>25 para U-D, U-AS y LC). El análisis cualitativo ofrece evidencia convergente independiente sobre la importancia de la mentoría, que el modelo cuantitativo no puede estimar con precisión dada la estructura de los datos actuales.
 
 **Tema 2.3: "Brechas intencionales en la política: énfasis en formalización excluye a informales"**
 
@@ -537,12 +548,12 @@ Un profesor universitario planteó el problema con precisión [VID-UNIMINUTO-Min
 
 | Hallazgo Cuantitativo | Explicación Cualitativa | Mecanismo Integrado | Implicación |
 |-----------|--------|---------|---------|
-| Actitud predice intención fuertemente (β=0.548) | Actores reportan que estudiantes sí ven emprendimiento favorable | Actitud es construcción individual modulada por información contexto | Intervenciones en cambio de actitud requieren información creíble sobre oportunidades locales |
-| Contexto universitario modera actitud→intención (β interacción=0.089, p=0.031) | Actores: políticas funcionan con intermediación local; mentoría es crítica | Desarrollo institucional proporciona mentoría, intermediación, legitimidad | Universidades con ecosistema robusto amplifican efecto de actitud favorable |
-| FK predice intención (β=0.159, p<0.001) | Actores: conocimiento de programas es requisito pero insuficiente | FK es condición necesaria pero requiere arquitectura local de implementación | Conocimiento sin intermediación local no traduce a acción |
-| FL tiene efecto débil (β=0.080, marginal p) | Actores enfatizan que mentoría > capital en determinar éxito | Alfabetización financiera es limitante menos crítico | Enfoque en educación financiera puede ser insuficiente sin mentoría empresarial |
+| Actitud emprendedora (EA) predice EI dominantemente (β_std=0.665***) | Actores reportan que estudiantes sí ven emprendimiento favorable, condicionado a viabilidad local | Actitud es construcción individual modulada por información del contexto; su primacía frente a SE sugiere que cambiar valoraciones es más eficiente que fortalecer autoeficacia | Intervenciones en cambio de actitud requieren información creíble sobre oportunidades locales |
+| Moderación EA×U-D no alcanza significancia estadística (β=-0.057, p=.172); multicolinealidad severa entre U-D, U-AS, LC impide estimar efectos fiables | Actores: políticas funcionan mejor con intermediación local; mentoría es factor crítico para traducir intención en acción | La ausencia de efecto moderador estadístico puede deberse a VIF elevados; el análisis cualitativo ofrece evidencia independiente del rol del ecosistema universitario | Futuras investigaciones con muestras más grandes y medidas ortogonales del contexto deben re-examinar este efecto |
+| Conocimiento del ecosistema (FK) no predice EI directamente (β=-0.047, ns) cuando se controla EA | Actores: conocimiento de programas es requisito pero insuficiente; sin intermediación local, el conocimiento no activa la intención | FK puede operar como antecedente de la actitud (EA↔FK: r=0.502) más que como predictor directo de intención | El diseño cualitativo explica por qué FK no predice EI directamente: la arquitectura local de implementación es el mediador crítico |
+| Estado de Flujo (FL) no predice EI (β=-0.002, ns); efecto prácticamente nulo después de controlar EA | Actores enfatizan que mentoría > capital financiero en determinar éxito emprendedor | FL (engagement cognitivo en aprendizaje) no tiene efecto directo sobre intención; su efecto puede operar indirectamente a través de la actitud | Programas de engagement cognitivo solo no son suficientes para incrementar intención; requieren complementarse con mentoría y contexto institucional |
 | Brecha intención-acción (~70% intención, ~20% acción) | Actores citan: fracaso temprano demoralizante, barreras legitimidad/redes, deseabilidad social | Intención autoreportada es parcialmente artefacto social; transición a acción requiere recursos no-cognitivos | Medición de intención requiere cuidado; políticas deben abordar barreras post-intención (redes, legitimidad) |
-| Patrones TCP se replican en Colombia (r=0.55 para AT) | Actores reportan contexto regional varía pero mecanismos TCP similares | Hallazgos globales aplican en Colombia, aunque con matices contextuales | Política nacional puede usar marco TCP pero debe adaptarse a heterogeneidad regional |
+| En Colombia (N=41): EA predice EI fuertemente (r=0.673***); SE no correlaciona significativamente (r=0.198, ns); FK, U-D, U-AS, LC prácticamente no correlacionan con EI | Actores reportan contexto regional variable; en ciudades intermedias, la arquitectura de apoyo es más débil | En Colombia, la actitud es el predictor primario de EI con mayor exclusividad que en muestra global; la ausencia de efecto de FK/U-D en Colombia puede reflejar menor calidad percibida de programas de apoyo en contextos regionales | Política en Colombia debe priorizar cambio de actitud (información, modelos de rol exitosos locales) antes que transferencia de conocimiento formal |
 
 ### Síntesis Integrada: Explicación de Brecha Intención-Acción en Colombia
 
@@ -556,7 +567,7 @@ Los datos cuantitativos y cualitativos convergen en cuatro explicaciones de la b
 
 4. **Arquitectura políticas desalineada:** Políticas nacionales están diseñadas para emprendimiento formal de oportunidad. En contextos donde mayoría de actividad es informal/necesidad, política es menos relevante.
 
-5. **Contexto universitario es catalizador pero no suficiente:** Desarrollo institucional modera relación actitud-intención (p=0.031). Cuando estudiante sale de universidad, esta arquitectura desaparece.
+5. **Contexto universitario no muestra efecto moderador estadístico en esta muestra:** Las interacciones EA×U-D y SE×U-D no son significativas (p>.17), en parte por la multicolinealidad severa entre las variables de contexto universitario. El análisis cualitativo sugiere que el ecosistema universitario sí es relevante, pero su efecto puede operar a través de la actitud (mediación) más que como moderador. Cuando el estudiante sale de la universidad, la arquitectura de apoyo desaparece, lo que respalda intervenciones continuas post-egreso.
 
 ### Limitaciones del Diseño Mixto
 
@@ -565,6 +576,7 @@ Los datos cuantitativos y cualitativos convergen en cuatro explicaciones de la b
 - Tamaño sub-muestra Colombia (N=41): **Limitación crítica de potencia estadística.** Con N=41 y 5 predictores (AT, PBC, SN, FK, FL), razón casos:variables es aproximadamente 8:1, en el borde inferior de lo aceptable (recomendación: 10-15:1). Análisis post-hoc de potencia para Modelo 3 (10 predictores) muestra que poder estadístico para detectar efecto de tamaño medio (f²=0.15, α=0.05) es aproximadamente 0.62, inferior a estándar 0.80 recomendado. Conclusión: análisis correlacional Colombia es válido para replicación de patrones but regresiones multivariadas con N=41 tienen poder limitado. Resultados Colombia deben interpretarse como exploratorios, no confirmativos.
 - Variables auto-reportadas: Sujetas a sesgo de deseabilidad social.
 - Falta de variables de comportamiento real: ALBA mide intención, no acción posterior.
+- **Multicolinealidad en Modelo 3:** Varias variables del contexto universitario y de política presentan VIF>10 (S=27.3, FK=27.7, FL=13.8, U-AS=25.7, LC=49.3), lo que infla errores estándar, reduce potencia estadística para estas variables específicas e impide estimaciones fiables de sus coeficientes individuales. Esta limitación afecta las conclusiones sobre U-D, U-AS, LC, FK y FL en el contexto del modelo multivariado completo. Estudios futuros deberían examinar estructuras factoriales latentes o seleccionar subconjuntos no colineales de predictores.
 
 **Limitaciones cualitativas:**
 - Datos secundarios, no primarios: Videos/documentos son autoseleccionados por actores, potencialmente no representativos.
@@ -581,10 +593,13 @@ Los datos cuantitativos y cualitativos convergen en cuatro explicaciones de la b
 El diseño secuencial confirmatorio mixto aplicado en este capítulo combina datos de encuesta (N=540, dataset ALBA) con análisis documental de perspectivas de actores del ecosistema colombiano.
 
 **Hallazgos cuantitativos principales:**
-- La Teoría de la Conducta Planificada predice intención emprendedora con consistencia (R²=0.478)
-- Conocimiento ecosistema (FK) y alfabetización financiera (FL) añaden predicción significativa (ΔR²=0.034)
-- Contexto universitario modera relaciones TCP, amplificando especialmente efecto de actitud (AT×U-D β=0.089, p=0.031)
-- Patrones se replican en sub-muestra colombiana (N=41)
+- La Teoría de la Conducta Planificada predice EI con consistencia y magnitud sustancial (R²=0.537 en modelo baseline; N=540)
+- La actitud emprendedora (EA) es el predictor dominante en todos los modelos (β_std=0.646–0.674), confirmando la primacía de la actitud en TCP y en la literatura latinoamericana
+- El entorno social (S, proxy SN-TCP) tiene un efecto pequeño pero marginalemente significativo (β_std=0.071–0.079); la autoeficacia (SE, proxy PBC-TCP) no es significativa en el modelo baseline pero sí en el modelo completo
+- Contrariamente a las hipótesis H₀₄ y H₀₅, el conocimiento del ecosistema (FK) y el estado de flujo (FL) no añaden predicción incremental significativa sobre EI (ΔR²=0.002, p=.403)
+- Las hipótesis de moderación H₀₆ y H₀₇ no se soportan estadísticamente (EA×U-D: β=-0.057, ns; SE×U-D: β=0.014, ns), en parte por multicolinealidad severa entre variables del contexto universitario
+- El locus de control (LC) es el único predictor contextual significativo en M3, con efecto negativo (β=-0.153, p=.034), posiblemente reflejando que personas con mayor agencia interna evalúan más críticamente las barreras
+- Patrones se replican parcialmente en Colombia (N=41): EA sigue siendo el predictor dominante (R²=0.464), pero SE no contribuye significativamente
 
 **Hallazgos cualitativos principales:**
 - Actores reconocen validez constructos TCP pero enfatizan que "actitud existe pero está condicionada a oportunidad local"

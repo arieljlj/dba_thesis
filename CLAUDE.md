@@ -64,7 +64,7 @@ data/
 │   ├── interviews_actors_extended_20260331.json    # Entrevistas actores ecosistema
 │   └── youtube_actors_entrepreneurship_20260401.json  # Datos YouTube
 └── processed/
-    └── survey_data_2026.csv   # Dataset ALBA 2026 — encuesta IE
+    └── survey_data_2026.csv   # Dataset ALBA 2025 — encuesta IE
 
 code/
 ├── scraping/    # Scripts de recolección de datos (Python)

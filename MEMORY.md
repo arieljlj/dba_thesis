@@ -13,7 +13,7 @@ de diseño importantes. Los agentes leen esto al inicio de cada tarea.
 **Institución docente:** COTECNOVA, Cartago, Valle del Cauca, Colombia  
 **Tema central:** Factores que determinan la intención emprendedora en estudiantes universitarios colombianos y el rol de las políticas públicas  
 **Marco teórico principal:** Teoría del Comportamiento Planificado (Ajzen, 1991)  
-**Metodología:** Mixta — cuantitativa (ALBA 2026) + cualitativa (entrevistas YouTube)
+**Metodología:** Mixta — cuantitativa (ALBA 2025) + cualitativa (entrevistas YouTube)
 
 ---
 

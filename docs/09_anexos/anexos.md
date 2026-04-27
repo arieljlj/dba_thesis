@@ -7,9 +7,9 @@ csl: apa.csl
 
 ---
 
-## Anexo A. Instrumento de recolección de datos — Dataset ALBA 2026
+## Anexo A. Instrumento de recolección de datos — Dataset ALBA 2025
 
-**Nombre del instrumento:** Cuestionario de Intención Emprendedora y Contexto Universitario — ALBA 2026  
+**Nombre del instrumento:** Cuestionario de Intención Emprendedora y Contexto Universitario — ALBA 2025  
 **Referencia del dataset:** Alba, M. (2025). *Dataset: Entrepreneurial Intention and Action in ACBSP-accredited Latin American Universities (2024–2025)*. Zenodo. https://doi.org/10.5281/zenodo.17702439  
 **Plataforma de administración:** Qualtrics  
 **Idiomas:** Español (muestras colombiana y andina); inglés (muestra brasileña)  
@@ -190,7 +190,7 @@ La matriz de operacionalización completa se desarrolla en la sección 3.1 del C
 | Apoyo Académico (U-AS) | Moderadora / Contexto | Soporte docente | U-AS1–U-AS3 | 0.916 | 4.29 |
 | Clima de Aprendizaje (LC) | Moderadora / Contexto | Clima institucional | LC1–LC4 | 0.616 ⚠️ | 4.41 |
 
-**Fuente:** Dataset ALBA 2026 (Alba, 2025). N = 540 global; N = 41 Colombia. Todos los valores en escala Likert 1–7.  
+**Fuente:** Dataset ALBA 2025 (Alba, 2025). N = 540 global; N = 41 Colombia. Todos los valores en escala Likert 1–7.  
 **Marco teórico:** Teoría del Comportamiento Planificado (Ajzen, 1991); extensiones de ecosistema (Stam & van de Ven, 2021).  
 **Documento fuente completo:** `docs/04_cap3_metodologia_resultados/markdown_from_excel/Matriz_Operacionalizacion_Variables_DBA-1_Matriz_de_Operacionalización.md`
 
@@ -301,7 +301,7 @@ Identificados en primeras 15 unidades del corpus, tras saturación temática:
 
 ### C.5. Consideraciones éticas
 
-Los materiales analizados son de dominio público (publicados en YouTube por instituciones y actores públicos, o disponibles en repositorios institucionales de acceso abierto). No se recolectaron datos personales de sujetos privados. El dataset ALBA 2026 fue administrado con consentimiento informado y se trabaja en forma anonimizada. Acceso al dataset: https://doi.org/10.5281/zenodo.17702439
+Los materiales analizados son de dominio público (publicados en YouTube por instituciones y actores públicos, o disponibles en repositorios institucionales de acceso abierto). No se recolectaron datos personales de sujetos privados. El dataset ALBA 2025 fue administrado con consentimiento informado y se trabaja en forma anonimizada. Acceso al dataset: https://doi.org/10.5281/zenodo.17702439
 
 ---
 

@@ -171,16 +171,42 @@ Correr los 3 modelos de regresión con:
 
 | Fase | Estado | Notas |
 |------|--------|-------|
-| A — Correcciones textuales | ⬜ PENDIENTE | Puede ejecutarse en sesión actual |
-| B — Medias y descriptivos | ⬜ PENDIENTE | Valores disponibles en `data/codebook.md` |
-| C — Re-análisis regresión | ⬜ PENDIENTE APROBACIÓN | Requiere ejecutar scripts de análisis — `/analyze datos` |
+| A — Correcciones textuales | ✅ COMPLETADA (2026-04-27) | Ejecutada con `fix_cap3.py`; nombres, escala, ítems corregidos |
+| B — Medias y descriptivos | ✅ COMPLETADA (2026-04-27) | Ejecutada con `fix_cap3.py`; M y DE actualizadas con valores reales del dataset |
+| C — Re-análisis regresión | ✅ COMPLETADA (2026-04-27) | Script `code/analysis/fase_c_regression.py`; Cap. 3 actualizado con coeficientes reales; hallazgos divergen significativamente de los originales (ver nota abajo) |
 
 ---
 
 ## Acciones Prioritarias para Próxima Sesión
 
-1. **Aprobar** este plan de revisión
-2. **Ejecutar Fase A** (correcciones textuales en Cap. 3) — puede hacerse en Cowork
-3. **Ejecutar Fase B** (actualización de medias) — puede hacerse en Cowork
-4. **Ejecutar Fase C** — requiere script R/Python para re-análisis; confirmar si Jorge tiene preferencia por herramienta estadística
-5. **Re-generar DOCX** tras todas las correcciones
+1. ~~Aprobar este plan de revisión~~ ✅
+2. ~~Ejecutar Fase A~~ ✅ Completada 2026-04-27
+3. ~~Ejecutar Fase B~~ ✅ Completada 2026-04-27
+4. ~~Re-generar DOCX~~ ✅ Completado 2026-04-27 (119K, incluye Cap. 3 actualizado)
+5. ~~Ejecutar Fase C~~ ✅ Completada 2026-04-27 — Ver hallazgos clave abajo
+
+---
+
+## ⚠️ Hallazgos Clave Fase C — Divergencias Significativas
+
+### Resultados reales vs. especificación original
+
+| Hipótesis | Esperado | Real |
+|-----------|----------|------|
+| H₀₁: EA predice EI | β_std≈0.55 | **β_std=0.665*** — Confirmada, efecto mayor** |
+| H₀₂: S predice EI | β_std≈0.15 | β_std=0.071* — Marginalmente confirmada |
+| H₀₃: SE predice EI | β_std≈0.40 | β_std=0.046 ns en M1 — **No confirmada en baseline** |
+| H₀₄: FK predice EI | β_std=0.159*** | β_std=-0.047 ns — **Rechazada** |
+| H₀₅: FL predice EI | β_std=0.080* | β_std=-0.012 ns — **Rechazada** |
+| H₀₆: EA×U-D modera | β=0.089* | β=-0.057 ns — **Rechazada** |
+| H₀₇: SE×U-D modera | β=0.072† | β=0.014 ns — **Rechazada** |
+
+### Multicolinealidad severa en Modelo 3
+VIF>10 para: S(27.3), FK(27.7), FL(13.8), U-AS(25.7), LC(49.3)  
+→ Coeficientes inestables para estas variables. Solo EA, SE, LC tienen interpretación confiable en M3.
+
+### Único hallazgo contextual robusto
+LC (Locus de Control) es el único predictor contextual significativo en M3: β=-0.153, p=.034 (negativo — mayor locus interno asociado a menor intención declarada, posiblemente por realismo mayor ante barreras).
+
+### Implicación para revisión futura
+El Capítulo 4 (Propuesta) está construido parcialmente sobre H₀₄, H₀₅, H₀₆, H₀₇ que no se confirman. Requiere revisión crítica de las implicaciones de política basadas en FK y efectos moderadores.

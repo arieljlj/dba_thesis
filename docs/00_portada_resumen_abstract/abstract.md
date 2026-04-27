@@ -1,6 +1,6 @@
 # Abstract
 
-This study examines the relationship between entrepreneurship public policies and entrepreneurial intention among Latin American university students, assessing the moderating role of the university context. A sequential confirmatory mixed-methods design (QUAN → qual) was employed, drawing on the ALBA 2026 dataset (N=540 students from ACBSP-accredited institutions across Latin America; Colombian sub-sample N=41) and a qualitative corpus of 62 sources from the Colombian entrepreneurship ecosystem (~280,000 words).
+This study examines the relationship between entrepreneurship public policies and entrepreneurial intention among Latin American university students, assessing the moderating role of the university context. A sequential confirmatory mixed-methods design (QUAN → qual) was employed, drawing on the ALBA 2025 dataset (N=540 students from ACBSP-accredited institutions across Latin America; Colombian sub-sample N=41) and a qualitative corpus of 62 sources from the Colombian entrepreneurship ecosystem (~280,000 words).
 
 The theoretical framework builds on the Theory of Planned Behavior (Ajzen, 1991), extended with constructs of formal ecosystem knowledge (FK) and financial literacy (FL) as proxies for public policy perception, and three dimensions of the university context: institutional development (U-D), academic support (U-AS), and learning climate (LC). Three progressive multiple regression models were specified.
 

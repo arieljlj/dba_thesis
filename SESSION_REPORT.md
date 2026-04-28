@@ -380,3 +380,55 @@
   - Crear commits de Cap. 4
   - Planificar próximos pasos (conclusiones, recomendaciones, defensa)
 
+
+## 2026-04-27 23:55 — Fase C Regresión + Enmiendas Cap. 4 + Corrección Cross-Documento
+
+**Operaciones:**
+- Ejecutado `fix_cap3.py`: correcciones Fase A (nombres variables, escala 1–5) + Fase B (medias reales del dataset)
+- Ejecutado `fase_c_regression.py`: 3 modelos OLS con numpy arrays (workaround statsmodels 0.14.6); R²=0.537
+- Ejecutado `fix_cap3_fase_c.py`: actualización completa de sección 3.4 con coeficientes reales (correlaciones, M1/M2/M3, VIF, Colombia, triangulación, conclusiones, limitaciones)
+- Revisión writer-critic de Cap. 4 post-Fase C → score 64/100 pre-enmiendas
+- Aplicadas Enmiendas A–F a Cap. 4 Sección 4.1: corrección R², FK, moderación, U-AS/FL, "68%"→"66.9%", eliminación notas internas → score 83/100
+- Corregidos Resumen, Abstract y nota H2 del Cap. 1 con valores estadísticos reales
+- Insertadas referencias Nabi et al. (2017) y Frese et al. (2016) en `referencias_apa.md`
+- Regenerado `Tesis_DBA_Loaiza_2026.docx` (142K) con todos los capítulos completos
+
+**Decisiones:**
+- FK y FL se reencuadran como antecedentes de actitud, no predictores directos de IE — argumento cuantitativo convertido en argumento a favor del modelo de intermediación local
+- H2 (moderación del contexto universitario) no se confirma estadísticamente; se sostiene vía evidencia cualitativa
+- Multicolinealidad severa en M3 (VIF>25) declarada explícitamente; inferencias restringidas a EA, SE y LC en M3
+- LC (Locus de Control) es el único predictor contextual significativo: β=−0.153, p=.034
+- Cap. 4 mantiene validez propositiva; su fundamentación migró de cuantitativa a mixta (cualitativa+cuantitativa honesta)
+
+**Archivos modificados:**
+- `docs/04_cap3_metodologia_resultados/01_capitulo_3.md` — Fases A+B+C completas (69K)
+- `docs/05_cap4_propuesta_transformacion/01_capitulo_4.md` — Enmiendas A–F en Sección 4.1
+- `docs/00_portada_resumen_abstract/resumen.md` — Valores estadísticos reales
+- `docs/00_portada_resumen_abstract/abstract.md` — Valores estadísticos reales (EN)
+- `docs/02_cap1_proyeccion_investigacion/01_capitulo_1.md` — Nota H2 corregida
+- `docs/08_bibliografia/referencias_apa.md` — +Nabi et al. 2017, +Frese et al. 2016
+- `Tesis_DBA_Loaiza_2026.docx` — DOCX completo regenerado (142K)
+
+**Archivos creados (code/analysis/):**
+- `code/analysis/fase_c_regression.py` — OLS con numpy arrays, 3 modelos + Colombia
+- `code/analysis/fix_cap3_fase_c.py` — Script de sustitución masiva en Cap. 3
+- `quality_reports/2026-04-27_review_cap4_writer-critic.md` — Revisión formal Cap. 4
+- `quality_reports/plans/2026-04-27_revisiones-cap3-variables.md` — Actualizado: A+B+C ✅
+
+**Resultados clave (Fase C):**
+- M1 TCP: R²=0.537; EA β_std=0.665***, S β_std=0.071*, SE β_std=0.046 ns
+- M2 +políticas: ΔR²=0.002 ns; FK β=−0.047 ns, FL β=−0.002 ns
+- M3 +moderación: ΔR²=0.007 ns; EA×U-D β=−0.057 ns; LC β=−0.153* (único predictor contextual significativo)
+- VIF severo M3: S(27.3), FK(27.7), FL(13.8), U-AS(25.7), LC(49.3)
+
+**Scores:**
+- Cap. 3: 88/100 (post-Fase C, pendiente revisión formal post-corrección)
+- Cap. 4: 64/100 → 83/100 post-enmiendas (apto director ≥80; pendiente comité ≥90)
+
+**Estado:**
+- ✅ Todos los capítulos redactados contienen estadísticos reales y consistentes entre sí
+- ✅ DOCX completo y correcto (portada→resumen→abstract→C1→C2→C3→C4→conclusiones→recomendaciones→referencias→anexos)
+- ⏳ Pendiente: revisión writer-critic formal de Cap. 3 post-Fase C
+- ⏳ Pendiente: llevar Cap. 4 de 83→90 (enmiendas Tier 2 opcionales)
+- ⏳ Pendiente: revisión Cap. 1 (nota H2 corregida hoy; evaluar si H1b merece actualización narrativa)
+- ⏳ Pendiente: commit git con todos los cambios
